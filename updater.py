@@ -53,8 +53,6 @@ def fetch_and_convert():
 
             if s.get("referer"):
                 headers.append(f"Referer={s['referer'].strip()}")
-            if s.get("user_agent"):
-                headers.append(f"User-Agent={s['user_agent'].strip()}")
             if s.get("cookie"):
                 headers.append(f"Cookie={s['cookie'].strip()}")
 
