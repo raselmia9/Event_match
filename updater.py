@@ -46,10 +46,17 @@ def fetch_and_convert():
             cname = s.get("channel_name", "").strip()
 
             headers = []
+            kid = s.get("kid", "").strip()
+            key = s.get("key", "").strip()
+            if kid and key:
+                headers.append(f"drmScheme=clearkey&drmLicense={kid}:{key}")
+
             if s.get("referer"):
-                headers.append(f"Referer={s['referer']}")
+                headers.append(f"Referer={s['referer'].strip()}")
             if s.get("user_agent"):
-                headers.append(f"User-Agent={s['user_agent']}")
+                headers.append(f"User-Agent={s['user_agent'].strip()}")
+            if s.get("cookie"):
+                headers.append(f"Cookie={s['cookie'].strip()}")
 
             header_str = ("|" + "|".join(headers)) if headers else ""
             stream_parts.append(f"{cname},,{url}{header_str}")
