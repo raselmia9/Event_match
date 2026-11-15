@@ -56,7 +56,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
         "team1Title": "ABU DHABI T10 LEAGUE",
         "team2Title": "ABU DHABI T10 LEAGUE",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd|drmScheme=clearkey&drmLicense=c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd|drmScheme=clearkey&drmLicense=0746588cbf8ac03b65207fb487d8a65d:01db21ef36ef2c010efc6c32b9ccf412,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
         "isHot": true
     },
     {
@@ -130,16 +130,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Liga F Moeve",
-        "matchTime": "2026-11-15 17:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/253896/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/861598/image",
-        "team1Title": "Madrid CFF",
-        "team2Title": "Logroño United",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/HMMM.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HMMM.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Serie A Women",
         "matchTime": "2026-11-15 17:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/269819/image",
@@ -170,16 +160,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Liga F Moeve",
-        "matchTime": "2026-11-15 17:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/77897/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/77877/image",
-        "team1Title": "Real Sociedad",
-        "team2Title": "Athletic Club",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/HMMMA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HMMMA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Friendly Match",
         "matchTime": "2026-11-15 19:00:00",
         "team1Logo": "j",
@@ -197,6 +177,16 @@
         "team1Title": "NFL STREAM",
         "team2Title": "NFL STREAM",
         "streamLink": "Link 1,,https://chatgpt.hereisman.net/playlist/54923/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Scottish Women's Premier League",
+        "matchTime": "2026-11-15 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/36720/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/483836/image",
+        "team1Title": "Glasgow City LFC",
+        "team2Title": "Montrose FC",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/HMMMAAAAAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/HMMMAAAAAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -247,7 +237,7 @@
         "team1Title": "Detroit Lions",
         "team2Title": "New England Patriots",
         "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60146/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) NFL SERVER 2,,https://chatgpt.hereisman.net/playlist/60144/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) NFL SERVER 3,,https://chatgpt.hereisman.net/playlist/60145/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/K555AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NFL",
@@ -1090,6 +1080,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-15 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/253896/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/861598/image",
+        "team1Title": "Madrid CFF",
+        "team2Title": "Logroño United",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/HMMM.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HMMM.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "RUGBY | World Cup",
         "matchTime": "2026-11-15 14:35:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/24235/image",
@@ -1107,6 +1107,16 @@
         "team1Title": "Australia",
         "team2Title": "New Zealand",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-15 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/77897/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/77877/image",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Athletic Club",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/HMMMA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HMMMA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
