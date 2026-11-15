@@ -50,6 +50,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
+        "matchTime": "2026-11-15 17:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team1Title": "ABU DHABI T10 LEAGUE",
+        "team2Title": "ABU DHABI T10 LEAGUE",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd|drmScheme=clearkey&drmLicense=c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | Women's Big Bash League",
         "matchTime": "2026-11-15 06:00:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
@@ -86,6 +96,16 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/861598/image",
         "team1Title": "Madrid CFF",
         "team2Title": "Logroño United",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/HMMM.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HMMM.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A Women",
+        "matchTime": "2026-11-15 17:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/269819/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/492465/image",
+        "team1Title": "Sassuolo",
+        "team2Title": "Ternana",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
@@ -107,6 +127,16 @@
         "team1Title": "South Africa",
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd|drmScheme=clearkey&drmLicense=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd|drmScheme=clearkey&drmLicense=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-15 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/77897/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/77877/image",
+        "team1Title": "Real Sociedad",
+        "team2Title": "Athletic Club",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/HMMMA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HMMMA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -148,16 +178,6 @@
         "team2Title": "Monday Night RAW",
         "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE RAW+ HD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE RAW+ HD 2,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE RAW ATL,,https://admin2.formaturamaxi.com.br/wwealt.m3u8,) WWE HD,,https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://embedcenter.st/",
         "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
-        "matchTime": "2026-11-15 17:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team1Title": "ABU DHABI T10 LEAGUE",
-        "team2Title": "ABU DHABI T10 LEAGUE",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd|drmScheme=clearkey&drmLicense=c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
-        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NFL",
@@ -540,16 +560,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | Serie A Women",
-        "matchTime": "2026-11-15 17:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/269819/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/492465/image",
-        "team1Title": "Sassuolo",
-        "team2Title": "Ternana",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
         "matchTime": "2026-11-16 02:15:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/511206/image",
@@ -787,6 +797,16 @@
         "team1Title": "Internacional",
         "team2Title": "Flamengo",
         "streamLink": "SPORTV2 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Friendly Match",
+        "matchTime": "2026-11-15 19:00:00",
+        "team1Logo": "j",
+        "team2Logo": "k",
+        "team1Title": "Ajax Legends",
+        "team2Title": "FC Barcelona Legends",
+        "streamLink": "Link 1,,http://193.47.62.44/hls/F111.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
