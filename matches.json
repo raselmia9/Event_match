@@ -130,16 +130,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "Premiership Rugby Cup",
-        "matchTime": "2026-11-15 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4193/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4197/image",
-        "team1Title": "Leicester Tigers",
-        "team2Title": "Saracens",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "isHot": true
-    },
-    {
         "eventTitle": "RUGBY | Nations Championship",
         "matchTime": "2026-11-15 21:10:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4230/image",
@@ -170,13 +160,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "AMERICAN FOOTBALL | NFL STREAM",
+        "eventTitle": "AMERICAN FOOTBALL | NFL REDZONE",
         "matchTime": "2026-11-15 18:00:00",
-        "team1Logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "team2Logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "team1Title": "NFL STREAM",
-        "team2Title": "NFL STREAM",
-        "streamLink": "Link 1,,https://chatgpt.hereisman.net/playlist/54923/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "team1Title": "NFL REDZONE",
+        "team2Title": "NFL REDZONE",
+        "streamLink": "SERVER 1,,https://chatgpt.hereisman.net/playlist/60152/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 2,,https://chatgpt.hereisman.net/playlist/60153/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 3,,https://chatgpt.hereisman.net/playlist/60154/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://chatgpt.hereisman.net/playlist/54923/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -407,7 +397,7 @@
         "team1Title": "Suriname",
         "team2Title": "Eswatini",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
@@ -417,7 +407,7 @@
         "team1Title": "Belarus",
         "team2Title": "Albania",
         "streamLink": "BEIN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) SPORT1 CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
@@ -427,7 +417,7 @@
         "team1Title": "Finland",
         "team2Title": "San Marino",
         "streamLink": "BeIN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
@@ -507,7 +497,7 @@
         "team1Title": "Real Club Deportivo de A Coruña",
         "team2Title": "Fútbol Club Barcelona",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga F Moeve",
@@ -857,6 +847,16 @@
         "team1Title": "Sassuolo",
         "team2Title": "Ternana",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "Premiership Rugby Cup",
+        "matchTime": "2026-11-15 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4193/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4197/image",
+        "team1Title": "Leicester Tigers",
+        "team2Title": "Saracens",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": false
     },
     {
