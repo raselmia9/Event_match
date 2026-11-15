@@ -191,12 +191,12 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3420/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3419/image",
-        "team1Title": "Philadelphia 76ers",
-        "team2Title": "Indiana Pacers",
-        "streamLink": "NBA LEAGUEPASS FHD,,https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0OWOZTLCGZBM0H9W11KXMU3J05.mpd|drmScheme=clearkey&drmLicense=https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0OWOZTLCGZBM0H9W11KXMU3J05,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60176/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "matchTime": "2026-11-16 03:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3416/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3427/image",
+        "team1Title": "Phoenix Suns",
+        "team2Title": "Los Angeles Lakers",
+        "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -257,16 +257,6 @@
         "team1Title": "Club Always Ready",
         "team2Title": "Club Independiente Petrolero",
         "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/EHHHHA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHHA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | Liga ACB",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3553/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
-        "team1Title": "Kosner Baskonia",
-        "team2Title": "Real Madrid",
-        "streamLink": "",
         "isHot": true
     },
     {
@@ -507,16 +497,6 @@
         "team1Title": "Utah Jazz",
         "team2Title": "San Antonio Spurs",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 03:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3416/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3427/image",
-        "team1Title": "Phoenix Suns",
-        "team2Title": "Los Angeles Lakers",
-        "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -1007,6 +987,26 @@
         "team1Title": "Scotland",
         "team2Title": "Australia",
         "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/K777.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/K777.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3420/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3419/image",
+        "team1Title": "Philadelphia 76ers",
+        "team2Title": "Indiana Pacers",
+        "streamLink": "NBA LEAGUEPASS FHD,,https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0OWOZTLCGZBM0H9W11KXMU3J05.mpd|drmScheme=clearkey&drmLicense=https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0OWOZTLCGZBM0H9W11KXMU3J05,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60176/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | Liga ACB",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3553/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
+        "team1Title": "Kosner Baskonia",
+        "team2Title": "Real Madrid",
+        "streamLink": "",
         "isHot": false
     },
     {
