@@ -80,6 +80,26 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-15 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23492/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4765/image",
+        "team1Title": "Macau",
+        "team2Title": "Hong Kong",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-15 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7930/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7050/image",
+        "team1Title": "Kyrgyzstan",
+        "team2Title": "Vietnam",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
         "eventTitle": "BOXING | UFC",
         "matchTime": "2026-10-01 04:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/461602/image",
@@ -87,6 +107,16 @@
         "team1Title": "Ciryl Gane",
         "team2Title": "Josh Hokit",
         "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) PARAMOUNT+ FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfyaoutkx5/out/v1/bc189987de5240c081c6ac3dc81bcdb3/cenc.mpd|drmScheme=clearkey&drmLicense=38223269c2af7b493a5cfdccdb7fa104:6b6db412f1124be3643346b1f99061a1,) UFC LIVE FHD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8,) HD QUALITY UFC,,https://temp.formaturamaxi.com.br/simplyabby.m3u8,) HD QUALITY 1,,https://chatgpt.hereisman.net/playlist/60082/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60083/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60084/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/cuuu.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SportsNet FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|drmScheme=clearkey&drmLicense=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b,) UFC TV FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd|drmScheme=clearkey&drmLicense=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-15 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23492/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4765/image",
+        "team1Title": "Macau",
+        "team2Title": "Hong Kong",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -107,16 +137,6 @@
         "team1Title": "Sassuolo",
         "team2Title": "Ternana",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "RUGBY | World Cup",
-        "matchTime": "2026-11-15 14:35:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/24235/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/24240/image",
-        "team1Title": "Australia",
-        "team2Title": "New Zealand",
-        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
         "isHot": true
     },
     {
@@ -300,26 +320,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-15 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23492/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4765/image",
-        "team1Title": "Macau",
-        "team2Title": "Hong Kong",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-15 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7930/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/7050/image",
-        "team1Title": "Kyrgyzstan",
-        "team2Title": "Vietnam",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "AMERICAN FOOTBALL | College GameDay",
         "matchTime": "2026-11-21 18:00:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
@@ -347,7 +347,7 @@
         "team1Title": "CD Tenerife",
         "team2Title": "AD Ceuta",
         "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | LaLiga 2",
@@ -398,16 +398,6 @@
         "team2Title": "Eswatini",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-15 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23492/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4765/image",
-        "team1Title": "Macau",
-        "team2Title": "Hong Kong",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
@@ -617,7 +607,7 @@
         "team1Title": "Leicester Tigers",
         "team2Title": "Saracens",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Championship",
@@ -807,7 +797,7 @@
         "team1Title": "Ajax Legends",
         "team2Title": "FC Barcelona Legends",
         "streamLink": "Link 1,,http://193.47.62.44/hls/F111.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "OTHER | CYCLING EVENTO",
@@ -1087,6 +1077,16 @@
         "team1Title": "UTEP Miners",
         "team2Title": "Wyoming Cowboys",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60135/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "RUGBY | World Cup",
+        "matchTime": "2026-11-15 14:35:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/24235/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/24240/image",
+        "team1Title": "Australia",
+        "team2Title": "New Zealand",
+        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
         "isHot": false
     },
     {
