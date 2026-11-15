@@ -30,16 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "OTHER | DARTS PDC",
-        "matchTime": "2026-11-15 19:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team1Title": "DARTS PDC",
-        "team2Title": "DARTS PDC",
-        "streamLink": "QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | TENNIS | EVENTO",
         "matchTime": "2026-11-16 00:05:00",
         "team1Logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
@@ -80,13 +70,23 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-16 02:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/511206/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/458584/image",
-        "team1Title": "ACD Juan Pablo II",
-        "team2Title": "Deportivo Garcilaso",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-16 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5164/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/55827/image",
+        "team1Title": "Panama",
+        "team2Title": "Curaçao",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) FOX SOCCER,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-16 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3422/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3411/image",
+        "team1Title": "Boston Celtics",
+        "team2Title": "Dallas Mavericks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/Z555.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -117,6 +117,26 @@
         "team1Title": "Phoenix Suns",
         "team2Title": "Los Angeles Lakers",
         "streamLink": "NBA LEAGUEPASS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvww44glgx/out/v1/7ea0ace804754c73a2580b3156039598/cenc.mpd|drmScheme=clearkey&drmLicense=3ca19f31c530a41236266adc467cad29:deea9447f55180a35e5435853d65b730,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 4,,https://www.rtmpcdn.com/live/d971c459-44ef-41ba-b27a-64dbb86610bf.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/E666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-16 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3433/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3421/image",
+        "team1Title": "Toronto Raptors",
+        "team2Title": "New York Knicks",
+        "streamLink": "TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/Z555A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | CFL",
+        "matchTime": "2026-11-16 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4434/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4439/image",
+        "team1Title": "Edmonton Elks",
+        "team2Title": "Montreal Alouettes",
+        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -250,16 +270,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5164/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/55827/image",
-        "team1Title": "Panama",
-        "team2Title": "Curaçao",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) FOX SOCCER,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": true
-    },
-    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-16 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3675/image",
@@ -311,16 +321,6 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3422/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3411/image",
-        "team1Title": "Boston Celtics",
-        "team2Title": "Dallas Mavericks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/Z555.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-16 08:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3413/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3418/image",
@@ -341,32 +341,12 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3433/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3421/image",
-        "team1Title": "Toronto Raptors",
-        "team2Title": "New York Knicks",
-        "streamLink": "TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/Z555A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-16 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3431/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3412/image",
         "team1Title": "Washington Wizards",
         "team2Title": "Houston Rockets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | CFL",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4434/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4439/image",
-        "team1Title": "Edmonton Elks",
-        "team2Title": "Montreal Alouettes",
-        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -680,6 +660,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "OTHER | DARTS PDC",
+        "matchTime": "2026-11-15 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team1Title": "DARTS PDC",
+        "team2Title": "DARTS PDC",
+        "streamLink": "QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | Primera A",
         "matchTime": "2026-11-15 02:15:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
@@ -837,6 +827,16 @@
         "team1Title": "Mamelodi Sundowns",
         "team2Title": "AS FAR Rabat",
         "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/N555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/N555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-16 02:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/511206/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/458584/image",
+        "team1Title": "ACD Juan Pablo II",
+        "team2Title": "Deportivo Garcilaso",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
