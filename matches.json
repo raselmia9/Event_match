@@ -100,26 +100,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBL",
-        "matchTime": "2026-11-15 10:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3614/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/122090/image",
-        "team1Title": "Sydney Kings",
-        "team2Title": "New Zealand Breakers",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 09:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4343/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/47352/image",
-        "team1Title": "Arizona Wildcats",
-        "team2Title": "Utah Utes",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60140/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-15 10:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4371/image",
@@ -127,16 +107,6 @@
         "team1Title": "Hawaii Rainbow Warriors",
         "team2Title": "North Dakota State Bison",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/DVVVAAAAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 09:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4358/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4341/image",
-        "team1Title": "Washington State Cougars",
-        "team2Title": "Colorado State Rams",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60141/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -837,7 +807,7 @@
         "team1Title": "South Africa",
         "team2Title": "Bangladesh",
         "streamLink": "SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Women's Super League",
@@ -1010,6 +980,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "BASKETBALL | NBL",
+        "matchTime": "2026-11-15 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3614/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/122090/image",
+        "team1Title": "Sydney Kings",
+        "team2Title": "New Zealand Breakers",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | UFC",
         "matchTime": "2026-11-14 22:00:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
@@ -1077,6 +1057,26 @@
         "team1Title": "San Diego State Aztecs",
         "team2Title": "Utah State Aggies",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60133/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 09:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4343/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/47352/image",
+        "team1Title": "Arizona Wildcats",
+        "team2Title": "Utah Utes",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60140/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 09:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4358/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4341/image",
+        "team1Title": "Washington State Cougars",
+        "team2Title": "Colorado State Rams",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60141/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
