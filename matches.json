@@ -30,53 +30,63 @@
         "isHot": true
     },
     {
+        "eventTitle": "BOXING | AEW",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "team2Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "team1Title": "AEW",
+        "team2Title": "AEW",
+        "streamLink": "HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CRICKET | One Day International",
+        "matchTime": "2026-11-15 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
+        "team1Title": "New Zealand",
+        "team2Title": "India",
+        "streamLink": "TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CRICKET | Women's Big Bash League",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team1Title": "WBBL",
+        "team2Title": "WBBL",
+        "streamLink": "WILLOW FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd|drmScheme=clearkey&drmLicense=f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) SD QUALITY,,http://193.47.62.41/hls/ZZZZAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-15 03:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7229/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4724/image",
-        "team1Title": "Haiti",
-        "team2Title": "USA",
-        "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/60080/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://www.rtmpcdn.com/live/f773ab0f-03fb-4f35-8b46-87d023bfea44.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/VOOOAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY 5,,https://live2.jorvakstreamcache.com/live/channel9.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "matchTime": "2026-11-15 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4769/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4781/image",
+        "team1Title": "Jamaica",
+        "team2Title": "Mexico",
+        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Copa Argentina",
-        "matchTime": "2026-11-15 04:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3219/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3202/image",
-        "team1Title": "Banfield",
-        "team2Title": "Boca Juniors",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.44/hls/VOOOAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TYC Sports Inter,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
+        "eventTitle": "FOOTBALL | USL League One",
+        "matchTime": "2026-11-15 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/197072/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1158834/image",
+        "team1Title": "Charlotte Independence",
+        "team2Title": "AC Boise",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Liga MX, Women, Apertura",
-        "matchTime": "2026-11-15 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/268554/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/261000/image",
-        "team1Title": "Tigres UANL",
-        "team2Title": "Pumas UNAM",
-        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-15 03:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/21982/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1977/image",
-        "team1Title": "Mirassol",
-        "team2Title": "Atlético Mineiro",
-        "streamLink": "SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-15 05:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/21845/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1974/image",
-        "team1Title": "Chapecoense",
-        "team2Title": "Vasco da Gama",
-        "streamLink": "PREMIERER BR,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "eventTitle": "FOOTBALL | A-League Women",
+        "matchTime": "2026-11-15 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/394912/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/174106/image",
+        "team1Title": "Wellington Phoenix",
+        "team2Title": "Sydney FC",
+        "streamLink": "TNT4UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
         "isHot": true
     },
     {
@@ -90,6 +100,156 @@
         "isHot": true
     },
     {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-15 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3435/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3424/image",
+        "team1Title": "Miami Heat",
+        "team2Title": "Detroit Pistons",
+        "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-15 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3426/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
+        "team1Title": "Minnesota Timberwolves",
+        "team2Title": "Chicago Bulls",
+        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-15 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3411/image",
+        "team1Title": "Cleveland Cavaliers",
+        "team2Title": "Dallas Mavericks",
+        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-15 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3415/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3436/image",
+        "team1Title": "Memphis Grizzlies",
+        "team2Title": "Brooklyn Nets",
+        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5539/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3417/image",
+        "team1Title": "New Orleans Pelicans",
+        "team2Title": "Denver Nuggets",
+        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3690/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3682/image",
+        "team1Title": "Montréal Canadiens",
+        "team2Title": "Colorado Avalanche",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3677/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3689/image",
+        "team1Title": "Boston Bruins",
+        "team2Title": "Minnesota Wild",
+        "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3683/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3699/image",
+        "team1Title": "Columbus Blue Jackets",
+        "team2Title": "Philadelphia Flyers",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3694/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3685/image",
+        "team1Title": "Tampa Bay Lightning",
+        "team2Title": "Detroit Red Wings",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3695/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3687/image",
+        "team1Title": "St. Louis Blues",
+        "team2Title": "Florida Panthers",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3697/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3700/image",
+        "team1Title": "Pittsburgh Penguins",
+        "team2Title": "Ottawa Senators",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3691/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3704/image",
+        "team1Title": "Washington Capitals",
+        "team2Title": "New Jersey Devils",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3693/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3686/image",
+        "team1Title": "Toronto Maple Leafs",
+        "team2Title": "Edmonton Oilers",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3696/image",
+        "team1Title": "Utah Mammoth",
+        "team2Title": "San Jose Sharks",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-15 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3684/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3678/image",
+        "team1Title": "Dallas Stars",
+        "team2Title": "Buffalo Sabres",
+        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
         "eventTitle": "OTHER | Horse Racing",
         "matchTime": "2026-11-15 01:00:00",
         "team1Logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
@@ -97,16 +257,6 @@
         "team1Title": "Horse Racing",
         "team2Title": "Horse Racing",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga MX, Apertura",
-        "matchTime": "2026-11-15 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1951/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1932/image",
-        "team1Title": "Querétaro FC",
-        "team2Title": "CF Monterrey",
-        "streamLink": "",
         "isHot": true
     },
     {
@@ -151,146 +301,6 @@
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/47358/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4314/image",
-        "team1Title": "Georgia Bulldogs",
-        "team2Title": "Missouri Tigers",
-        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60071/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/290824/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4360/image",
-        "team1Title": "Liberty Flames",
-        "team2Title": "Middle Tennessee Blue Raiders",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60064/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/47372/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4310/image",
-        "team1Title": "Oregon Ducks",
-        "team2Title": "Michigan Wolverines",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60073/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/188143/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/46394/image",
-        "team1Title": "Georgia State Panthers",
-        "team2Title": "Georgia Southern Eagles",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60066/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4372/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4288/image",
-        "team1Title": "Notre Dame Fighting Irish",
-        "team2Title": "Boston College Eagles",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4375/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4290/image",
-        "team1Title": "Indiana Hoosiers",
-        "team2Title": "USC Trojans",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60063/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4355/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4331/image",
-        "team1Title": "Northern Illinois Huskies",
-        "team2Title": "Nevada Wolf Pack",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60072/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/86009/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/305180/image",
-        "team1Title": "Western Kentucky Hilltoppers",
-        "team2Title": "Jacksonville State Gamecocks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60070/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 03:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4318/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4294/image",
-        "team1Title": "Mississippi State Bulldogs",
-        "team2Title": "Auburn Tigers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60077/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 03:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/188442/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4285/image",
-        "team1Title": "Rice Owls",
-        "team2Title": "Tulane Green Wave",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60078/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 03:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/188144/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4298/image",
-        "team1Title": "Texas State Bobcats",
-        "team2Title": "Fresno State Bulldogs",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60075/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 02:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/61356/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4292/image",
-        "team1Title": "Virginia Cavaliers",
-        "team2Title": "California Golden Bears",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60074/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 04:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4338/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4370/image",
-        "team1Title": "Michigan State Spartans",
-        "team2Title": "Washington Huskies",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60086/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 04:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4304/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/46495/image",
-        "team1Title": "Louisiana Tech Bulldogs",
-        "team2Title": "Southern Mississippi Golden Eagles",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60079/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-15 05:15:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/47363/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/47359/image",
@@ -301,12 +311,72 @@
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 04:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4309/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4380/image",
-        "team1Title": "UCF Knights",
-        "team2Title": "Arizona State Sun Devils",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60085/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4330/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4359/image",
+        "team1Title": "Brigham Young Cougars",
+        "team2Title": "Baylor Bears",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4322/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4317/image",
+        "team1Title": "Iowa Hawkeyes",
+        "team2Title": "Purdue Boilermakers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 06:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/47361/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4278/image",
+        "team1Title": "Arkansas Razorbacks",
+        "team2Title": "South Carolina Gamecocks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/188116/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4302/image",
+        "team1Title": "UTSA Roadrunners",
+        "team2Title": "North Texas Mean Green",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4281/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4357/image",
+        "team1Title": "Oklahoma State Cowboys",
+        "team2Title": "Texas Tech Red Raiders",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4284/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4332/image",
+        "team1Title": "LSU Tigers",
+        "team2Title": "Texas Longhorns",
+        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4363/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4300/image",
+        "team1Title": "San Diego State Aztecs",
+        "team2Title": "Utah State Aggies",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -340,16 +410,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "BOXING | AEW",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "team2Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "team1Title": "AEW",
-        "team2Title": "AEW",
-        "streamLink": "HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "BOXING | Monday Night RAW",
         "matchTime": "2026-11-17 06:00:00",
         "team1Logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
@@ -357,16 +417,6 @@
         "team1Title": "Monday Night RAW",
         "team2Title": "Monday Night RAW",
         "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE RAW+ HD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE RAW+ HD 2,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE RAW ATL,,https://admin2.formaturamaxi.com.br/wwealt.m3u8,) WWE HD,,https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://embedcenter.st/",
-        "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | One Day International",
-        "matchTime": "2026-11-15 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-        "team1Title": "New Zealand",
-        "team2Title": "India",
-        "streamLink": "TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
         "isHot": false
     },
     {
@@ -500,16 +550,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "CRICKET | Women's Big Bash League",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team1Title": "WBBL",
-        "team2Title": "WBBL",
-        "streamLink": "WILLOW FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd|drmScheme=clearkey&drmLicense=f703fd09044cca52e2574b38fb30a6f9:35494900afade256b06dce9fbd4e3018,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) SD QUALITY,,http://193.47.62.41/hls/ZZZZAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | One Day International",
         "matchTime": "2026-11-15 09:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
@@ -517,7 +557,7 @@
         "team1Title": "Australia",
         "team2Title": "England",
         "streamLink": "TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/vvvve.m3u8|Referer=http://www.fawanews.sc/",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -527,7 +567,7 @@
         "team1Title": "New Zealand",
         "team2Title": "India",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -550,36 +590,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-15 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4769/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4781/image",
-        "team1Title": "Jamaica",
-        "team2Title": "Mexico",
-        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/21821/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/21809/image",
-        "team1Title": "Saint Vincent and the Grenadines",
-        "team2Title": "Belize",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | USL League One",
-        "matchTime": "2026-11-15 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/197072/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1158834/image",
-        "team1Title": "Charlotte Independence",
-        "team2Title": "AC Boise",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861|Referer=https://amazon.com",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Liga MX, Women, Apertura",
         "matchTime": "2026-11-15 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/264823/image",
@@ -587,7 +597,7 @@
         "team1Title": "CD Guadalajara",
         "team2Title": "FC Juárez",
         "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | A-League Women",
@@ -600,156 +610,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | A-League Women",
-        "matchTime": "2026-11-15 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/394912/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/174106/image",
-        "team1Title": "Wellington Phoenix",
-        "team2Title": "Sydney FC",
-        "streamLink": "TNT4UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-15 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3435/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3424/image",
-        "team1Title": "Miami Heat",
-        "team2Title": "Detroit Pistons",
-        "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-15 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3426/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
-        "team1Title": "Minnesota Timberwolves",
-        "team2Title": "Chicago Bulls",
-        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-15 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3411/image",
-        "team1Title": "Cleveland Cavaliers",
-        "team2Title": "Dallas Mavericks",
-        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-15 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3415/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3436/image",
-        "team1Title": "Memphis Grizzlies",
-        "team2Title": "Brooklyn Nets",
-        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5539/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3417/image",
-        "team1Title": "New Orleans Pelicans",
-        "team2Title": "Denver Nuggets",
-        "streamLink": "STREAM TV + NBA,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3690/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3682/image",
-        "team1Title": "Montréal Canadiens",
-        "team2Title": "Colorado Avalanche",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3677/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3689/image",
-        "team1Title": "Boston Bruins",
-        "team2Title": "Minnesota Wild",
-        "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3683/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3699/image",
-        "team1Title": "Columbus Blue Jackets",
-        "team2Title": "Philadelphia Flyers",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3694/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3685/image",
-        "team1Title": "Tampa Bay Lightning",
-        "team2Title": "Detroit Red Wings",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3695/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3687/image",
-        "team1Title": "St. Louis Blues",
-        "team2Title": "Florida Panthers",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3697/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3700/image",
-        "team1Title": "Pittsburgh Penguins",
-        "team2Title": "Ottawa Senators",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3691/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3704/image",
-        "team1Title": "Washington Capitals",
-        "team2Title": "New Jersey Devils",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3693/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3686/image",
-        "team1Title": "Toronto Maple Leafs",
-        "team2Title": "Edmonton Oilers",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3696/image",
-        "team1Title": "Utah Mammoth",
-        "team2Title": "San Jose Sharks",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-15 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3675/image",
@@ -757,17 +617,7 @@
         "team1Title": "Anaheim Ducks",
         "team2Title": "New York Islanders",
         "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-15 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3684/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3678/image",
-        "team1Title": "Dallas Stars",
-        "team2Title": "Buffalo Sabres",
-        "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -777,7 +627,7 @@
         "team1Title": "Los Angeles Kings",
         "team2Title": "Calgary Flames",
         "streamLink": "STREAM TV + NHL,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBL",
@@ -801,83 +651,13 @@
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4330/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4359/image",
-        "team1Title": "Brigham Young Cougars",
-        "team2Title": "Baylor Bears",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4322/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4317/image",
-        "team1Title": "Iowa Hawkeyes",
-        "team2Title": "Purdue Boilermakers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 06:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/47361/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4278/image",
-        "team1Title": "Arkansas Razorbacks",
-        "team2Title": "South Carolina Gamecocks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/188116/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4302/image",
-        "team1Title": "UTSA Roadrunners",
-        "team2Title": "North Texas Mean Green",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 08:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4281/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4357/image",
-        "team1Title": "Oklahoma State Cowboys",
-        "team2Title": "Texas Tech Red Raiders",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4284/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4332/image",
-        "team1Title": "LSU Tigers",
-        "team2Title": "Texas Longhorns",
-        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 08:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4363/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4300/image",
-        "team1Title": "San Diego State Aztecs",
-        "team2Title": "Utah State Aggies",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-15 09:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4343/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/47352/image",
         "team1Title": "Arizona Wildcats",
         "team2Title": "Utah Utes",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -897,7 +677,7 @@
         "team1Title": "Washington State Cougars",
         "team2Title": "Colorado State Rams",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -907,7 +687,7 @@
         "team1Title": "UTEP Miners",
         "team2Title": "Wyoming Cowboys",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "OTHER | CYCLING EVENTO",
@@ -970,6 +750,66 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-15 03:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7229/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4724/image",
+        "team1Title": "Haiti",
+        "team2Title": "USA",
+        "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/60080/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://www.rtmpcdn.com/live/f773ab0f-03fb-4f35-8b46-87d023bfea44.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/VOOOAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY 5,,https://live2.jorvakstreamcache.com/live/channel9.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-15 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/21821/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21809/image",
+        "team1Title": "Saint Vincent and the Grenadines",
+        "team2Title": "Belize",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Copa Argentina",
+        "matchTime": "2026-11-15 04:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3219/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3202/image",
+        "team1Title": "Banfield",
+        "team2Title": "Boca Juniors",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.44/hls/VOOOAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TYC Sports Inter,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga MX, Women, Apertura",
+        "matchTime": "2026-11-15 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/268554/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/261000/image",
+        "team1Title": "Tigres UANL",
+        "team2Title": "Pumas UNAM",
+        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-15 03:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/21982/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1977/image",
+        "team1Title": "Mirassol",
+        "team2Title": "Atlético Mineiro",
+        "streamLink": "SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-15 05:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/21845/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1974/image",
+        "team1Title": "Chapecoense",
+        "team2Title": "Vasco da Gama",
+        "streamLink": "PREMIERER BR,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd?|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "isHot": false
+    },
+    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-15 02:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
@@ -990,6 +830,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | Liga MX, Apertura",
+        "matchTime": "2026-11-15 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1951/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1932/image",
+        "team1Title": "Querétaro FC",
+        "team2Title": "CF Monterrey",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-15 01:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/327216/image",
@@ -1007,6 +857,16 @@
         "team1Title": "Texas A&M Aggies",
         "team2Title": "Tennessee Volunteers",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60061/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/47358/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4314/image",
+        "team1Title": "Georgia Bulldogs",
+        "team2Title": "Missouri Tigers",
+        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60071/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
@@ -1037,6 +897,146 @@
         "team1Title": "Missouri State Bears",
         "team2Title": "New Mexico State Aggies",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60062/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/290824/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4360/image",
+        "team1Title": "Liberty Flames",
+        "team2Title": "Middle Tennessee Blue Raiders",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60064/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/47372/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4310/image",
+        "team1Title": "Oregon Ducks",
+        "team2Title": "Michigan Wolverines",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60073/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/188143/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/46394/image",
+        "team1Title": "Georgia State Panthers",
+        "team2Title": "Georgia Southern Eagles",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60066/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4372/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4288/image",
+        "team1Title": "Notre Dame Fighting Irish",
+        "team2Title": "Boston College Eagles",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4375/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4290/image",
+        "team1Title": "Indiana Hoosiers",
+        "team2Title": "USC Trojans",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60063/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4355/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4331/image",
+        "team1Title": "Northern Illinois Huskies",
+        "team2Title": "Nevada Wolf Pack",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60072/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/86009/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/305180/image",
+        "team1Title": "Western Kentucky Hilltoppers",
+        "team2Title": "Jacksonville State Gamecocks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60070/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 03:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4318/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4294/image",
+        "team1Title": "Mississippi State Bulldogs",
+        "team2Title": "Auburn Tigers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60077/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 03:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/188442/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4285/image",
+        "team1Title": "Rice Owls",
+        "team2Title": "Tulane Green Wave",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60078/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 03:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/188144/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4298/image",
+        "team1Title": "Texas State Bobcats",
+        "team2Title": "Fresno State Bulldogs",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60075/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/61356/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4292/image",
+        "team1Title": "Virginia Cavaliers",
+        "team2Title": "California Golden Bears",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60074/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 04:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4338/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4370/image",
+        "team1Title": "Michigan State Spartans",
+        "team2Title": "Washington Huskies",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60086/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 04:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4304/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/46495/image",
+        "team1Title": "Louisiana Tech Bulldogs",
+        "team2Title": "Southern Mississippi Golden Eagles",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60079/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 04:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4309/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4380/image",
+        "team1Title": "UCF Knights",
+        "team2Title": "Arizona State Sun Devils",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60085/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
