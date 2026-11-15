@@ -140,16 +140,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 01:40:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team1Title": "SIMULACAST",
-        "team2Title": "SIMULACAST",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHHAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "BOXING | WWE NXT",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
@@ -297,7 +287,7 @@
         "team1Title": "Philadelphia Flyers",
         "team2Title": "Edmonton Oilers",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -907,6 +897,16 @@
         "team1Title": "Oklahoma Sooners",
         "team2Title": "Ole Miss Rebels",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60179/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHH.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-16 01:40:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "team1Title": "SIMULACAST",
+        "team2Title": "SIMULACAST",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHHAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
