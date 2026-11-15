@@ -70,16 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | A-League Women",
-        "matchTime": "2026-11-15 10:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/174098/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/174078/image",
-        "team1Title": "Canberra United",
-        "team2Title": "Brisbane Roar",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/SSSSAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/SSSSAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "BOXING | UFC",
         "matchTime": "2026-10-01 04:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/461602/image",
@@ -147,16 +137,6 @@
         "team1Title": "Washington State Cougars",
         "team2Title": "Colorado State Rams",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60141/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-15 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4367/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4347/image",
-        "team1Title": "UTEP Miners",
-        "team2Title": "Wyoming Cowboys",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60135/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -950,6 +930,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | A-League Women",
+        "matchTime": "2026-11-15 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/174098/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/174078/image",
+        "team1Title": "Canberra United",
+        "team2Title": "Brisbane Roar",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/SSSSAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/SSSSAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-15 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3435/image",
@@ -1087,6 +1077,16 @@
         "team1Title": "San Diego State Aztecs",
         "team2Title": "Utah State Aggies",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60133/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-15 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4367/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4347/image",
+        "team1Title": "UTEP Miners",
+        "team2Title": "Wyoming Cowboys",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60135/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
