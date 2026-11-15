@@ -80,6 +80,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-15 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/253896/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/861598/image",
+        "team1Title": "Madrid CFF",
+        "team2Title": "Logroño United",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
         "eventTitle": "RUGBY | World Cup",
         "matchTime": "2026-11-15 14:35:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/24235/image",
@@ -277,7 +287,7 @@
         "team1Title": "Macau",
         "team2Title": "Hong Kong",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -287,7 +297,7 @@
         "team1Title": "Kyrgyzstan",
         "team2Title": "Vietnam",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | College GameDay",
@@ -377,7 +387,7 @@
         "team1Title": "Macau",
         "team2Title": "Hong Kong",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
@@ -498,16 +508,6 @@
         "team2Title": "Fútbol Club Barcelona",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga F Moeve",
-        "matchTime": "2026-11-15 17:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/253896/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/861598/image",
-        "team1Title": "Madrid CFF",
-        "team2Title": "Logroño United",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga F Moeve",
