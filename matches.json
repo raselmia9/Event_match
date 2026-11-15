@@ -46,7 +46,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/187745/image",
         "team1Title": "Afghanistan",
         "team2Title": "Zimbabwe",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd|drmScheme=clearkey&drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd|drmScheme=clearkey&drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/D222A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd|drmScheme=clearkey&drmLicense=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6yweffzpen/out/v1/197dbda9339c436c95282a80d109cbd6/cenc.mpd|drmScheme=clearkey&drmLicense=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/D222A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -80,16 +80,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "OTHER | Horse Racing",
-        "matchTime": "2026-11-15 01:00:00",
-        "team1Logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "team2Logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "team1Title": "Horse Racing",
-        "team2Title": "Horse Racing",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NBL",
         "matchTime": "2026-11-15 12:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/233139/image",
@@ -107,6 +97,16 @@
         "team1Title": "Australia",
         "team2Title": "New Zealand",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CRICKET | ICC World Test Championship",
+        "matchTime": "2026-11-15 14:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187744/image",
+        "team1Title": "South Africa",
+        "team2Title": "Bangladesh",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd|drmScheme=clearkey&drmLicense=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd|drmScheme=clearkey&drmLicense=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53",
         "isHot": true
     },
     {
@@ -627,7 +627,7 @@
         "team1Title": "Australia",
         "team2Title": "New Zealand",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Championship",
@@ -788,16 +788,6 @@
         "team2Title": "Montreal Alouettes",
         "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | ICC World Test Championship",
-        "matchTime": "2026-11-15 14:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187744/image",
-        "team1Title": "South Africa",
-        "team2Title": "Bangladesh",
-        "streamLink": "SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Women's Super League",
