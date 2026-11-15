@@ -45,18 +45,20 @@ def fetch_and_convert():
                 continue
             cname = s.get("channel_name", "").strip()
 
-            headers = []
-            kid = s.get("kid", "").strip()
-            key = s.get("key", "").strip()
+            kid = s.get("kid", "").strip() if s.get("kid") else ""
+            key = s.get("key", "").strip() if s.get("key") else ""
+            cookie = s.get("cookie", "").strip() if s.get("cookie") else ""
+            referer = s.get("referer", "").strip() if s.get("referer") else ""
+
+            # Prioritize DRM over Referer/Cookie
+            header_str = ""
             if kid and key:
-                headers.append(f"drmScheme=clearkey&drmLicense={kid}:{key}")
+                header_str = f"|drmScheme=clearkey&drmLicense={kid}:{key}"
+            elif cookie:
+                header_str = f"|Cookie={cookie}"
+            elif referer:
+                header_str = f"|Referer={referer}"
 
-            if s.get("referer"):
-                headers.append(f"Referer={s['referer'].strip()}")
-            if s.get("cookie"):
-                headers.append(f"Cookie={s['cookie'].strip()}")
-
-            header_str = ("|" + "|".join(headers)) if headers else ""
             stream_parts.append(f"{cname},,{url}{header_str}")
 
         stream_link = ",) ".join(stream_parts)
