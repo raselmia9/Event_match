@@ -171,12 +171,12 @@
     },
     {
         "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/213609/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2312/image",
-        "team1Title": "Comerciantes Unidos",
-        "team2Title": "Sport Boys",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "matchTime": "2026-11-16 02:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/511206/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/458584/image",
+        "team1Title": "ACD Juan Pablo II",
+        "team2Title": "Deportivo Garcilaso",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -357,7 +357,7 @@
         "team1Title": "Arizona Cardinals",
         "team2Title": "Los Angeles Rams",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_us_b0hk3wwd9m/index.m3u8,) TV QUALITY+ HD2,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_c688f121_26f2_41f9_a793_683373ef48c6/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NFL",
@@ -367,7 +367,7 @@
         "team1Title": "Las Vegas Raiders",
         "team2Title": "Seattle Seahawks",
         "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_5b88549f_8373_4f86_a071_fc22e316d7b5/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NFL",
@@ -387,7 +387,7 @@
         "team1Title": "Dallas Cowboys",
         "team2Title": "San Francisco 49ers",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_baa4ef43_5fc8_4cb0_b21b_973b02549d92/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | Women's Big Bash League",
@@ -418,16 +418,6 @@
         "team2Title": "College GameDay",
         "streamLink": "Link 1,,https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-16 02:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/511206/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/458584/image",
-        "team1Title": "ACD Juan Pablo II",
-        "team2Title": "Deportivo Garcilaso",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -507,7 +497,7 @@
         "team1Title": "Los Angeles Clippers",
         "team2Title": "Charlotte Hornets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -997,6 +987,16 @@
         "team1Title": "Mamelodi Sundowns",
         "team2Title": "AS FAR Rabat",
         "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/N555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/N555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-16 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/213609/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2312/image",
+        "team1Title": "Comerciantes Unidos",
+        "team2Title": "Sport Boys",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
