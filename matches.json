@@ -40,6 +40,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "OTHER | Snooker",
+        "matchTime": "2026-11-17 00:00:00",
+        "team1Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "team2Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "team1Title": "Snooker",
+        "team2Title": "Snooker",
+        "streamLink": "ITV4 (SD USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
         "matchTime": "2026-11-16 19:45:00",
         "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
@@ -87,6 +97,26 @@
         "team1Title": "Estonia",
         "team2Title": "Bulgaria",
         "streamLink": "FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) beIN3 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) SPORTV2 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3,) HD QUALITY 5,,https://www.rtmpcdn.com/live/0a7bb239-1182-4945-9d9c-f621c1ce74f6.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TOOO.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4818/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4742/image",
+        "team1Title": "Andorra",
+        "team2Title": "Azerbaijan",
+        "streamLink": "Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-17 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/87854/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/252254/image",
+        "team1Title": "Universidad Técnica de Cajamarca",
+        "team2Title": "Los Chankas CYC",
+        "streamLink": "",
         "isHot": true
     },
     {
@@ -158,16 +188,6 @@
         "team2Title": "Monday Night RAW",
         "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE RAW+ HD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE RAW+ HD 2,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE RAW ATL,,https://admin2.formaturamaxi.com.br/wwealt.m3u8,) WWE HD,,https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://embedcenter.st/",
         "isHot": false
-    },
-    {
-        "eventTitle": "OTHER | Snooker",
-        "matchTime": "2026-11-17 00:00:00",
-        "team1Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "team2Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "team1Title": "Snooker",
-        "team2Title": "Snooker",
-        "streamLink": "ITV4 (SD USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "CRICKET | Nepal Premier League",
@@ -300,16 +320,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4818/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4742/image",
-        "team1Title": "Andorra",
-        "team2Title": "Azerbaijan",
-        "streamLink": "Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | LaLiga 2",
         "matchTime": "2026-11-17 01:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/2848/image",
@@ -331,16 +341,6 @@
     },
     {
         "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-17 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/87854/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/252254/image",
-        "team1Title": "Universidad Técnica de Cajamarca",
-        "team2Title": "Los Chankas CYC",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
         "matchTime": "2026-11-17 02:15:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/63760/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/335557/image",
@@ -357,7 +357,7 @@
         "team1Title": "Cuba",
         "team2Title": "Grenada",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -387,7 +387,7 @@
         "team1Title": "Guadeloupe",
         "team2Title": "Bermuda",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -397,7 +397,7 @@
         "team1Title": "Guyana",
         "team2Title": "Puerto Rico",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
