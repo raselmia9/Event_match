@@ -40,16 +40,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "CRICKET | Women's Big Bash League",
-        "matchTime": "2026-11-16 14:10:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team1Title": "WBBL",
-        "team2Title": "WBBL",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/ZZZZAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-16 14:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
@@ -607,6 +597,16 @@
         "team1Title": "Primera A",
         "team2Title": "Primera A",
         "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) SIM QUALITY (USE VPN),,http://193.47.62.44/hls/VOOO.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | Women's Big Bash League",
+        "matchTime": "2026-11-16 14:10:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team1Title": "WBBL",
+        "team2Title": "WBBL",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/ZZZZAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
