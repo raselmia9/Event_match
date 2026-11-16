@@ -140,36 +140,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-17 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4824/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/21814/image",
-        "team1Title": "Cuba",
-        "team2Title": "Grenada",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-17 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7299/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4745/image",
-        "team1Title": "Guadeloupe",
-        "team2Title": "Bermuda",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-17 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22113/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/21818/image",
-        "team1Title": "Guyana",
-        "team2Title": "Puerto Rico",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "BOXING | WWE NXT",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
@@ -577,6 +547,36 @@
         "team1Title": "Universidad Técnica de Cajamarca",
         "team2Title": "Los Chankas CYC",
         "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-17 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4824/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21814/image",
+        "team1Title": "Cuba",
+        "team2Title": "Grenada",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-17 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7299/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4745/image",
+        "team1Title": "Guadeloupe",
+        "team2Title": "Bermuda",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-17 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22113/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21818/image",
+        "team1Title": "Guyana",
+        "team2Title": "Puerto Rico",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
