@@ -70,36 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4776/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4830/image",
-        "team1Title": "Lithuania",
-        "team2Title": "Liechtenstein",
-        "streamLink": "FOX SOCCER+ HD,,https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://www.rtmpcdn.com/live/c54ee57a-06dc-4f0a-b02d-f26c22c40b87.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/TOOOAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4708/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4478/image",
-        "team1Title": "Iceland",
-        "team2Title": "Luxembourg",
-        "streamLink": "beIN2 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) FUBO SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681,) HD QUALITY 4,,https://www.rtmpcdn.com/live/7eec54af-6462-4b54-a0bc-9baaf8e340f8.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TOOOA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4759/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4716/image",
-        "team1Title": "Estonia",
-        "team2Title": "Bulgaria",
-        "streamLink": "FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) beIN3 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) SPORTV2 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3,) HD QUALITY 5,,https://www.rtmpcdn.com/live/0a7bb239-1182-4945-9d9c-f621c1ce74f6.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TOOO.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 00:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4818/image",
@@ -107,6 +77,16 @@
         "team1Title": "Andorra",
         "team2Title": "Azerbaijan",
         "streamLink": "Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-17 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2848/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/24336/image",
+        "team1Title": "Albacete Balompié",
+        "team2Title": "Celta Fortuna",
+        "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
         "isHot": true
     },
     {
@@ -147,16 +127,6 @@
         "team1Title": "Guyana",
         "team2Title": "Puerto Rico",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Frauen-Bundesliga",
-        "matchTime": "2026-11-16 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/527815/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/36623/image",
-        "team1Title": "VfB Stuttgart",
-        "team2Title": "Bayer Leverkusen",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.59/hls/BTBTBTAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -330,16 +300,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | LaLiga 2",
-        "matchTime": "2026-11-17 01:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/2848/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/24336/image",
-        "team1Title": "Albacete Balompié",
-        "team2Title": "Celta Fortuna",
-        "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
         "matchTime": "2026-11-17 02:15:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/492848/image",
@@ -347,7 +307,7 @@
         "team1Title": "CD Moquegua",
         "team2Title": "Club Atlético Grau",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
@@ -357,7 +317,7 @@
         "team1Title": "Cusco FC",
         "team2Title": "Asociación Deportiva Tarma",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -571,6 +531,16 @@
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-16 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4776/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4830/image",
+        "team1Title": "Lithuania",
+        "team2Title": "Liechtenstein",
+        "streamLink": "FOX SOCCER+ HD,,https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://www.rtmpcdn.com/live/c54ee57a-06dc-4f0a-b02d-f26c22c40b87.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/TOOOAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
         "matchTime": "2026-11-16 21:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4760/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4782/image",
@@ -581,12 +551,32 @@
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-16 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4708/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4478/image",
+        "team1Title": "Iceland",
+        "team2Title": "Luxembourg",
+        "streamLink": "beIN2 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) FUBO SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|drmScheme=clearkey&drmLicense=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681,) HD QUALITY 4,,https://www.rtmpcdn.com/live/7eec54af-6462-4b54-a0bc-9baaf8e340f8.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TOOOA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
         "matchTime": "2026-11-16 21:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4772/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4697/image",
         "team1Title": "Kazakhstan",
         "team2Title": "Slovakia",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX SPORTS HD,,https://chatgpt.hereisman.net/playlist/60251/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) FASTER QUALITY,,https://live.vivo155.com/live/hd-en-1-4518116.m3u8?txSecret=4d81ec34260bff6b8ec4dff3ce28abce&txTime=6AFB2C1A|Referer=https://player.on8on8.com/,) SonyLiv (Asia),,https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7,) HD QUALITY,,https://www.rtmpcdn.com/live/a5f22229-2144-4036-b355-d6b8242daa33.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EAEAEAAA.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-16 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4759/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4716/image",
+        "team1Title": "Estonia",
+        "team2Title": "Bulgaria",
+        "streamLink": "FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) beIN3 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) SPORTV2 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3,) HD QUALITY 5,,https://www.rtmpcdn.com/live/0a7bb239-1182-4945-9d9c-f621c1ce74f6.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/TOOO.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -617,6 +607,16 @@
         "team1Title": "Eritrea",
         "team2Title": "Guinea",
         "streamLink": "beIN Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) HD QUALITY,,https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/BTBTBTA.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Frauen-Bundesliga",
+        "matchTime": "2026-11-16 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/527815/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/36623/image",
+        "team1Title": "VfB Stuttgart",
+        "team2Title": "Bayer Leverkusen",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.59/hls/BTBTBTAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
