@@ -40,16 +40,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "OTHER | Snooker",
-        "matchTime": "2026-11-17 00:00:00",
-        "team1Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "team2Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "team1Title": "Snooker",
-        "team2Title": "Snooker",
-        "streamLink": "ITV4 (SD USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-16 14:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
@@ -57,66 +47,6 @@
         "team1Title": "South Africa",
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmScheme=clearkey&drmLicense=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmScheme=clearkey&drmLicense=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4711/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4705/image",
-        "team1Title": "Germany",
-        "team2Title": "Netherlands",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) beIN3 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) TVE La 1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|drmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54,) SPORT 1 CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/129264/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4483/image",
-        "team1Title": "Gibraltar",
-        "team2Title": "Malta",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4777/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4484/image",
-        "team1Title": "North Macedonia",
-        "team2Title": "Slovenia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4699/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4695/image",
-        "team1Title": "Switzerland",
-        "team2Title": "Scotland",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-17 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4710/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/6355/image",
-        "team1Title": "Greece",
-        "team2Title": "Serbia",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) beIN2 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | LaLiga 2",
-        "matchTime": "2026-11-17 01:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/2848/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/24336/image",
-        "team1Title": "Albacete Balompié",
-        "team2Title": "Celta Fortuna",
-        "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
         "isHot": true
     },
     {
@@ -450,6 +380,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "OTHER | Snooker",
+        "matchTime": "2026-11-17 00:00:00",
+        "team1Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "team2Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "team1Title": "Snooker",
+        "team2Title": "Snooker",
+        "streamLink": "ITV4 (SD USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | Primera A",
         "matchTime": "2026-11-15 02:15:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
@@ -487,6 +427,16 @@
         "team1Title": "Lithuania",
         "team2Title": "Liechtenstein",
         "streamLink": "FOX SOCCER+ HD,,https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://www.rtmpcdn.com/live/c54ee57a-06dc-4f0a-b02d-f26c22c40b87.m3u8,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/TOOOAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4711/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4705/image",
+        "team1Title": "Germany",
+        "team2Title": "Netherlands",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) beIN3 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) TVE La 1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|drmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54,) SPORT 1 CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "isHot": false
     },
     {
@@ -530,6 +480,46 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/129264/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4483/image",
+        "team1Title": "Gibraltar",
+        "team2Title": "Malta",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4777/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4484/image",
+        "team1Title": "North Macedonia",
+        "team2Title": "Slovenia",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4699/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4695/image",
+        "team1Title": "Switzerland",
+        "team2Title": "Scotland",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-17 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4710/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/6355/image",
+        "team1Title": "Greece",
+        "team2Title": "Serbia",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) beIN2 ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 00:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4818/image",
@@ -537,6 +527,16 @@
         "team1Title": "Andorra",
         "team2Title": "Azerbaijan",
         "streamLink": "Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-17 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2848/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/24336/image",
+        "team1Title": "Albacete Balompié",
+        "team2Title": "Celta Fortuna",
+        "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
         "isHot": false
     },
     {
