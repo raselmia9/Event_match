@@ -60,6 +60,26 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-16 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4760/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4782/image",
+        "team1Title": "Faroe Islands",
+        "team2Title": "Moldova",
+        "streamLink": "FOX SOCCER+ HD,,https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SonyLiv (Asia),,https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EAEAEAA.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Nations League",
+        "matchTime": "2026-11-16 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4772/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4697/image",
+        "team1Title": "Kazakhstan",
+        "team2Title": "Slovakia",
+        "streamLink": "FOX SPORTS HD,,https://chatgpt.hereisman.net/playlist/60251/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SonyLiv (Asia),,https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EAEAEAAA.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": true
+    },
+    {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
         "matchTime": "2026-11-16 19:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4719/image",
@@ -67,6 +87,16 @@
         "team1Title": "Zimbabwe",
         "team2Title": "Equatorial Guinea",
         "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) FASTER,,https://live.vivo155.com/live/sd-1-4642764.m3u8?txSecret=504fd65c5964a252965887e5696c5aee&txTime=6AFB0F59|Referer=https://player.on8on8.com/,) HD QUALITY,,https://www.rtmpcdn.com/live/7006e7e6-d7d5-4606-919e-5eac410b4fd1.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/DADADA.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-16 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23472/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4764/image",
+        "team1Title": "Somalia",
+        "team2Title": "Ghana",
+        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/EAEAEA.m3u8|Referer=http://www.fawanews.sc/",
         "isHot": true
     },
     {
@@ -127,7 +157,7 @@
         "team1Title": "DARTS PDC",
         "team2Title": "DARTS PDC",
         "streamLink": "QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BOXING | Monday Night RAW",
@@ -211,16 +241,6 @@
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4760/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4782/image",
-        "team1Title": "Faroe Islands",
-        "team2Title": "Moldova",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
         "matchTime": "2026-11-16 23:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4708/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4478/image",
@@ -228,16 +248,6 @@
         "team2Title": "Luxembourg",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4772/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4697/image",
-        "team1Title": "Kazakhstan",
-        "team2Title": "Slovakia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
@@ -437,16 +447,6 @@
         "team1Title": "Central African Republic",
         "team2Title": "Benin",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-16 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23472/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4764/image",
-        "team1Title": "Somalia",
-        "team2Title": "Ghana",
-        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
         "isHot": true
     },
     {
