@@ -120,26 +120,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-16 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23470/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4744/image",
-        "team1Title": "Central African Republic",
-        "team2Title": "Benin",
-        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) HD QUALITY,,https://www.rtmpcdn.com/live/935d94ec-c8b6-4e71-8584-bf84faa24209.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/BTBTBT.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-16 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/8041/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4826/image",
-        "team1Title": "Eritrea",
-        "team2Title": "Guinea",
-        "streamLink": "beIN Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) HD QUALITY,,https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/BTBTBTA.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Frauen-Bundesliga",
         "matchTime": "2026-11-16 23:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/527815/image",
@@ -327,7 +307,7 @@
         "team1Title": "Albacete Balompié",
         "team2Title": "Celta Fortuna",
         "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
@@ -611,12 +591,32 @@
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-16 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23470/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4744/image",
+        "team1Title": "Central African Republic",
+        "team2Title": "Benin",
+        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) HD QUALITY,,https://www.rtmpcdn.com/live/935d94ec-c8b6-4e71-8584-bf84faa24209.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/BTBTBT.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
         "matchTime": "2026-11-16 21:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/23472/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4764/image",
         "team1Title": "Somalia",
         "team2Title": "Ghana",
         "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) HD QUALITY,,https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/EAEAEA.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-16 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/8041/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4826/image",
+        "team1Title": "Eritrea",
+        "team2Title": "Guinea",
+        "streamLink": "beIN Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) HD QUALITY,,https://www.rtmpcdn.com/live/260fda44-c0a8-4e78-9bc0-4fb4dfc6e5c7.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/BTBTBTA.m3u8",
         "isHot": false
     },
     {
