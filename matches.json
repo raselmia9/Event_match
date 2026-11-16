@@ -50,26 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-17 02:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/492848/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/282538/image",
-        "team1Title": "CD Moquegua",
-        "team2Title": "Club Atlético Grau",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-17 02:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/63760/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/335557/image",
-        "team1Title": "Cusco FC",
-        "team2Title": "Asociación Deportiva Tarma",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
         "eventTitle": "BOXING | WWE NXT",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
@@ -107,7 +87,7 @@
         "team1Title": "Monday Night RAW",
         "team2Title": "Monday Night RAW",
         "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE RAW+ HD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE RAW+ HD 2,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE RAW ATL,,https://admin2.formaturamaxi.com.br/wwealt.m3u8,) WWE HD,,https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://embedcenter.st/",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | Nepal Premier League",
@@ -207,7 +187,7 @@
         "team1Title": "Martinique",
         "team2Title": "Aruba",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -217,7 +197,7 @@
         "team1Title": "Trinidad and Tobago",
         "team2Title": "Antigua and Barbuda",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -227,7 +207,7 @@
         "team1Title": "Washington Wizards",
         "team2Title": "Memphis Grizzlies",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -247,7 +227,7 @@
         "team1Title": "Cleveland Cavaliers",
         "team2Title": "Chicago Bulls",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -297,7 +277,7 @@
         "team1Title": "Boston Celtics",
         "team2Title": "Orlando Magic",
         "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -327,7 +307,7 @@
         "team1Title": "Kentucky Wildcats",
         "team2Title": "Grambling St Tigers",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -347,7 +327,7 @@
         "team1Title": "Rutgers Scarlet Knights",
         "team2Title": "Albany Great Danes",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BOXING | One Friday Fights",
@@ -541,11 +521,31 @@
     },
     {
         "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-17 02:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/492848/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/282538/image",
+        "team1Title": "CD Moquegua",
+        "team2Title": "Club Atlético Grau",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
         "matchTime": "2026-11-17 00:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/87854/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/252254/image",
         "team1Title": "Universidad Técnica de Cajamarca",
         "team2Title": "Los Chankas CYC",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-17 02:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/63760/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/335557/image",
+        "team1Title": "Cusco FC",
+        "team2Title": "Asociación Deportiva Tarma",
         "streamLink": "",
         "isHot": false
     },
