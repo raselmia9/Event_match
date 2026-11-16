@@ -90,6 +90,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "OTHER | DARTS PDC",
+        "matchTime": "2026-11-16 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team1Title": "DARTS PDC",
+        "team2Title": "DARTS PDC",
+        "streamLink": "QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | Monday Night RAW",
         "matchTime": "2026-11-17 06:00:00",
         "team1Logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
@@ -127,6 +137,16 @@
         "team1Title": "ABU DHABI T10 LEAGUE",
         "team2Title": "ABU DHABI T10 LEAGUE",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd|drmScheme=clearkey&drmLicense=61b5aed045f5f30c90cbbdd368b2abaf:7f9159dd162612a77f4c770199b27671,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NFL",
+        "matchTime": "2026-11-17 07:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4413/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4429/image",
+        "team1Title": "Baltimore Ravens",
+        "team2Title": "Los Angeles Chargers",
+        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) NBC SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY TOP EVENT,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "isHot": false
     },
     {
@@ -420,6 +440,136 @@
         "isHot": false
     },
     {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3431/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3415/image",
+        "team1Title": "Washington Wizards",
+        "team2Title": "Memphis Grizzlies",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5539/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3428/image",
+        "team1Title": "New Orleans Pelicans",
+        "team2Title": "Golden State Warriors",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
+        "team1Title": "Cleveland Cavaliers",
+        "team2Title": "Chicago Bulls",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3436/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3420/image",
+        "team1Title": "Brooklyn Nets",
+        "team2Title": "Philadelphia 76ers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3435/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3412/image",
+        "team1Title": "Miami Heat",
+        "team2Title": "Houston Rockets",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3417/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
+        "team1Title": "Denver Nuggets",
+        "team2Title": "Phoenix Suns",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3426/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3414/image",
+        "team1Title": "Minnesota Timberwolves",
+        "team2Title": "Portland Trail Blazers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3422/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3437/image",
+        "team1Title": "Boston Celtics",
+        "team2Title": "Orlando Magic",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-17 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
+        "team1Title": "Utah Mammoth",
+        "team2Title": "Vancouver Canucks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-17 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3701/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3690/image",
+        "team1Title": "New York Rangers",
+        "team2Title": "Montréal Canadiens",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41210/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/101901/image",
+        "team1Title": "Kentucky Wildcats",
+        "team2Title": "Grambling St Tigers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-17 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34626/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/66376/image",
+        "team1Title": "UCLA Bruins",
+        "team2Title": "Long Beach State 49ers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Women's Division I",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/271182/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/216383/image",
+        "team1Title": "Rutgers Scarlet Knights",
+        "team2Title": "Albany Great Danes",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | One Friday Fights",
         "matchTime": "2026-11-13 18:00:00",
         "team1Logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -450,16 +600,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "OTHER | DARTS PDC",
-        "matchTime": "2026-11-15 19:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team1Title": "DARTS PDC",
-        "team2Title": "DARTS PDC",
-        "streamLink": "QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
         "eventTitle": "FOOTBALL | Primera A",
         "matchTime": "2026-11-15 02:15:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
@@ -467,46 +607,6 @@
         "team1Title": "Primera A",
         "team2Title": "Primera A",
         "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) SIM QUALITY (USE VPN),,http://193.47.62.44/hls/VOOO.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-15 20:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4419/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4424/image",
-        "team1Title": "Detroit Lions",
-        "team2Title": "New England Patriots",
-        "streamLink": "NFL GAMEPASS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pwrdfli7tm/out/v1/e34552c7d03d4389b2c501b17bb08bbb/cenc.mpd|drmScheme=clearkey&drmLicense=3172ee620206d62857eee55b566e5f81:3bf5b7d1eef583f166000a0ba616ed1b,) NFL Multi Commentary,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yd6zs31t5x/out/v1/45b3a622367b4e3a901350eb9bf0ef70/cenc.mpd|drmScheme=clearkey&drmLicense=07dab65c49460e6bd0bb1a6e7bd294bb:1ac20ffd33db73a2895c2aa33db8fc14,) TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60146/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) NFL SERVER 2,,https://chatgpt.hereisman.net/playlist/60144/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) NFL SERVER 3,,https://chatgpt.hereisman.net/playlist/60145/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/K555AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-16 03:05:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4412/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4387/image",
-        "team1Title": "Arizona Cardinals",
-        "team2Title": "Los Angeles Rams",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60211/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_us_b0hk3wwd9m/index.m3u8,) TV QUALITY+ HD2,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_c688f121_26f2_41f9_a793_683373ef48c6/index.m3u8,) NFL GAMEPASS FHD,,https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HL1P8ZZC.mpd|drmScheme=clearkey&drmLicense=https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HL1P8ZZC,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/G5566.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-16 03:05:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4390/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4430/image",
-        "team1Title": "Las Vegas Raiders",
-        "team2Title": "Seattle Seahawks",
-        "streamLink": "TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60207/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://chatgpt.hereisman.net/playlist/60208/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60206/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_5b88549f_8373_4f86_a071_fc22e316d7b5/index.m3u8,) NFL GAMEPASS FHD,,https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HQK2GBMT.mpd|drmScheme=clearkey&drmLicense=https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HQK2GBMT,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/G5566AA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-16 03:25:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4392/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4389/image",
-        "team1Title": "Dallas Cowboys",
-        "team2Title": "San Francisco 49ers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60204/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60205/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_baa4ef43_5fc8_4cb0_b21b_973b02549d92/index.m3u8,) NFL GAMEPASS FHD,,https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HQ6P3KP3.mpd|drmScheme=clearkey&drmLicense=https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HQ6P3KP3,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/G5566A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -530,346 +630,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | LaLiga 2",
-        "matchTime": "2026-11-15 23:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/2839/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4488/image",
-        "team1Title": "Eibar",
-        "team2Title": "Cádiz",
-        "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | LaLiga 2",
-        "matchTime": "2026-11-15 23:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/47321/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/24335/image",
-        "team1Title": "CD Eldense",
-        "team2Title": "CE Sabadell",
-        "streamLink": "LaLiga Hypermotion2,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd|drmScheme=clearkey&drmLicense=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Women's Super League",
-        "matchTime": "2026-11-15 22:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/26243/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/326573/image",
-        "team1Title": "Arsenal",
-        "team2Title": "London City Lionesses",
-        "streamLink": "PARAMOUNT+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wb76qkwpd2/out/v1/d8723a43626742d98957c868dafd1f3a/cenc.mpd|drmScheme=clearkey&drmLicense=ff12a4e1149de4121ccd981d801039d0:5381913955b2a6c0902e4e5397485d39,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) SKY SPORTS EPL - FHD,,https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=,) SKY SPORTS EPL FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/K777AAAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-15 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4743/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4690/image",
-        "team1Title": "Belarus",
-        "team2Title": "Albania",
-        "streamLink": "DAZN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4y2n0b3mzr/out/v1/6eabe77b79a2452ba5beea2e07ec6d04/cenc.mpd|drmScheme=clearkey&drmLicense=632eb929f9b67a5a02ae90c6ea1d0d95:4d71dea32878b701f8b34b2de56e9ed3,) VIX Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iqxzwrzets/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd|drmScheme=clearkey&drmLicense=494b66b3aaee05c71955ccce3fa89a80:094cedebcc99cc6330387239fb59837b,) PRIME VIDEO FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmwuhp1hws/out/v1/c715377d57874eb498c1cb2275af2fff/cenc.mpd|drmScheme=clearkey&drmLicense=9ea3cfbcbe792ef4e3c9bab7280f3793:045bafb3b7a7acad6df77dcc04ef8a0b,) BEIN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) DAZN DE FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cvusmtfnts/out/v1/d34e2f7debf04808b460c6e853780a2d/cenc.mpd|drmScheme=clearkey&drmLicense=4123c9f31da2605b28c7f3c50d2c5518:a86f9977c842c527c31e93214f0e1645,) SPORT1 CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) FOX SOCCER + HD,,https://chatgpt.hereisman.net/playlist/60171/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://www.rtmpcdn.com/live/f9df0015-1e2b-44c2-b80d-20f372802281.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/K777AAAAAQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) SonyLiv (Asia),,https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-15 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4712/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4833/image",
-        "team1Title": "Finland",
-        "team2Title": "San Marino",
-        "streamLink": "DAZN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/02cdnhlbid/out/v1/94aadb4bd7a640a8aa86570b05c65fc5/cenc.mpd|drmScheme=clearkey&drmLicense=eb8197b92ed1a0fdb8c42acbeba1ecac:cf0d6814c0a6204ed806e7e2a9257019,) VIX Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9j3iljnh38/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd|drmScheme=clearkey&drmLicense=6c96d8398108dd078b7bdd6d1c9e3851:adecdb42626d3b645d9de91020d0c009,) PRIME VIDEO FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9xfmoxo78e/out/v1/c09ad451a5574e88985a5cada5beeaa7/cenc.mpd|drmScheme=clearkey&drmLicense=dffe157865c86031cae36cb054a557c8:73afe341f01e5be99932c12462f2f9a6,) BeIN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) DAZN DE FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yytlwsi9hl/out/v1/6f629b2ff3fc4a33a473b4ea44938e50/cenc.mpd|drmScheme=clearkey&drmLicense=030dcf3003687362ebcd0d1be623dd9c:2a8df5baca39f325433bd0d275862343,) SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) DAZN SPORTS HD,,https://chatgpt.hereisman.net/playlist/60170/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://www.rtmpcdn.com/live/fa20cc01-ec22-4ad1-955e-e73325a1e0d0.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/K777AAAAAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4698/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4713/image",
-        "team1Title": "Spain",
-        "team2Title": "England",
-        "streamLink": "VIX Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5o9hdmdfrm/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd|drmScheme=clearkey&drmLicense=7bc4236304752eaeab92f844412eebe8:2610dfd2072192991a8b66283d5840aa,) PRIME VIDEO FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1/f7e44627d00044f5a6d3bdaf6a279e19/cenc.mpd|drmScheme=clearkey&drmLicense=d568a08ab13f76b669f07683491edd61:2193f3a42079453f341e73cc8f228186,) DAZN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mqwyj7yhod/out/v1/edcfd775dcd740d99bc7c8469b70c0ce/cenc.mpd|drmScheme=clearkey&drmLicense=2d4040dccd613f280fd3f0918cfc8288:c2a6197e856f672dda686d74986998e4,) BEIN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) TVE La 1 ES FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|drmScheme=clearkey&drmLicense=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54,) SPORT1 CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60195/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KKKKAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY,,https://www.rtmpcdn.com/live/3ee6bb15-0a9e-4f51-96ec-335948942e0c.m3u8|Referer=http://www.fawanews.sc/,) SonyLiv (Asia),,https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4715/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4714/image",
-        "team1Title": "Croatia",
-        "team2Title": "Czechia",
-        "streamLink": "PRIME VIDEO FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl5ausniat/out/v1/2cef55ba14124120af25d697c91fe486/cenc.mpd|drmScheme=clearkey&drmLicense=edd836bc0824ecbe942be493a60843b8:9788340d03514b59a986cadc1b6cb4e9,) DAZN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2csfd49imd/out/v1/9dfa731721a4448db026417ddadd0ee8/cenc.mpd|drmScheme=clearkey&drmLicense=f922eb47a1ba2d24816da9c8fdb0aba1:47854f2d7ed8ce4a65025603e2ea3b6b,) VIX Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ljtyc73ncu/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd|drmScheme=clearkey&drmLicense=61708c95b87c2a8b9773567ababb8b53:c6cab010bfaafe4c327671d33cef63b1,) FOX SOCCER + HD,,https://chatgpt.hereisman.net/playlist/60198/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_71d67c4c_6ea6_48fb_be5c_1445101c584e/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/KKKKA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4481/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4700/image",
-        "team1Title": "France",
-        "team2Title": "Türkiye",
-        "streamLink": "DAZN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btkkuwb4qs/out/v1/327b33c3e0c34b8382ead83b198974e4/cenc.mpd|drmScheme=clearkey&drmLicense=2920c80cf0049c1a90fe34522eb62eff:b335f7c3a6b05ba96eaf05953b9f7b92,) PRIME VIDEO FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yrxcll7ms/out/v1/dbd120f7d0e849c0a6fa3062b148db73/cenc.mpd|drmScheme=clearkey&drmLicense=44771cb414b1394a0f89a7c951744c8e:91d836ee7fe2650e08cfbb9c72ccccc0,) FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) VIX Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eommy1gias/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd|drmScheme=clearkey&drmLicense=92754c4946ab8007c919a25d08394ae2:ea58831665208f64c781595cca9ddae7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60197/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KKKKAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4717/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4707/image",
-        "team1Title": "Belgium",
-        "team2Title": "Italy",
-        "streamLink": "DAZN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9ygvtffy/out/v1/f2a8c782c6664f649cf5ec23e4f578af/cenc.mpd|drmScheme=clearkey&drmLicense=9c99e376ca072739ff5a424d2644321c:90c06edbb9465cb58d230501299cf559,) PRIME VIDEO FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bebouklpnn/out/v1/afd41b1a05f541729c4e8a8f671a6a3b/cenc.mpd|drmScheme=clearkey&drmLicense=3600cc1ba4192a18b3f6eeb13219c0fe:dd794a3d9f0a7802edca45b30cd09023,) BeIN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) VIX Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwjlmyb59s/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd|drmScheme=clearkey&drmLicense=e3f9cc220f9e73b355ae62bb40ba90fb:6e5f24e4e845e5d552a28787ff470d9d,) SPORT2 TV CZ FHD,,https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KKKK.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga F Moeve",
-        "matchTime": "2026-11-15 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/262253/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/77889/image",
-        "team1Title": "Real Club Deportivo de A Coruña",
-        "team2Title": "Fútbol Club Barcelona",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/K777AAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/K777AAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga F Moeve",
-        "matchTime": "2026-11-15 23:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/77909/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/114819/image",
-        "team1Title": "Valencia",
-        "team2Title": "Granada Club de Fútbol",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/J444.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | CAF Women's Champions League",
-        "matchTime": "2026-11-15 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/331932/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/378992/image",
-        "team1Title": "Mamelodi Sundowns",
-        "team2Title": "AS FAR Rabat",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/N555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/N555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-16 02:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/511206/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/458584/image",
-        "team1Title": "ACD Juan Pablo II",
-        "team2Title": "Deportivo Garcilaso",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/213609/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2312/image",
-        "team1Title": "Comerciantes Unidos",
-        "team2Title": "Sport Boys",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/J444AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | NWSL",
-        "matchTime": "2026-11-16 02:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34718/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/377826/image",
-        "team1Title": "NJ/NY Gotham FC",
-        "team2Title": "Kansas City Current",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHHAAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5164/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/55827/image",
-        "team1Title": "Panama",
-        "team2Title": "Curaçao",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) FOX SOCCER,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": false
-    },
-    {
-        "eventTitle": "RUGBY | Nations Championship",
-        "matchTime": "2026-11-15 21:10:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4230/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4223/image",
-        "team1Title": "Scotland",
-        "team2Title": "Australia",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/K777.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/K777.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-16 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3696/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3705/image",
-        "team1Title": "San Jose Sharks",
-        "team2Title": "Nashville Predators",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60246/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-16 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/257523/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
-        "team1Title": "Vegas Golden Knights",
-        "team2Title": "Vancouver Canucks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60245/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3422/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3411/image",
-        "team1Title": "Boston Celtics",
-        "team2Title": "Dallas Mavericks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/Z555.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 03:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3425/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3430/image",
-        "team1Title": "Los Angeles Clippers",
-        "team2Title": "Charlotte Hornets",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60213/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) NBA LEAGUEPASS FHD,,https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0FBYLA6RKBXFY3X5IFPY4P3ZDZ.mpd|drmScheme=clearkey&drmLicense=https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0FBYLA6RKBXFY3X5IFPY4P3ZDZ,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/E666AA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 04:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3434/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3429/image",
-        "team1Title": "Utah Jazz",
-        "team2Title": "San Antonio Spurs",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/E666AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 03:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3416/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3427/image",
-        "team1Title": "Phoenix Suns",
-        "team2Title": "Los Angeles Lakers",
-        "streamLink": "NBA LEAGUEPASS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvww44glgx/out/v1/7ea0ace804754c73a2580b3156039598/cenc.mpd|drmScheme=clearkey&drmLicense=3ca19f31c530a41236266adc467cad29:deea9447f55180a35e5435853d65b730,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 4,,https://www.rtmpcdn.com/live/d971c459-44ef-41ba-b27a-64dbb86610bf.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/E666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3420/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3419/image",
-        "team1Title": "Philadelphia 76ers",
-        "team2Title": "Indiana Pacers",
-        "streamLink": "NBA LEAGUEPASS FHD,,https://primevideo.com.playfytvboss.online/ottb/live/nbapass-in/0OWOZTLCGZBM0H9W11KXMU3J05.mpd|drmScheme=clearkey&drmLicense=https://primevideo.com.playfytvboss.online/license/nbapass-in/?asin=0OWOZTLCGZBM0H9W11KXMU3J05,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60176/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J444AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3413/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3418/image",
-        "team1Title": "Sacramento Kings",
-        "team2Title": "Oklahoma City Thunder",
-        "streamLink": "NBA LEAGUPASS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i6xvtnyoht/out/v1/a172413261ef401eb579399df2efb812/cenc.mpd|drmScheme=clearkey&drmLicense=0f3f595a08be072eb2554156462e9722:0d3836ed59adfb1ae0836dffd8e8973a,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60249/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://chatgpt.hereisman.net/playlist/60247/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3433/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3421/image",
-        "team1Title": "Toronto Raptors",
-        "team2Title": "New York Knicks",
-        "streamLink": "TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/Z555A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-16 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3431/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3412/image",
-        "team1Title": "Washington Wizards",
-        "team2Title": "Houston Rockets",
-        "streamLink": "NBA LEAGUEPASS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpnvh8mfpq/out/v1/893008030ee94853b8eef03c05043354/cenc.mpd|drmScheme=clearkey&drmLicense=09b412e37ca0175accefddfb452ccc3f:fb39b1cbee9383da8f01a367d46479f7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60238/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60231/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | CFL",
-        "matchTime": "2026-11-16 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4434/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4439/image",
-        "team1Title": "Edmonton Elks",
-        "team2Title": "Montreal Alouettes",
-        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/GYYY.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Copa do Brasil, Feminino",
-        "matchTime": "2026-11-16 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/311632/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/248722/image",
-        "team1Title": "Internacional",
-        "team2Title": "Flamengo",
-        "streamLink": "SPORTV2 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-        "isHot": false
-    },
-    {
-        "eventTitle": "HOCKEY | World Championship Women",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5721/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5724/image",
-        "team1Title": "Canada",
-        "team2Title": "Sweden",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60187/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-16 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/47360/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4385/image",
-        "team1Title": "Oklahoma Sooners",
-        "team2Title": "Ole Miss Rebels",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60179/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHH.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League",
-        "matchTime": "2026-11-16 01:40:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team1Title": "SIMULACAST",
-        "team2Title": "SIMULACAST",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHHAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Categoría Primera B",
-        "matchTime": "2026-11-16 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/89366/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1166437/image",
-        "team1Title": "Boca Juniors de Cali",
-        "team2Title": "Independiente Valle del Cauca",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/EHHHHAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHHAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Copa Bolivia",
-        "matchTime": "2026-11-16 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/268083/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/372975/image",
-        "team1Title": "Club Always Ready",
-        "team2Title": "Club Independiente Petrolero",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/EHHHHA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EHHHHA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
         "eventTitle": "BASKETBALL | Liga ACB",
         "matchTime": "2026-11-16 00:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3553/image",
@@ -877,16 +637,6 @@
         "team1Title": "Kosner Baskonia",
         "team2Title": "Real Madrid",
         "streamLink": "",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-09 07:20:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4416/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4345/image",
-        "team1Title": "Cincinnati Bengals",
-        "team2Title": "Pittsburgh Steelers",
-        "streamLink": "NFL GAMEPASS FHD,,https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tamtjjhks4/out/v1/93e8c6a973f84e2282b6405ce8e5ecfe/cenc.mpd?|drmScheme=clearkey&drmLicense=3ebd76b7cf305c862d66e5c09d28a41f:2a27f3ecd377f2678edc4582c39c0571,) PEACOCK TV FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1tlqdlip8x/out/v1/462efc5b633049cbb86b356d039a1760/cenc.mpd?|drmScheme=clearkey&drmLicense=8eeaa628536c9ce691944e027691ce4d:e7234bd7eea041a50d4af5c1432c3774,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) NBC SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SKY TOP EVENT,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TV QUALITY+ HD,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_cad7a85c_624f_4343_8018_65994b0e5768/index.m3u8",
         "isHot": false
     },
     {
