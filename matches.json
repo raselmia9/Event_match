@@ -150,16 +150,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | King's Cup",
-        "matchTime": "2026-11-17 18:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23488/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4730/image",
-        "team1Title": "Tajikistan",
-        "team2Title": "Thailand",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | SAFF Championship",
         "matchTime": "2026-11-17 20:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
@@ -267,7 +257,7 @@
         "team1Title": "Gambia",
         "team2Title": "Côte d'Ivoire",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -277,7 +267,7 @@
         "team1Title": "Togo",
         "team2Title": "Algeria",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -287,7 +277,7 @@
         "team1Title": "Kenya",
         "team2Title": "South Africa",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -297,7 +287,7 @@
         "team1Title": "Libya",
         "team2Title": "Tunisia",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -307,7 +297,7 @@
         "team1Title": "Guinea-Bissau",
         "team2Title": "Madagascar",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -317,7 +307,7 @@
         "team1Title": "Sierra Leone",
         "team2Title": "DR Congo",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -457,7 +447,7 @@
         "team1Title": "Kuwait",
         "team2Title": "Honduras",
         "streamLink": "STREAM TV + HD,,https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -466,7 +456,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4723/image",
         "team1Title": "Saudi Arabia",
         "team2Title": "Uzbekistan",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/JJJJG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -476,8 +466,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4741/image",
         "team1Title": "Jordan",
         "team2Title": "Australia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -536,8 +526,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4722/image",
         "team1Title": "Russia",
         "team2Title": "Venezuela",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -697,7 +687,7 @@
         "team1Title": "BC Dubai",
         "team2Title": "Anadolu Efes",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
@@ -987,6 +977,16 @@
         "team1Title": "China",
         "team2Title": "Bahrain",
         "streamLink": "STREAM TV + HD,,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8,) HD QUALITY,,https://www.rtmpcdn.com/live/16e7e114-f5c9-436e-ae15-8b26b9186da0.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Bahrain Sports2,,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | King's Cup",
+        "matchTime": "2026-11-17 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23488/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4730/image",
+        "team1Title": "Tajikistan",
+        "team2Title": "Thailand",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
