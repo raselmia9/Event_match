@@ -61,32 +61,12 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3431/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3415/image",
-        "team1Title": "Washington Wizards",
-        "team2Title": "Memphis Grizzlies",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60280/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60285/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60284/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/51735357-c195-4b4a-a97c-96191309b1c0.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-17 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/5539/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3428/image",
         "team1Title": "New Orleans Pelicans",
         "team2Title": "Golden State Warriors",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60295/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://www.rtmpcdn.com/live/611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGGAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
-        "team1Title": "Cleveland Cavaliers",
-        "team2Title": "Chicago Bulls",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60275/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60286/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/d21103a3-c32e-424d-b8ea-50436f519f40.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKK.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -130,16 +110,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3422/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3437/image",
-        "team1Title": "Boston Celtics",
-        "team2Title": "Orlando Magic",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60279/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60287/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60288/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-17 08:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
@@ -161,22 +131,12 @@
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/41210/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/101901/image",
-        "team1Title": "Kentucky Wildcats",
-        "team2Title": "Grambling St Tigers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60274/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Women's Division I",
-        "matchTime": "2026-11-17 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/271182/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/216383/image",
-        "team1Title": "Rutgers Scarlet Knights",
-        "team2Title": "Albany Great Danes",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60283/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "matchTime": "2026-11-17 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34626/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/66376/image",
+        "team1Title": "UCLA Bruins",
+        "team2Title": "Long Beach State 49ers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -288,16 +248,6 @@
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmScheme=clearkey&drmLicense=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmScheme=clearkey&drmLicense=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-17 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34626/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/66376/image",
-        "team1Title": "UCLA Bruins",
-        "team2Title": "Long Beach State 49ers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -937,6 +887,56 @@
         "team1Title": "Trinidad and Tobago",
         "team2Title": "Antigua and Barbuda",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY,,https://www.rtmpcdn.com/live/285eaad2-be9b-426b-9b3d-3875988c9882.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/CUUUAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3431/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3415/image",
+        "team1Title": "Washington Wizards",
+        "team2Title": "Memphis Grizzlies",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60280/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60285/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60284/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/51735357-c195-4b4a-a97c-96191309b1c0.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
+        "team1Title": "Cleveland Cavaliers",
+        "team2Title": "Chicago Bulls",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60275/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60286/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/d21103a3-c32e-424d-b8ea-50436f519f40.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKK.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3422/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3437/image",
+        "team1Title": "Boston Celtics",
+        "team2Title": "Orlando Magic",
+        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60279/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60287/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60288/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41210/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/101901/image",
+        "team1Title": "Kentucky Wildcats",
+        "team2Title": "Grambling St Tigers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60274/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Women's Division I",
+        "matchTime": "2026-11-17 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/271182/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/216383/image",
+        "team1Title": "Rutgers Scarlet Knights",
+        "team2Title": "Albany Great Danes",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60283/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
