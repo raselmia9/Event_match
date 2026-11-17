@@ -70,6 +70,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | King's Cup",
+        "matchTime": "2026-11-17 15:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4787/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/23491/image",
+        "team1Title": "Oman",
+        "team2Title": "Brunei Darussalam",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
         "eventTitle": "BOXING | WWE NXT",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
@@ -407,7 +417,7 @@
         "team1Title": "Singapore",
         "team2Title": "Brazil",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -628,16 +638,6 @@
         "team2Title": "Montserrat",
         "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | King's Cup",
-        "matchTime": "2026-11-17 15:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4787/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/23491/image",
-        "team1Title": "Oman",
-        "team2Title": "Brunei Darussalam",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | King's Cup",
