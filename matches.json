@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "CRICKET | UEFA Nations League",
-        "matchTime": "2026-11-18 01:30:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team1Title": "SIMULACAST",
-        "team2Title": "SIMULACAST",
-        "streamLink": "QUALITY (USE VPN),,http://193.47.62.41/hls/YDDD.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | GOLF EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
@@ -30,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "OTHER | DARTS PDC",
-        "matchTime": "2026-11-18 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team1Title": "DARTS PDC",
-        "team2Title": "DARTS PDC",
-        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | TENNIS | EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
@@ -51,12 +31,22 @@
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-18 03:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4819/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4756/image",
-        "team1Title": "Argentina",
-        "team2Title": "Costa Rica",
-        "streamLink": "SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) SporTV BR ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) TYC SPORTS INT,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
+        "matchTime": "2026-11-18 05:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4757/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4746/image",
+        "team1Title": "Ecuador",
+        "team2Title": "Bolivia",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-18 05:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4725/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21813/image",
+        "team1Title": "Uruguay",
+        "team2Title": "Dominican Republic",
+        "streamLink": "",
         "isHot": true
     },
     {
@@ -160,26 +150,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-18 05:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4757/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4746/image",
-        "team1Title": "Ecuador",
-        "team2Title": "Bolivia",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-18 05:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4725/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/21813/image",
-        "team1Title": "Uruguay",
-        "team2Title": "Dominican Republic",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/52906/image",
@@ -257,7 +227,7 @@
         "team1Title": "Toronto Raptors",
         "team2Title": "New York Knicks",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -357,7 +327,7 @@
         "team1Title": "Chicago Blackhawks",
         "team2Title": "Toronto Maple Leafs",
         "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -377,7 +347,7 @@
         "team1Title": "Tampa Bay Lightning",
         "team2Title": "Washington Capitals",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -417,7 +387,7 @@
         "team1Title": "Alabama Crimson Tide",
         "team2Title": "Kennesaw State Owls",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -427,7 +397,7 @@
         "team1Title": "Arkansas Razorbacks",
         "team2Title": "Indiana Hoosiers",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -480,6 +450,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "CRICKET | UEFA Nations League",
+        "matchTime": "2026-11-18 01:30:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "team1Title": "SIMULACAST",
+        "team2Title": "SIMULACAST",
+        "streamLink": "QUALITY (USE VPN),,http://193.47.62.41/hls/YDDD.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | One Friday Fights",
         "matchTime": "2026-11-13 18:00:00",
         "team1Logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -507,6 +487,16 @@
         "team1Title": "AEW",
         "team2Title": "AEW",
         "streamLink": "AEW LIVE FHD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "OTHER | DARTS PDC",
+        "matchTime": "2026-11-18 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team1Title": "DARTS PDC",
+        "team2Title": "DARTS PDC",
+        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -807,6 +797,16 @@
         "team1Title": "Jordan",
         "team2Title": "Australia",
         "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-18 03:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4819/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4756/image",
+        "team1Title": "Argentina",
+        "team2Title": "Costa Rica",
+        "streamLink": "SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) SporTV BR ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) TYC SPORTS INT,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
         "isHot": false
     },
     {
