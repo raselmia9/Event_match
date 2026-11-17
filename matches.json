@@ -50,86 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4762/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4768/image",
-        "team1Title": "Gambia",
-        "team2Title": "Côte d'Ivoire",
-        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) HD QUALITY +,,https://www.rtmpcdn.com/live/345a6ca0-7a8c-42f2-829c-40fcbfce3b22.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/tbbbA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4836/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4691/image",
-        "team1Title": "Togo",
-        "team2Title": "Algeria",
-        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) HD QUALITY +,,https://www.rtmpcdn.com/live/92f14f98-fc9b-4764-a9b9-2e823f7c8029.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4773/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4736/image",
-        "team1Title": "Kenya",
-        "team2Title": "South Africa",
-        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) HD QUALITY,,https://www.rtmpcdn.com/live/452f0645-0606-43ae-8692-9948da007c23.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/tbbb.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4775/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4729/image",
-        "team1Title": "Libya",
-        "team2Title": "Tunisia",
-        "streamLink": "HD QUALITY +,,https://www.rtmpcdn.com/live/8bc39f53-705d-4846-9657-f661e6d41d29.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23478/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/8035/image",
-        "team1Title": "Guinea-Bissau",
-        "team2Title": "Madagascar",
-        "streamLink": "HD QUALITY +,,https://www.rtmpcdn.com/live/f1672970-f83d-4ed6-8c96-4db04cac96b2.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4737/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4823/image",
-        "team1Title": "Sierra Leone",
-        "team2Title": "DR Congo",
-        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) HD QUALITY +,,https://www.rtmpcdn.com/live/5905dc85-a3e6-46d6-ad51-e26a7d93302b.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/tbbbAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5368/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4827/image",
-        "team1Title": "Kuwait",
-        "team2Title": "Honduras",
-        "streamLink": "STREAM TV + HD,,https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4771/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4741/image",
-        "team1Title": "Jordan",
-        "team2Title": "Australia",
-        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 22:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/5368/image",
@@ -137,16 +57,6 @@
         "team1Title": "Kuwait",
         "team2Title": "Honduras",
         "streamLink": "STREAM TV + HD,,https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4694/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4722/image",
-        "team1Title": "Russia",
-        "team2Title": "Venezuela",
-        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/593bde94-727e-49d9-a807-e6694c1baa28.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -617,7 +527,7 @@
         "team1Title": "Barça Basket",
         "team2Title": "Paris Basketball",
         "streamLink": "D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
@@ -637,7 +547,7 @@
         "team1Title": "Kosner Baskonia",
         "team2Title": "Hapoel Tel-Aviv",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
@@ -647,7 +557,7 @@
         "team1Title": "EA7 Emporio Armani Milano",
         "team2Title": "KK Crvena zvezda",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
@@ -780,6 +690,116 @@
         "isHot": false
     },
     {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41223/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86666/image",
+        "team1Title": "Houston Cougars",
+        "team2Title": "Rutgers Scarlet Knights",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 03:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41197/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/41198/image",
+        "team1Title": "Florida Gators",
+        "team2Title": "Notre Dame Fighting Irish",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34622/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/34628/image",
+        "team1Title": "Duke Blue Devils",
+        "team2Title": "Illinois Fighting Illini",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/86752/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86830/image",
+        "team1Title": "Miami Hurricanes",
+        "team2Title": "Rider Broncs",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/66366/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/191017/image",
+        "team1Title": "Alabama Crimson Tide",
+        "team2Title": "Kennesaw State Owls",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/87830/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/66358/image",
+        "team1Title": "Arkansas Razorbacks",
+        "team2Title": "Indiana Hoosiers",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41200/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86794/image",
+        "team1Title": "Vanderbilt Commodores",
+        "team2Title": "Eastern Illinois Panthers",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34633/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/34656/image",
+        "team1Title": "Tennessee Volunteers",
+        "team2Title": "Michigan State Spartans",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/66378/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/41199/image",
+        "team1Title": "Virginia Cavaliers",
+        "team2Title": "Old Dominion Monarchs",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Women's Division I",
+        "matchTime": "2026-11-18 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/271212/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/271025/image",
+        "team1Title": "UNLV Rebels",
+        "team2Title": "Rice Owls",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34620/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86710/image",
+        "team1Title": "Gonzaga Bulldogs",
+        "team2Title": "Montana State Bobcats",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | One Friday Fights",
         "matchTime": "2026-11-13 18:00:00",
         "team1Logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -850,6 +870,76 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4762/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4768/image",
+        "team1Title": "Gambia",
+        "team2Title": "Côte d'Ivoire",
+        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) HD QUALITY +,,https://www.rtmpcdn.com/live/345a6ca0-7a8c-42f2-829c-40fcbfce3b22.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/tbbbA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4836/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4691/image",
+        "team1Title": "Togo",
+        "team2Title": "Algeria",
+        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) HD QUALITY +,,https://www.rtmpcdn.com/live/92f14f98-fc9b-4764-a9b9-2e823f7c8029.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4773/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4736/image",
+        "team1Title": "Kenya",
+        "team2Title": "South Africa",
+        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) HD QUALITY,,https://www.rtmpcdn.com/live/452f0645-0606-43ae-8692-9948da007c23.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/tbbb.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4775/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4729/image",
+        "team1Title": "Libya",
+        "team2Title": "Tunisia",
+        "streamLink": "HD QUALITY +,,https://www.rtmpcdn.com/live/8bc39f53-705d-4846-9657-f661e6d41d29.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23478/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/8035/image",
+        "team1Title": "Guinea-Bissau",
+        "team2Title": "Madagascar",
+        "streamLink": "HD QUALITY +,,https://www.rtmpcdn.com/live/f1672970-f83d-4ed6-8c96-4db04cac96b2.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4737/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4823/image",
+        "team1Title": "Sierra Leone",
+        "team2Title": "DR Congo",
+        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) HD QUALITY +,,https://www.rtmpcdn.com/live/5905dc85-a3e6-46d6-ad51-e26a7d93302b.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/tbbbAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5368/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4827/image",
+        "team1Title": "Kuwait",
+        "team2Title": "Honduras",
+        "streamLink": "STREAM TV + HD,,https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 21:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4834/image",
@@ -877,6 +967,26 @@
         "team1Title": "United Arab Emirates",
         "team2Title": "Syria",
         "streamLink": "Dubai Sports 1,,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Abu Dhabi Sports 1,,j",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4771/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4741/image",
+        "team1Title": "Jordan",
+        "team2Title": "Australia",
+        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4694/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4722/image",
+        "team1Title": "Russia",
+        "team2Title": "Venezuela",
+        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/593bde94-727e-49d9-a807-e6694c1baa28.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
