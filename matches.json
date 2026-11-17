@@ -80,116 +80,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7930/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/7050/image",
-        "team1Title": "Kyrgyzstan",
-        "team2Title": "Vietnam",
-        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/55217c48-6317-4259-80a7-9df8f0c89bde.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4755/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5161/image",
-        "team1Title": "China",
-        "team2Title": "Bahrain",
-        "streamLink": "STREAM TV + HD,,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8,) HD QUALITY,,https://www.rtmpcdn.com/live/16e7e114-f5c9-436e-ae15-8b26b9186da0.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Bahrain Sports2,,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | King's Cup",
-        "matchTime": "2026-11-17 18:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23488/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4730/image",
-        "team1Title": "Tajikistan",
-        "team2Title": "Thailand",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BOXING | WWE NXT",
-        "matchTime": "2026-11-18 06:00:00",
-        "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "team2Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "team1Title": "WWE NXT",
-        "team2Title": "WWE NXT",
-        "streamLink": "WWE TV4 + HD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) WWE LIVE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) WWE TV5 + HD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "MOTORSPORTS | Formula 1",
-        "matchTime": "2026-11-20 06:30:00",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
-        "team1Title": "Formula 1",
-        "team2Title": "Formula 1",
-        "streamLink": "FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) SKY SPORT F1 FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd|drmScheme=clearkey&drmLicense=0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) SporTV3 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) CANAL MX FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) FORMULA TV HD,,https://chatgpt.hereisman.net/playlist/59362/load-playlist-multi?|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/ffffn.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) SKY F1 (ITALY),,https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-        "isHot": false
-    },
-    {
-        "eventTitle": "MOTORSPORTS | MotorGP",
-        "matchTime": "2026-11-20 16:45:00",
-        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "team1Title": "MotorGP",
-        "team2Title": "MotorGP",
-        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY SPORT MIX FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
-        "isHot": false
-    },
-    {
-        "eventTitle": "OTHER | DARTS PDC",
-        "matchTime": "2026-11-18 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team1Title": "DARTS PDC",
-        "team2Title": "DARTS PDC",
-        "streamLink": "NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | One Day International",
-        "matchTime": "2026-11-19 04:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-        "team1Title": "New Zealand",
-        "team2Title": "India",
-        "streamLink": "PRIME VIDEO (ENG),,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?|drmScheme=clearkey&drmLicense=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae,) PRIME VIDEO (HINDI),,https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?|drmScheme=clearkey&drmLicense=be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) WILLOW - AdFree,,https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?|drmScheme=clearkey&drmLicense=1f64db3174349a969b3f9686b28fa2ec:9a24a60537b3628ce17fc07404520d16,) WILLOW - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?|drmScheme=clearkey&drmLicense=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-        "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
-        "matchTime": "2026-11-17 19:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team1Title": "ABU DHABI T10 LEAGUE",
-        "team2Title": "ABU DHABI T10 LEAGUE",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd|drmScheme=clearkey&drmLicense=eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | One Day International",
-        "matchTime": "2026-11-18 09:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
-        "team1Title": "Australia",
-        "team2Title": "England",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd|drmScheme=clearkey&drmLicense=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/vvvve.m3u8|Referer=http://www.fawanews.sc/",
-        "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | College GameDay",
-        "matchTime": "2026-11-21 18:00:00",
-        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
-        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
-        "team1Title": "College GameDay",
-        "team2Title": "College GameDay",
-        "streamLink": "Link 1,,https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
         "matchTime": "2026-11-17 19:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/8033/image",
@@ -250,13 +140,133 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7930/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7050/image",
+        "team1Title": "Kyrgyzstan",
+        "team2Title": "Vietnam",
+        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/55217c48-6317-4259-80a7-9df8f0c89bde.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4755/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5161/image",
+        "team1Title": "China",
+        "team2Title": "Bahrain",
+        "streamLink": "STREAM TV + HD,,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8,) HD QUALITY,,https://www.rtmpcdn.com/live/16e7e114-f5c9-436e-ae15-8b26b9186da0.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Bahrain Sports2,,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | King's Cup",
+        "matchTime": "2026-11-17 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23488/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4730/image",
+        "team1Title": "Tajikistan",
+        "team2Title": "Thailand",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Friendly Match",
+        "matchTime": "2026-11-17 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/934425/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/385283/image",
+        "team1Title": "Palestine",
+        "team2Title": "Lebanon",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BOXING | WWE NXT",
+        "matchTime": "2026-11-18 06:00:00",
+        "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "team2Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "team1Title": "WWE NXT",
+        "team2Title": "WWE NXT",
+        "streamLink": "WWE TV4 + HD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) WWE LIVE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) WWE TV5 + HD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "MOTORSPORTS | Formula 1",
+        "matchTime": "2026-11-20 06:30:00",
+        "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
+        "team1Title": "Formula 1",
+        "team2Title": "Formula 1",
+        "streamLink": "FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) SKY SPORT F1 FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd|drmScheme=clearkey&drmLicense=0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) SporTV3 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) CANAL MX FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) FORMULA TV HD,,https://chatgpt.hereisman.net/playlist/59362/load-playlist-multi?|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/ffffn.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) SKY F1 (ITALY),,https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1791804090_s~35174801-9c9a-4ac6-8180-bcceaba6c98a_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_l~70_x~743ee2be13010752947f25f2eda5b1b044b9c8690dcbb5f1493a82650dd39ca2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118d83348830358060d408a72f56f29:648378946f2f70f43af47ff9bf3e329b,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+        "isHot": false
+    },
+    {
+        "eventTitle": "MOTORSPORTS | MotorGP",
+        "matchTime": "2026-11-20 16:45:00",
+        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "team1Title": "MotorGP",
+        "team2Title": "MotorGP",
+        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY SPORT MIX FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+        "isHot": false
+    },
+    {
+        "eventTitle": "OTHER | DARTS PDC",
+        "matchTime": "2026-11-18 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team1Title": "DARTS PDC",
+        "team2Title": "DARTS PDC",
+        "streamLink": "NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | One Day International",
+        "matchTime": "2026-11-19 04:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
+        "team1Title": "New Zealand",
+        "team2Title": "India",
+        "streamLink": "PRIME VIDEO (ENG),,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?|drmScheme=clearkey&drmLicense=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae,) PRIME VIDEO (HINDI),,https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?|drmScheme=clearkey&drmLicense=be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) WILLOW - AdFree,,https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?|drmScheme=clearkey&drmLicense=1f64db3174349a969b3f9686b28fa2ec:9a24a60537b3628ce17fc07404520d16,) WILLOW - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?|drmScheme=clearkey&drmLicense=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
+        "matchTime": "2026-11-17 19:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team1Title": "ABU DHABI T10 LEAGUE",
+        "team2Title": "ABU DHABI T10 LEAGUE",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd|drmScheme=clearkey&drmLicense=eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CRICKET | One Day International",
+        "matchTime": "2026-11-18 09:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
+        "team1Title": "Australia",
+        "team2Title": "England",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd|drmScheme=clearkey&drmLicense=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/vvvve.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | College GameDay",
+        "matchTime": "2026-11-21 18:00:00",
+        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
+        "team1Title": "College GameDay",
+        "team2Title": "College GameDay",
+        "streamLink": "Link 1,,https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
         "matchTime": "2026-11-17 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4762/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4768/image",
         "team1Title": "Gambia",
         "team2Title": "Côte d'Ivoire",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -266,7 +276,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4691/image",
         "team1Title": "Togo",
         "team2Title": "Algeria",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -276,7 +286,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4736/image",
         "team1Title": "Kenya",
         "team2Title": "South Africa",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -286,7 +296,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4729/image",
         "team1Title": "Libya",
         "team2Title": "Tunisia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -296,7 +306,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/8035/image",
         "team1Title": "Guinea-Bissau",
         "team2Title": "Madagascar",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -306,7 +316,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4823/image",
         "team1Title": "Sierra Leone",
         "team2Title": "DR Congo",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -316,7 +326,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4753/image",
         "team1Title": "Liberia",
         "team2Title": "Cabo Verde",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -326,7 +336,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4749/image",
         "team1Title": "Mauritania",
         "team2Title": "Burkina Faso",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -346,7 +356,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/23494/image",
         "team1Title": "Congo Republic",
         "team2Title": "Comoros",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -356,7 +366,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4831/image",
         "team1Title": "Rwanda",
         "team2Title": "Mali",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -436,7 +446,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4477/image",
         "team1Title": "Bosnia & Herzegovina",
         "team2Title": "Romania",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -467,7 +477,7 @@
         "team1Title": "Qatar",
         "team2Title": "South Korea",
         "streamLink": "ALKASS 1,,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -626,7 +636,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/7229/image",
         "team1Title": "USA",
         "team2Title": "Haiti",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -657,16 +667,6 @@
         "team1Title": "India",
         "team2Title": "Pakistan",
         "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Friendly Match",
-        "matchTime": "2026-11-17 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/934425/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/385283/image",
-        "team1Title": "Palestine",
-        "team2Title": "Lebanon",
-        "streamLink": "",
         "isHot": true
     },
     {
@@ -917,6 +917,16 @@
         "team1Title": "Vegas Golden Knights",
         "team2Title": "Dallas Stars",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
+        "matchTime": "2026-11-18 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/8031/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4778/image",
+        "team1Title": "Niger",
+        "team2Title": "Morocco",
+        "streamLink": "",
         "isHot": false
     },
     {
