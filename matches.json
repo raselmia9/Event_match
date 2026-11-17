@@ -180,6 +180,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-18 03:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4819/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4756/image",
+        "team1Title": "Argentina",
+        "team2Title": "Costa Rica",
+        "streamLink": "SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) SporTV BR ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) TYC SPORTS INT,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
+        "isHot": true
+    },
+    {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
         "matchTime": "2026-11-18 01:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/21812/image",
@@ -217,26 +227,6 @@
         "team1Title": "Saint Kitts and Nevis",
         "team2Title": "Bonaire",
         "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-18 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3514/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3536/image",
-        "team1Title": "Fenerbahçe Tarfin",
-        "team2Title": "LDLC ASVEL Lyon-Villeurbanne",
-        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/598f92bf-430b-4fbd-8c1e-509801af30df.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HHHHAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-18 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6662/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/26071/image",
-        "team1Title": "Kauno Žalgiris",
-        "team2Title": "Bayern München",
-        "streamLink": "D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HHHHAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY + TV,,https://www.rtmpcdn.com/live/2ab1dfb1-a9ae-401e-8408-d5894dbf46b9.m3u8",
         "isHot": true
     },
     {
@@ -398,16 +388,6 @@
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-18 03:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4819/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4756/image",
-        "team1Title": "Argentina",
-        "team2Title": "Costa Rica",
-        "streamLink": "SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) SporTV BR ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) TYC SPORTS INT,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -997,6 +977,26 @@
         "team1Title": "BC Dubai",
         "team2Title": "Anadolu Efes",
         "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3514/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3536/image",
+        "team1Title": "Fenerbahçe Tarfin",
+        "team2Title": "LDLC ASVEL Lyon-Villeurbanne",
+        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/598f92bf-430b-4fbd-8c1e-509801af30df.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HHHHAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6662/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/26071/image",
+        "team1Title": "Kauno Žalgiris",
+        "team2Title": "Bayern München",
+        "streamLink": "D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HHHHAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY + TV,,https://www.rtmpcdn.com/live/2ab1dfb1-a9ae-401e-8408-d5894dbf46b9.m3u8",
         "isHot": false
     },
     {
