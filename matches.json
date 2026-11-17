@@ -50,16 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
-        "matchTime": "2026-11-17 19:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team1Title": "ABU DHABI T10 LEAGUE",
-        "team2Title": "ABU DHABI T10 LEAGUE",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|drmScheme=clearkey&drmLicense=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
         "matchTime": "2026-11-18 01:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/8034/image",
@@ -667,7 +657,7 @@
         "team1Title": "Florida Gators",
         "team2Title": "Notre Dame Fighting Irish",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -817,6 +807,16 @@
         "team1Title": "Primera A",
         "team2Title": "Primera A",
         "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) SIM QUALITY (USE VPN),,http://193.47.62.44/hls/VOOO.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
+        "matchTime": "2026-11-17 19:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team1Title": "ABU DHABI T10 LEAGUE",
+        "team2Title": "ABU DHABI T10 LEAGUE",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|drmScheme=clearkey&drmLicense=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
         "isHot": false
     },
     {
