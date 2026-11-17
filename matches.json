@@ -60,23 +60,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-18 02:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5621/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3508/image",
-        "team1Title": "Virtus Bologna",
-        "team2Title": "Panathinaikos BC",
-        "streamLink": "D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/YDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-18 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6637/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3545/image",
-        "team1Title": "KK Partizan Mozzart Bet",
-        "team2Title": "Valencia Basket",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/YDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/YDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-18 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4754/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4820/image",
+        "team1Title": "Chile",
+        "team2Title": "Colombia",
+        "streamLink": "",
         "isHot": true
     },
     {
@@ -97,7 +87,7 @@
         "team1Title": "WWE NXT",
         "team2Title": "WWE NXT",
         "streamLink": "WWE TV4 + HD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) WWE LIVE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) WWE TV5 + HD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "MOTORSPORTS | Formula 1",
@@ -190,16 +180,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-18 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4754/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4820/image",
-        "team1Title": "Chile",
-        "team2Title": "Colombia",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/52906/image",
@@ -207,7 +187,7 @@
         "team1Title": "French Guiana",
         "team2Title": "Saint Vincent and the Grenadines",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY +,,http://162.251.160.53:8089/1009/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -227,7 +207,7 @@
         "team1Title": "USA",
         "team2Title": "Haiti",
         "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/951/index.m3u8,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -307,7 +287,7 @@
         "team1Title": "Philadelphia Flyers",
         "team2Title": "Buffalo Sabres",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -317,7 +297,7 @@
         "team1Title": "Boston Bruins",
         "team2Title": "Los Angeles Kings",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -327,7 +307,7 @@
         "team1Title": "Winnipeg Jets",
         "team2Title": "Ottawa Senators",
         "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -337,7 +317,7 @@
         "team1Title": "New York Islanders",
         "team2Title": "Columbus Blue Jackets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -347,7 +327,7 @@
         "team1Title": "Florida Panthers",
         "team2Title": "Edmonton Oilers",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -417,7 +397,7 @@
         "team1Title": "Duke Blue Devils",
         "team2Title": "Illinois Fighting Illini",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -427,7 +407,7 @@
         "team1Title": "Miami Hurricanes",
         "team2Title": "Rider Broncs",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -951,6 +931,16 @@
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5621/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3508/image",
+        "team1Title": "Virtus Bologna",
+        "team2Title": "Panathinaikos BC",
+        "streamLink": "D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/YDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
         "matchTime": "2026-11-18 01:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3553/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/82179/image",
@@ -967,6 +957,16 @@
         "team1Title": "EA7 Emporio Armani Milano",
         "team2Title": "KK Crvena zvezda",
         "streamLink": "HD QUALITY,,https://www.rtmpcdn.com/live/a239e5e0-ce14-415c-9139-20cc6a1e5745.m3u8,) LOW QUALITY (USE VPN),,https://www.rtmpcdn.com/live/a239e5e0-ce14-415c-9139-20cc6a1e5745.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6637/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3545/image",
+        "team1Title": "KK Partizan Mozzart Bet",
+        "team2Title": "Valencia Basket",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/YDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/YDDDA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
