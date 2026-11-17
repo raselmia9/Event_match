@@ -56,7 +56,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4768/image",
         "team1Title": "Gambia",
         "team2Title": "Côte d'Ivoire",
-        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/tbbbA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) HD QUALITY +,,https://www.rtmpcdn.com/live/345a6ca0-7a8c-42f2-829c-40fcbfce3b22.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/tbbbA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -66,7 +66,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4691/image",
         "team1Title": "Togo",
         "team2Title": "Algeria",
-        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) HD QUALITY +,,https://www.rtmpcdn.com/live/92f14f98-fc9b-4764-a9b9-2e823f7c8029.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -76,7 +76,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4736/image",
         "team1Title": "Kenya",
         "team2Title": "South Africa",
-        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/tbbb.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) HD QUALITY,,https://www.rtmpcdn.com/live/452f0645-0606-43ae-8692-9948da007c23.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/tbbb.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -86,7 +86,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4729/image",
         "team1Title": "Libya",
         "team2Title": "Tunisia",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "HD QUALITY +,,https://www.rtmpcdn.com/live/8bc39f53-705d-4846-9657-f661e6d41d29.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -96,7 +96,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/8035/image",
         "team1Title": "Guinea-Bissau",
         "team2Title": "Madagascar",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "HD QUALITY +,,https://www.rtmpcdn.com/live/f1672970-f83d-4ed6-8c96-4db04cac96b2.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tbbbAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -106,7 +106,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4823/image",
         "team1Title": "Sierra Leone",
         "team2Title": "DR Congo",
-        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/tbbbAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) HD QUALITY +,,https://www.rtmpcdn.com/live/5905dc85-a3e6-46d6-ad51-e26a7d93302b.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/tbbbAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -166,7 +166,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3501/image",
         "team1Title": "Maccabi Tel Aviv",
         "team2Title": "Olympiacos BC",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/J555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -176,7 +176,27 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3515/image",
         "team1Title": "BC Dubai",
         "team2Title": "Anadolu Efes",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/JJJJGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-17 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41201/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/87466/image",
+        "team1Title": "Murray State Racers",
+        "team2Title": "Hofstra Pride",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60310/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-17 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41201/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/87466/image",
+        "team1Title": "Murray State Racers",
+        "team2Title": "Hofstra Pride",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60310/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -276,7 +296,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4753/image",
         "team1Title": "Liberia",
         "team2Title": "Cabo Verde",
-        "streamLink": "",
+        "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hqdrwghb/index.m3u8",
         "isHot": false
     },
     {
@@ -286,7 +306,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4749/image",
         "team1Title": "Mauritania",
         "team2Title": "Burkina Faso",
-        "streamLink": "",
+        "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hpkt39tv/index.m3u8",
         "isHot": false
     },
     {
@@ -296,7 +316,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4726/image",
         "team1Title": "Botswana",
         "team2Title": "Uganda",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hf5v597h/index.m3u8",
         "isHot": false
     },
     {
@@ -306,7 +326,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/23494/image",
         "team1Title": "Congo Republic",
         "team2Title": "Comoros",
-        "streamLink": "",
+        "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hqjq4mf4/index.m3u8",
         "isHot": false
     },
     {
@@ -336,7 +356,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/154426/image",
         "team1Title": "Ireland",
         "team2Title": "Kosovo",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY +,,http://162.251.160.53:8089/698/index.m3u8",
         "isHot": false
     },
     {
@@ -346,7 +366,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4763/image",
         "team1Title": "Ukraine",
         "team2Title": "Georgia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY +,,http://162.251.160.53:8089/355/index.m3u8",
         "isHot": false
     },
     {
@@ -376,7 +396,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4718/image",
         "team1Title": "Israel",
         "team2Title": "Austria",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY +,,http://162.251.160.53:8089/711/index.m3u8",
         "isHot": false
     },
     {
@@ -386,7 +406,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4688/image",
         "team1Title": "Poland",
         "team2Title": "Sweden",
-        "streamLink": "SPORTV2 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "SPORTV2 BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|drmScheme=clearkey&drmLicense=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY +,,http://162.251.160.53:8089/800/index.m3u8",
         "isHot": false
     },
     {
@@ -396,7 +416,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4477/image",
         "team1Title": "Bosnia & Herzegovina",
         "team2Title": "Romania",
-        "streamLink": "",
+        "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/469/index.m3u8",
         "isHot": false
     },
     {
@@ -476,7 +496,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/21821/image",
         "team1Title": "French Guiana",
         "team2Title": "Saint Vincent and the Grenadines",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY +,,http://162.251.160.53:8089/1009/index.m3u8",
         "isHot": false
     },
     {
@@ -496,7 +516,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/33812/image",
         "team1Title": "El Salvador",
         "team2Title": "Saint Martin",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) HD QUALITY +,,http://162.251.160.53:8089/1121/index.m3u8",
         "isHot": false
     },
     {
@@ -506,7 +526,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/7229/image",
         "team1Title": "USA",
         "team2Title": "Haiti",
-        "streamLink": "",
+        "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/951/index.m3u8",
         "isHot": false
     },
     {
@@ -516,7 +536,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4769/image",
         "team1Title": "Mexico",
         "team2Title": "Jamaica",
-        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411,) HD QUALITY +,,http://162.251.160.53:8089/1266/index.m3u8",
         "isHot": false
     },
     {
@@ -526,7 +546,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/21815/image",
         "team1Title": "Nicaragua",
         "team2Title": "Montserrat",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) HD QUALITY +,,http://162.251.160.53:8089/1333/index.m3u8",
         "isHot": false
     },
     {
@@ -756,7 +776,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4778/image",
         "team1Title": "Niger",
         "team2Title": "Morocco",
-        "streamLink": "",
+        "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hhs8bg9y/index.m3u8",
         "isHot": false
     },
     {
