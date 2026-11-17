@@ -50,23 +50,23 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | Women's Big Bash League",
+        "matchTime": "2026-11-17 14:10:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team1Title": "WBBL",
+        "team2Title": "WBBL",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/ZZZZAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-17 14:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/187744/image",
         "team1Title": "South Africa",
         "team2Title": "Bangladesh",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmScheme=clearkey&drmLicense=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmScheme=clearkey&drmLicense=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 12:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4721/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/6912/image",
-        "team1Title": "Yemen",
-        "team2Title": "Malaysia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -118,16 +118,6 @@
         "team2Title": "India",
         "streamLink": "PRIME VIDEO (ENG),,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?|drmScheme=clearkey&drmLicense=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae,) PRIME VIDEO (HINDI),,https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?|drmScheme=clearkey&drmLicense=be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) WILLOW - AdFree,,https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?|drmScheme=clearkey&drmLicense=1f64db3174349a969b3f9686b28fa2ec:9a24a60537b3628ce17fc07404520d16,) WILLOW - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?|drmScheme=clearkey&drmLicense=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
         "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | Women's Big Bash League",
-        "matchTime": "2026-11-17 14:10:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team1Title": "WBBL",
-        "team2Title": "WBBL",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/ZZZZAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "CRICKET | One Day International",
@@ -907,6 +897,16 @@
         "team1Title": "Rutgers Scarlet Knights",
         "team2Title": "Albany Great Danes",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60283/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 12:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4721/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/6912/image",
+        "team1Title": "Yemen",
+        "team2Title": "Malaysia",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
