@@ -1,15 +1,5 @@
 [
     {
-        "eventTitle": "BOXING | Monday Night RAW",
-        "matchTime": "2026-11-09 07:00:00",
-        "team1Logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
-        "team2Logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
-        "team1Title": "Monday Night RAW",
-        "team2Title": "Monday Night RAW",
-        "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE RAW+ HD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE RAW+ HD 2,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE RAW ATL,,https://admin2.formaturamaxi.com.br/wwealt.m3u8,) WWE HD,,https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://embedcenter.st/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/CUUUAAAK.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | GOLF EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
@@ -40,6 +30,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | Test Series",
+        "matchTime": "2026-11-17 11:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187745/image",
+        "team1Title": "Afghanistan",
+        "team2Title": "Zimbabwe",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RREGEGEA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-17 10:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
@@ -57,16 +57,6 @@
         "team1Title": "Baltimore Ravens",
         "team2Title": "Los Angeles Chargers",
         "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) NBC SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|drmScheme=clearkey&drmLicense=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) HD QUALITY 1,,https://chatgpt.hereisman.net/playlist/60266/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60267/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60268/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 4,,https://chatgpt.hereisman.net/playlist/60269/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) MINICAST TV,,https://chatgpt.hereisman.net/playlist/60271/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/R222.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) QUALITY (USE VPN),,http://193.47.62.50/hls/R222X.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-17 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3417/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
-        "team1Title": "Denver Nuggets",
-        "team2Title": "Phoenix Suns",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60304/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKKAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKKAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -128,16 +118,6 @@
         "team2Title": "India",
         "streamLink": "PRIME VIDEO (ENG),,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd?|drmScheme=clearkey&drmLicense=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae,) PRIME VIDEO (HINDI),,https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?|drmScheme=clearkey&drmLicense=be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) WILLOW - AdFree,,https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd?|drmScheme=clearkey&drmLicense=1f64db3174349a969b3f9686b28fa2ec:9a24a60537b3628ce17fc07404520d16,) WILLOW - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd?|drmScheme=clearkey&drmLicense=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
         "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | Test Series",
-        "matchTime": "2026-11-17 11:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187575/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187745/image",
-        "team1Title": "Afghanistan",
-        "team2Title": "Zimbabwe",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RREGEGEA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "CRICKET | Women's Big Bash League",
@@ -437,7 +417,7 @@
         "team1Title": "Yemen",
         "team2Title": "Malaysia",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -881,6 +861,16 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3417/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
+        "team1Title": "Denver Nuggets",
+        "team2Title": "Phoenix Suns",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60304/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKKAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKKAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-17 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3426/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3414/image",
@@ -927,6 +917,16 @@
         "team1Title": "Rutgers Scarlet Knights",
         "team2Title": "Albany Great Danes",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60283/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BOXING | Monday Night RAW",
+        "matchTime": "2026-11-09 07:00:00",
+        "team1Logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+        "team2Logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
+        "team1Title": "Monday Night RAW",
+        "team2Title": "Monday Night RAW",
+        "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE RAW+ HD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE RAW+ HD 2,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE RAW ATL,,https://admin2.formaturamaxi.com.br/wwealt.m3u8,) WWE HD,,https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://embedcenter.st/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/CUUUAAAK.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
