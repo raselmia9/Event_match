@@ -201,16 +201,6 @@
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/41223/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86666/image",
-        "team1Title": "Houston Cougars",
-        "team2Title": "Rutgers Scarlet Knights",
-        "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/60319/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-18 03:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/41197/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/41198/image",
@@ -327,7 +317,7 @@
         "team1Title": "Chile",
         "team2Title": "Colombia",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -1007,6 +997,16 @@
         "team1Title": "Murray State Racers",
         "team2Title": "Hofstra Pride",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60310/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41223/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86666/image",
+        "team1Title": "Houston Cougars",
+        "team2Title": "Rutgers Scarlet Knights",
+        "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/60319/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
