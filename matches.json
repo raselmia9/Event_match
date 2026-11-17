@@ -131,26 +131,6 @@
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 20:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4792/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4735/image",
-        "team1Title": "Qatar",
-        "team2Title": "South Korea",
-        "streamLink": "ALKASS 1,,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 20:10:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4727/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4731/image",
-        "team1Title": "United Arab Emirates",
-        "team2Title": "Syria",
-        "streamLink": "Dubai Sports 1,,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Abu Dhabi Sports 1,,j",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4771/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4741/image",
@@ -161,22 +141,22 @@
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 22:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5368/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4827/image",
+        "team1Title": "Kuwait",
+        "team2Title": "Honduras",
+        "streamLink": "STREAM TV + HD,,https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4694/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4722/image",
         "team1Title": "Russia",
         "team2Title": "Venezuela",
         "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | SAFF Championship",
-        "matchTime": "2026-11-17 20:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/6081/image",
-        "team1Title": "India",
-        "team2Title": "Pakistan",
-        "streamLink": "FASTER TV,,https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/,) BTV BD FHD,,https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8,) T SPORTS HD,,http://116.204.149.16/T_SportsFHD/index.m3u8,) QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) VETO TV (IND),,https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8,) BTV BD FHD,,https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
         "isHot": true
     },
     {
@@ -438,16 +418,6 @@
         "team2Title": "Dominican Republic",
         "streamLink": "",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 22:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5368/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4827/image",
-        "team1Title": "Kuwait",
-        "team2Title": "Honduras",
-        "streamLink": "STREAM TV + HD,,https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
@@ -857,6 +827,36 @@
         "team1Title": "Horse Racing",
         "team2Title": "Horse Racing",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4792/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4735/image",
+        "team1Title": "Qatar",
+        "team2Title": "South Korea",
+        "streamLink": "ALKASS 1,,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 20:10:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4727/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4731/image",
+        "team1Title": "United Arab Emirates",
+        "team2Title": "Syria",
+        "streamLink": "Dubai Sports 1,,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Abu Dhabi Sports 1,,j",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | SAFF Championship",
+        "matchTime": "2026-11-17 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/6081/image",
+        "team1Title": "India",
+        "team2Title": "Pakistan",
+        "streamLink": "FASTER TV,,https://live.vivo155.com/live/sd-1-4669474.m3u8?txSecret=1ed73fd0e716a25fb5200e8db10fe530&txTime=6AFC73AC|Referer=https://player.on8on8.com/,) BTV BD FHD,,https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8,) T SPORTS HD,,http://116.204.149.16/T_SportsFHD/index.m3u8,) QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) VETO TV (IND),,https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8,) BTV BD FHD,,https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
         "isHot": false
     },
     {
