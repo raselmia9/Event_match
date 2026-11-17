@@ -60,13 +60,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-17 08:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
-        "team1Title": "Utah Mammoth",
-        "team2Title": "Vancouver Canucks",
-        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60305/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 11:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/23477/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/23475/image",
+        "team1Title": "Tahiti",
+        "team2Title": "Cook Islands",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -416,16 +416,6 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/6912/image",
         "team1Title": "Yemen",
         "team2Title": "Malaysia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 11:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/23477/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/23475/image",
-        "team1Title": "Tahiti",
-        "team2Title": "Cook Islands",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
@@ -887,6 +877,16 @@
         "team1Title": "Boston Celtics",
         "team2Title": "Orlando Magic",
         "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60279/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60287/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60288/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/12217875-4aa4-4bc7-b6a4-8e1b083ac7e8.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-17 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
+        "team1Title": "Utah Mammoth",
+        "team2Title": "Vancouver Canucks",
+        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60305/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
