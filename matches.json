@@ -51,16 +51,6 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-17 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5539/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3428/image",
-        "team1Title": "New Orleans Pelicans",
-        "team2Title": "Golden State Warriors",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60295/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://www.rtmpcdn.com/live/611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGGAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-17 08:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3417/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
@@ -70,33 +60,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-17 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3426/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3414/image",
-        "team1Title": "Minnesota Timberwolves",
-        "team2Title": "Portland Trail Blazers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60298/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKKAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-17 08:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
         "team1Title": "Utah Mammoth",
         "team2Title": "Vancouver Canucks",
-        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-17 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34626/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/66376/image",
-        "team1Title": "UCLA Bruins",
-        "team2Title": "Long Beach State 49ers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60305/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -157,7 +127,7 @@
         "team1Title": "Afghanistan",
         "team2Title": "Zimbabwe",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd|drmScheme=clearkey&drmLicense=b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RREGEGEA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | ICC World Test Championship",
@@ -871,6 +841,16 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5539/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3428/image",
+        "team1Title": "New Orleans Pelicans",
+        "team2Title": "Golden State Warriors",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60295/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://www.rtmpcdn.com/live/611ce42b-5b42-4ab9-ae5c-aa1bf53e0b48.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGGAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-17 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
@@ -897,6 +877,16 @@
         "team1Title": "Miami Heat",
         "team2Title": "Houston Rockets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60289/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60293/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://www.rtmpcdn.com/live/62c33bbd-9d9f-4d5d-8603-235b75e939ab.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-17 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3426/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3414/image",
+        "team1Title": "Minnesota Timberwolves",
+        "team2Title": "Portland Trail Blazers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60298/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY+,,https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/TKKKAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
