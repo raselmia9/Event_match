@@ -81,12 +81,32 @@
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7930/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7050/image",
+        "team1Title": "Kyrgyzstan",
+        "team2Title": "Vietnam",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 16:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4738/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4748/image",
         "team1Title": "Singapore",
         "team2Title": "Brazil",
         "streamLink": "SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) SporTV BR ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/,) HD QUALITY 2,,https://www.rtmpcdn.com/live/0972098c-089b-42aa-b107-66a0bdf00b02.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/RARARA.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4755/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5161/image",
+        "team1Title": "China",
+        "team2Title": "Bahrain",
+        "streamLink": "STREAM TV + HD,,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Bahrain Sports2,,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
         "isHot": true
     },
     {
@@ -156,8 +176,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4761/image",
         "team1Title": "Lesotho",
         "team2Title": "Gabon",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "streamLink": "beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/TTTTAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -166,8 +186,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4758/image",
         "team1Title": "Malawi",
         "team2Title": "Egypt",
-        "streamLink": "beIN ESPNAOL FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) BeIN SPORTS3 - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-        "isHot": false
+        "streamLink": "beIN ESPNAOL FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) BeIN SPORTS3 - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/TTTTAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -176,8 +196,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4720/image",
         "team1Title": "Burundi",
         "team2Title": "Zambia",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/TTTT.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/TTTT.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -186,8 +206,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4692/image",
         "team1Title": "South Sudan",
         "team2Title": "Angola",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "streamLink": "STREAM TV + HD,,http://193.47.62.55/hls/TTTTAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/TTTTAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -196,8 +216,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4783/image",
         "team1Title": "Ethiopia",
         "team2Title": "Mozambique",
-        "streamLink": "beIN SPORTS HD,,https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=jJ8GHzeJIzYZUoWBKmzdFw&e=2094509894&scheme=https",
-        "isHot": false
+        "streamLink": "beIN SPORTS HD,,https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=jJ8GHzeJIzYZUoWBKmzdFw&e=2094509894&scheme=https,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/TTTTA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -206,8 +226,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4785/image",
         "team1Title": "Tanzania",
         "team2Title": "Nigeria",
-        "streamLink": "beIN ENGLISH2 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "isHot": false
+        "streamLink": "beIN ENGLISH FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) beIN SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/NYNYNY.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -401,26 +421,6 @@
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7930/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/7050/image",
-        "team1Title": "Kyrgyzstan",
-        "team2Title": "Vietnam",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4755/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5161/image",
-        "team1Title": "China",
-        "team2Title": "Bahrain",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/5368/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4827/image",
@@ -446,7 +446,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4735/image",
         "team1Title": "Qatar",
         "team2Title": "South Korea",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "ALKASS 1,,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -456,7 +456,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4731/image",
         "team1Title": "United Arab Emirates",
         "team2Title": "Syria",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "Dubai Sports 1,,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Abu Dhabi Sports 1,,j",
         "isHot": false
     },
     {
@@ -466,7 +466,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4789/image",
         "team1Title": "Japan",
         "team2Title": "Paraguay",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -486,7 +486,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4756/image",
         "team1Title": "Argentina",
         "team2Title": "Costa Rica",
-        "streamLink": "TYC SPORTS INT,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
+        "streamLink": "SporTV BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) SporTV BR ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b,) TYC SPORTS INT,,https://cast.zlive.st/p/auto-tyc-sports-internacional-0/index.m3u8?|Referer=https://zlive.st/",
         "isHot": false
     },
     {
@@ -636,7 +636,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4730/image",
         "team1Title": "Tajikistan",
         "team2Title": "Thailand",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -646,8 +646,18 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/6081/image",
         "team1Title": "India",
         "team2Title": "Pakistan",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/DGGGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DGGGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Friendly Match",
+        "matchTime": "2026-11-17 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/934425/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/385283/image",
+        "team1Title": "Palestine",
+        "team2Title": "Lebanon",
+        "streamLink": "",
+        "isHot": true
     },
     {
         "eventTitle": "BOXING | One Friday Fights",
@@ -866,7 +876,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3690/image",
         "team1Title": "New York Rangers",
         "team2Title": "Montréal Canadiens",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) SKY SPORTS MIX,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60291/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0b501ef9-a9d9-4463-90cc-8a1cac530097/master.m3u8",
+        "streamLink": "",
         "isHot": false
     },
     {
