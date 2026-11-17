@@ -121,22 +121,12 @@
     },
     {
         "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-17 21:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4834/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4723/image",
-        "team1Title": "Saudi Arabia",
-        "team2Title": "Uzbekistan",
-        "streamLink": "STREAM TV + HD,,https://fhlsport955.cdx904gouh.xyz/token-cRB%2Fz7CVKfSGu2UqkPY6zG%2FSlMCGjCDjbS2vw6NHRjej77ScHUFbA5QtqRJWWkoGRnzZ3zVnmvt4f5FMXUoY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/p3p81q2rnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_953812/index.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) DISNEY HD,,https://www.rtmpcdn.com/live/f9223cd3-8aee-4d4a-ae67-2bc407aaf2cc.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | International Friendly Games",
         "matchTime": "2026-11-17 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4771/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4741/image",
         "team1Title": "Jordan",
         "team2Title": "Australia",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -156,7 +146,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4722/image",
         "team1Title": "Russia",
         "team2Title": "Venezuela",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/593bde94-727e-49d9-a807-e6694c1baa28.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -166,7 +156,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3501/image",
         "team1Title": "Maccabi Tel Aviv",
         "team2Title": "Olympiacos BC",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "HD QUALITY,,https://www.rtmpcdn.com/live/82d95ec8-ca83-432b-82e2-0242f3742306.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/J555AAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -177,6 +167,26 @@
         "team1Title": "BC Dubai",
         "team2Title": "Anadolu Efes",
         "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3514/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3536/image",
+        "team1Title": "Fenerbahçe Tarfin",
+        "team2Title": "LDLC ASVEL Lyon-Villeurbanne",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/HHHHAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HHHHAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6662/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/26071/image",
+        "team1Title": "Kauno Žalgiris",
+        "team2Title": "Bayern München",
+        "streamLink": "D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/HHHHAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -237,7 +247,7 @@
         "team1Title": "DARTS PDC",
         "team2Title": "DARTS PDC",
         "streamLink": "NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | One Day International",
@@ -297,7 +307,7 @@
         "team1Title": "Liberia",
         "team2Title": "Cabo Verde",
         "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hqdrwghb/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -307,7 +317,7 @@
         "team1Title": "Mauritania",
         "team2Title": "Burkina Faso",
         "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hpkt39tv/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -317,7 +327,7 @@
         "team1Title": "Botswana",
         "team2Title": "Uganda",
         "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hf5v597h/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -327,7 +337,7 @@
         "team1Title": "Congo Republic",
         "team2Title": "Comoros",
         "streamLink": "HD QUALITY +,,http://162.251.160.53:8089/prime_us_b0hqjq4mf4/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Africa Cup of Nations Qual.",
@@ -337,7 +347,7 @@
         "team1Title": "Rwanda",
         "team2Title": "Mali",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Nations League",
@@ -467,7 +477,7 @@
         "team1Title": "Dominica",
         "team2Title": "Cayman Islands",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -477,7 +487,7 @@
         "team1Title": "Saint Lucia",
         "team2Title": "Barbados",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -487,7 +497,7 @@
         "team1Title": "Belize",
         "team2Title": "Sint Maarten",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -507,7 +517,7 @@
         "team1Title": "Saint Kitts and Nevis",
         "team2Title": "Bonaire",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -598,16 +608,6 @@
         "team2Title": "Utah Jazz",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-18 00:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6662/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/26071/image",
-        "team1Title": "Kauno Žalgiris",
-        "team2Title": "Bayern München",
-        "streamLink": "D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
@@ -847,6 +847,16 @@
         "team1Title": "Horse Racing",
         "team2Title": "Horse Racing",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-17 21:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4834/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4723/image",
+        "team1Title": "Saudi Arabia",
+        "team2Title": "Uzbekistan",
+        "streamLink": "STREAM TV + HD,,https://fhlsport955.cdx904gouh.xyz/token-cRB%2Fz7CVKfSGu2UqkPY6zG%2FSlMCGjCDjbS2vw6NHRjej77ScHUFbA5QtqRJWWkoGRnzZ3zVnmvt4f5FMXUoY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/p3p81q2rnUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_953812/index.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) DISNEY HD,,https://www.rtmpcdn.com/live/f9223cd3-8aee-4d4a-ae67-2bc407aaf2cc.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJG.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
