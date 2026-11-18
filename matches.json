@@ -61,6 +61,16 @@
     },
     {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21845/image",
+        "team1Title": "Remo",
+        "team2Title": "Chapecoense",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
         "matchTime": "2026-11-19 04:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/1982/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/1968/image",
@@ -97,7 +107,7 @@
         "team1Title": "AEW",
         "team2Title": "AEW",
         "streamLink": "AEW LIVE FHD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | ICC World Test Championship",
@@ -201,16 +211,6 @@
     },
     {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-19 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/21845/image",
-        "team1Title": "Remo",
-        "team2Title": "Chapecoense",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
         "matchTime": "2026-11-19 05:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/5981/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/1967/image",
@@ -297,7 +297,7 @@
         "team1Title": "Indiana Pacers",
         "team2Title": "Houston Rockets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -307,7 +307,7 @@
         "team1Title": "Orlando Magic",
         "team2Title": "Philadelphia 76ers",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -337,7 +337,7 @@
         "team1Title": "Vice City Heat",
         "team2Title": "Milwaukee Bucks",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -347,7 +347,7 @@
         "team1Title": "Cleveland Cavaliers",
         "team2Title": "Memphis Grizzlies",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
