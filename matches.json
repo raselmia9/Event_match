@@ -70,26 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-18 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3696/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3679/image",
-        "team1Title": "San Jose Sharks",
-        "team2Title": "Calgary Flames",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-18 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/257523/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3684/image",
-        "team1Title": "Vegas Golden Knights",
-        "team2Title": "Dallas Stars",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-18 10:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/34620/image",
@@ -97,26 +77,6 @@
         "team1Title": "Gonzaga Bulldogs",
         "team2Title": "Montana State Bobcats",
         "streamLink": "HD QUALITY + TV,,https://chatgpt.hereisman.net/playlist/60384/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/303671/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86802/image",
-        "team1Title": "California Baptist Lancers",
-        "team2Title": "Seattle Redhawks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60370/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/86766/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86662/image",
-        "team1Title": "Stanford Cardinal",
-        "team2Title": "UC Irvine Anteaters",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60371/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -871,6 +831,16 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-18 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3696/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3679/image",
+        "team1Title": "San Jose Sharks",
+        "team2Title": "Calgary Flames",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-18 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3693/image",
@@ -897,6 +867,16 @@
         "team1Title": "Tampa Bay Lightning",
         "team2Title": "Washington Capitals",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-18 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/257523/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3684/image",
+        "team1Title": "Vegas Golden Knights",
+        "team2Title": "Dallas Stars",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
@@ -1037,6 +1017,26 @@
         "team1Title": "Luton Town",
         "team2Title": "Peterborough United",
         "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/EIIIAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/EIIIAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/303671/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86802/image",
+        "team1Title": "California Baptist Lancers",
+        "team2Title": "Seattle Redhawks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60370/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/86766/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86662/image",
+        "team1Title": "Stanford Cardinal",
+        "team2Title": "UC Irvine Anteaters",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60371/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
