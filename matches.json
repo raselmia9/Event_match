@@ -1,5 +1,15 @@
 [
     {
+        "eventTitle": "FOOTBALL | Copa Colombia",
+        "matchTime": "2026-11-06 07:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6102/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1164534/image",
+        "team1Title": "América de Cali",
+        "team2Title": "Internacional de Bogotá",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel23.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/YPPP.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "OTHER | GOLF EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
@@ -16,7 +26,7 @@
         "team2Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
         "team1Title": "WWE NXT",
         "team2Title": "WWE NXT",
-        "streamLink": "WWE TV4 + HD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) WWE LIVE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) WWE TV5 + HD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
+        "streamLink": "HD QUALITY + TV,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE TV4 + HD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) WWE LIVE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) WWE TV5 + HD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
         "isHot": true
     },
     {
@@ -41,32 +51,22 @@
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-18 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/52906/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/21821/image",
-        "team1Title": "French Guiana",
-        "team2Title": "Saint Vincent and the Grenadines",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
         "matchTime": "2026-11-18 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4825/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/33812/image",
         "team1Title": "El Salvador",
         "team2Title": "Saint Martin",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) HD QUALITY +,,http://162.251.160.53:8089/1121/index.m3u8",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) HD QUALITY +,,http://162.251.160.53:8089/1121/index.m3u8,) HD QUALITY + TV,,https://www.rtmpcdn.com/live/29abbc77-a5a8-4306-9ac9-4d765933cc18.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/BHHHAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-18 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4724/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/7229/image",
-        "team1Title": "USA",
-        "team2Title": "Haiti",
-        "streamLink": "USA NETWORK,,https://chatgpt.hereisman.net/playlist/60345/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY +,,http://162.251.160.53:8089/951/index.m3u8,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "matchTime": "2026-11-18 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4781/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4769/image",
+        "team1Title": "Mexico",
+        "team2Title": "Jamaica",
+        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/BHHHAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY +,,http://162.251.160.53:8089/1266/index.m3u8",
         "isHot": true
     },
     {
@@ -106,7 +106,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3678/image",
         "team1Title": "Philadelphia Flyers",
         "team2Title": "Buffalo Sabres",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60334/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -116,7 +116,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3688/image",
         "team1Title": "Boston Bruins",
         "team2Title": "Los Angeles Kings",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60338/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -126,7 +126,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3700/image",
         "team1Title": "Winnipeg Jets",
         "team2Title": "Ottawa Senators",
-        "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60336/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -136,7 +136,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3683/image",
         "team1Title": "New York Islanders",
         "team2Title": "Columbus Blue Jackets",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60329/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY + TV,,https://chatgpt.hereisman.net/playlist/60330/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -146,7 +146,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3686/image",
         "team1Title": "Florida Panthers",
         "team2Title": "Edmonton Oilers",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60332/load-playlist-multi?|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -156,7 +156,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3705/image",
         "team1Title": "Minnesota Wild",
         "team2Title": "Nashville Predators",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60348/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -166,7 +166,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3693/image",
         "team1Title": "Chicago Blackhawks",
         "team2Title": "Toronto Maple Leafs",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60340/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -176,7 +176,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3675/image",
         "team1Title": "St. Louis Blues",
         "team2Title": "Anaheim Ducks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60347/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -260,6 +260,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "BASKETBALL | NCAA Women's Division I",
+        "matchTime": "2026-11-18 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/271212/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/271025/image",
+        "team1Title": "UNLV Rebels",
+        "team2Title": "Rice Owls",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
         "eventTitle": "MOTORSPORTS | Formula 1",
         "matchTime": "2026-11-20 06:30:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
@@ -307,7 +317,7 @@
         "team1Title": "Australia",
         "team2Title": "England",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd|drmScheme=clearkey&drmLicense=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/vvvve.m3u8|Referer=http://www.fawanews.sc/",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | College GameDay",
@@ -331,22 +341,12 @@
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-18 08:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4781/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4769/image",
-        "team1Title": "Mexico",
-        "team2Title": "Jamaica",
-        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411,) HD QUALITY +,,http://162.251.160.53:8089/1266/index.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
         "matchTime": "2026-11-18 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/21817/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/21815/image",
         "team1Title": "Nicaragua",
         "team2Title": "Montserrat",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) HD QUALITY +,,http://162.251.160.53:8089/1333/index.m3u8",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) HD QUALITY +,,http://162.251.160.53:8089/1333/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/BHHHAAAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -367,7 +367,7 @@
         "team1Title": "Los Angeles Clippers",
         "team2Title": "Utah Jazz",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -387,16 +387,6 @@
         "team1Title": "Vegas Golden Knights",
         "team2Title": "Dallas Stars",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Women's Division I",
-        "matchTime": "2026-11-18 08:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/271212/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/271025/image",
-        "team1Title": "UNLV Rebels",
-        "team2Title": "Rice Owls",
-        "streamLink": "",
         "isHot": true
     },
     {
@@ -756,7 +746,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4741/image",
         "team1Title": "Jordan",
         "team2Title": "Australia",
-        "streamLink": "",
+        "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/324ebf4a-01d6-44bb-ae1c-ef0870baaf9c.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -851,12 +841,32 @@
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-18 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/52906/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21821/image",
+        "team1Title": "French Guiana",
+        "team2Title": "Saint Vincent and the Grenadines",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) HD QUALITY +,,http://162.251.160.53:8089/1009/index.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
         "matchTime": "2026-11-18 01:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/21819/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/180236/image",
         "team1Title": "Saint Kitts and Nevis",
         "team2Title": "Bonaire",
         "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-18 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4724/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7229/image",
+        "team1Title": "USA",
+        "team2Title": "Haiti",
+        "streamLink": "USA NETWORK,,https://chatgpt.hereisman.net/playlist/60345/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY + TV,,https://live.vivo155.com/live/sd-1-4665560.m3u8?txSecret=fa78e34cea65f8773671d5c73ffe0b0b&txTime=6AFD05E7|Referer=https://player.on8on8.com/,) HD QUALITY +,,http://162.251.160.53:8089/951/index.m3u8,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "isHot": false
     },
     {
