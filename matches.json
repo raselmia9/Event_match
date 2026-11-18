@@ -50,26 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-18 10:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3427/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3430/image",
-        "team1Title": "Los Angeles Lakers",
-        "team2Title": "Charlotte Hornets",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60381/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60381/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60380/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 4,,https://chatgpt.hereisman.net/playlist/60382/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 5,,https://chatgpt.hereisman.net/playlist/60383/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 10:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34620/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86710/image",
-        "team1Title": "Gonzaga Bulldogs",
-        "team2Title": "Montana State Bobcats",
-        "streamLink": "HD QUALITY + TV,,https://chatgpt.hereisman.net/playlist/60384/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "MOTORSPORTS | Formula 1",
         "matchTime": "2026-11-20 06:30:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
@@ -117,7 +97,7 @@
         "team1Title": "South Africa",
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | UEFA Nations League",
@@ -641,6 +621,16 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-18 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3427/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3430/image",
+        "team1Title": "Los Angeles Lakers",
+        "team2Title": "Charlotte Hornets",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60381/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 2,,https://chatgpt.hereisman.net/playlist/60381/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 3,,https://chatgpt.hereisman.net/playlist/60380/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 4,,https://chatgpt.hereisman.net/playlist/60382/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY 5,,https://chatgpt.hereisman.net/playlist/60383/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-18 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3429/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3424/image",
@@ -1007,6 +997,16 @@
         "team1Title": "UNLV Rebels",
         "team2Title": "Rice Owls",
         "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34620/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86710/image",
+        "team1Title": "Gonzaga Bulldogs",
+        "team2Title": "Montana State Bobcats",
+        "streamLink": "HD QUALITY + TV,,https://chatgpt.hereisman.net/playlist/60384/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
