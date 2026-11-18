@@ -50,6 +50,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6678/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
+        "team1Title": "Beşiktaş JK",
+        "team2Title": "Real Madrid",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "MOTORSPORTS | Formula 1",
         "matchTime": "2026-11-20 06:30:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
@@ -147,7 +157,7 @@
         "team1Title": "BK Häcken FF",
         "team2Title": "Manchester City",
         "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hng1trrl/index.m3u8,) STREAM TV + HD,,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Women's Champions League",
@@ -177,7 +187,7 @@
         "team1Title": "Real Madrid",
         "team2Title": "Inter",
         "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8,) HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -308,16 +318,6 @@
         "team2Title": "Bahia",
         "streamLink": "PREMIERER5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-18 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6678/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
-        "team1Title": "Beşiktaş JK",
-        "team2Title": "Real Madrid",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -477,7 +477,7 @@
         "team1Title": "Utebo FC",
         "team2Title": "CE Sabadell",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/6666AAAAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/6666AAAAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Copa del Rey",
@@ -487,7 +487,7 @@
         "team1Title": "Club Portugalete",
         "team2Title": "Real Unión Club",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/6666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/6666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | UEFA Nations League",
