@@ -71,12 +71,42 @@
     },
     {
         "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-19 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/269824/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/178246/image",
+        "team1Title": "Juventus",
+        "team2Title": "Oud-Heverlee Leuven",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8,) STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-19 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/66768/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/55505/image",
+        "team1Title": "Chelsea FC",
+        "team2Title": "Paris Saint-Germain",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
         "matchTime": "2026-11-18 23:45:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/305051/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/325685/image",
         "team1Title": "Real Madrid",
         "team2Title": "Inter",
         "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8,) HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-19 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2307/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2308/image",
+        "team1Title": "Alianza Atlético de Sullana",
+        "team2Title": "Melgar",
+        "streamLink": "",
         "isHot": true
     },
     {
@@ -97,16 +127,6 @@
         "team1Title": "Nottingham Forest",
         "team2Title": "Liverpool FC",
         "streamLink": "STREAM TV + HD,,https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-18 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6678/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
-        "team1Title": "Beşiktaş JK",
-        "team2Title": "Real Madrid",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -210,26 +230,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
-        "matchTime": "2026-11-19 02:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/269824/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/178246/image",
-        "team1Title": "Juventus",
-        "team2Title": "Oud-Heverlee Leuven",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8,) STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
-        "matchTime": "2026-11-19 02:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/66768/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/55505/image",
-        "team1Title": "Chelsea FC",
-        "team2Title": "Paris Saint-Germain",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-19 19:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/265146/image",
@@ -308,16 +308,6 @@
         "team2Title": "Santos",
         "streamLink": "PREMIERER3 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
-        "matchTime": "2026-11-19 02:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/2307/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2308/image",
-        "team1Title": "Alianza Atlético de Sullana",
-        "team2Title": "Melgar",
-        "streamLink": "",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
@@ -557,6 +547,16 @@
         "team1Title": "Horse Racing",
         "team2Title": "Horse Racing",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-18 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6678/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
+        "team1Title": "Beşiktaş JK",
+        "team2Title": "Real Madrid",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
