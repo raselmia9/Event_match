@@ -80,6 +80,26 @@
         "isHot": false
     },
     {
+        "eventTitle": "BOXING | AEW",
+        "matchTime": "2026-11-19 06:00:00",
+        "team1Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "team2Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "team1Title": "AEW",
+        "team2Title": "AEW",
+        "streamLink": "AEW LIVE FHD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "OTHER | DARTS PDC",
+        "matchTime": "2026-11-19 01:01:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team1Title": "DARTS PDC",
+        "team2Title": "DARTS PDC",
+        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "CRICKET | One Day International",
         "matchTime": "2026-11-19 04:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -110,6 +130,136 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-18 23:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1889/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/142658/image",
+        "team1Title": "BK Häcken FF",
+        "team2Title": "Manchester City",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-19 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/269824/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/178246/image",
+        "team1Title": "Juventus",
+        "team2Title": "Oud-Heverlee Leuven",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-19 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/66768/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/55505/image",
+        "team1Title": "Chelsea FC",
+        "team2Title": "Paris Saint-Germain",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-18 23:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/305051/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/325685/image",
+        "team1Title": "Real Madrid",
+        "team2Title": "Inter",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/265146/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48835/image",
+        "team1Title": "New Caledonia U17",
+        "team2Title": "Ecuador U17",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22474/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/190706/image",
+        "team1Title": "France U17",
+        "team2Title": "Haiti U17",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/265146/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48835/image",
+        "team1Title": "New Caledonia U17",
+        "team2Title": "Ecuador U17",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22474/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/190706/image",
+        "team1Title": "France U17",
+        "team2Title": "Haiti U17",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22652/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1077159/image",
+        "team1Title": "South Korea U17",
+        "team2Title": "Uganda U17",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 05:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1954/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1963/image",
+        "team1Title": "Cruzeiro",
+        "team2Title": "Palmeiras",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2012/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21845/image",
+        "team1Title": "Remo",
+        "team2Title": "Chapecoense",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 04:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1982/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1968/image",
+        "team1Title": "Coritiba",
+        "team2Title": "Santos",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-19 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2307/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2308/image",
+        "team1Title": "Alianza Atlético de Sullana",
+        "team2Title": "Melgar",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
         "eventTitle": "CRICKET | UEFA Nations League",
         "matchTime": "2026-11-18 01:30:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
@@ -137,26 +287,6 @@
         "team1Title": "SmackDown",
         "team2Title": "SmackDown",
         "streamLink": "WWE SMACK+ HD,,https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/goooaaaQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) WWE SMACK,,https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE HD 2,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE LIVE FHD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) HD QUALITY SMACK,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE LIVE FHD4,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) STREAM HD QUALITY,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) HD QUALITY SMK,,https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) SmackDown HD,,https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8,) WWE LIVE FHD5,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) WWE LIVE FHD6,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8,) SPORT CAST FHD5,,https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) WWE LIVE FHD1,,https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8,) WWE LIVE FHD5,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) USA TV (US VPN),,https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
-        "isHot": false
-    },
-    {
-        "eventTitle": "BOXING | AEW",
-        "matchTime": "2026-11-15 06:00:00",
-        "team1Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "team2Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "team1Title": "AEW",
-        "team2Title": "AEW",
-        "streamLink": "AEW LIVE FHD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
-        "isHot": false
-    },
-    {
-        "eventTitle": "OTHER | DARTS PDC",
-        "matchTime": "2026-11-18 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team1Title": "DARTS PDC",
-        "team2Title": "DARTS PDC",
-        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
