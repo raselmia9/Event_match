@@ -60,16 +60,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-18 09:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3425/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3434/image",
-        "team1Title": "Los Angeles Clippers",
-        "team2Title": "Utah Jazz",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60373/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-18 10:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/34620/image",
@@ -677,6 +667,16 @@
         "team1Title": "Minnesota Timberwolves",
         "team2Title": "Portland Trail Blazers",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60349/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY + TV,,https://www.rtmpcdn.com/live/bb781fc9-f059-4d66-93b7-0dbbc0dfb1bd.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/RUUUAAA.m3u8|Referer=http://www.fawanews.sc/",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-18 09:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3425/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3434/image",
+        "team1Title": "Los Angeles Clippers",
+        "team2Title": "Utah Jazz",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60373/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
