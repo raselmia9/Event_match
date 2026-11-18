@@ -20,6 +20,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "OTHER | DARTS PDC",
+        "matchTime": "2026-11-19 01:01:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team1Title": "DARTS PDC",
+        "team2Title": "DARTS PDC",
+        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "OTHER | TENNIS | EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
@@ -67,6 +77,26 @@
         "team1Title": "Real Madrid",
         "team2Title": "Inter",
         "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8,) HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | FA Women's League Cup",
+        "matchTime": "2026-11-19 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/301455/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/36704/image",
+        "team1Title": "Manchester United",
+        "team2Title": "Everton",
+        "streamLink": "MUTV SPORTS HD,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8,) MUTV SPORTS HD 2,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | FA Women's League Cup",
+        "matchTime": "2026-11-19 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/307282/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/66774/image",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Liverpool FC",
+        "streamLink": "STREAM TV + HD,,https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8",
         "isHot": true
     },
     {
@@ -130,16 +160,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "OTHER | DARTS PDC",
-        "matchTime": "2026-11-19 01:01:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team1Title": "DARTS PDC",
-        "team2Title": "DARTS PDC",
-        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | One Day International",
         "matchTime": "2026-11-19 04:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
@@ -197,7 +217,7 @@
         "team1Title": "Juventus",
         "team2Title": "Oud-Heverlee Leuven",
         "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8,) STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | UEFA Women's Champions League",
@@ -207,7 +227,7 @@
         "team1Title": "Chelsea FC",
         "team2Title": "Paris Saint-Germain",
         "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -297,26 +317,6 @@
         "team1Title": "Alianza Atlético de Sullana",
         "team2Title": "Melgar",
         "streamLink": "",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | FA Women's League Cup",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/301455/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/36704/image",
-        "team1Title": "Manchester United",
-        "team2Title": "Everton",
-        "streamLink": "MUTV SPORTS HD,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8,) MUTV SPORTS HD 2,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | FA Women's League Cup",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/307282/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/66774/image",
-        "team1Title": "Nottingham Forest",
-        "team2Title": "Liverpool FC",
-        "streamLink": "STREAM TV + HD,,https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8",
         "isHot": true
     },
     {
