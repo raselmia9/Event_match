@@ -10,16 +10,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BOXING | WWE NXT",
-        "matchTime": "2026-11-18 06:00:00",
-        "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "team2Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "team1Title": "WWE NXT",
-        "team2Title": "WWE NXT",
-        "streamLink": "HD QUALITY + TV,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE TV4 + HD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) WWE LIVE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) WWE TV5 + HD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | SPORTS LIVE",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
@@ -46,7 +36,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/187756/image",
         "team1Title": "Pakistan",
         "team2Title": "Sri Lanka",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RREGEGE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RREGEGE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -57,16 +47,6 @@
         "team1Title": "Australia",
         "team2Title": "England",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/qqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | CONCACAF Nations League",
-        "matchTime": "2026-11-18 08:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4781/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4769/image",
-        "team1Title": "Mexico",
-        "team2Title": "Jamaica",
-        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411,) HD QUALITY + TV,,https://chatgpt.hereisman.net/playlist/60362/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/BHHHAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY +,,http://162.251.160.53:8089/1266/index.m3u8",
         "isHot": true
     },
     {
@@ -117,26 +97,6 @@
         "team1Title": "Vegas Golden Knights",
         "team2Title": "Dallas Stars",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34633/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/34656/image",
-        "team1Title": "Tennessee Volunteers",
-        "team2Title": "Michigan State Spartans",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/66378/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/41199/image",
-        "team1Title": "Virginia Cavaliers",
-        "team2Title": "Old Dominion Monarchs",
-        "streamLink": "",
         "isHot": true
     },
     {
@@ -237,6 +197,16 @@
         "team1Title": "SIMULACAST",
         "team2Title": "SIMULACAST",
         "streamLink": "QUALITY (USE VPN),,http://193.47.62.41/hls/YDDD.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BOXING | WWE NXT",
+        "matchTime": "2026-11-18 06:00:00",
+        "team1Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "team2Logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "team1Title": "WWE NXT",
+        "team2Title": "WWE NXT",
+        "streamLink": "HD QUALITY + TV,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) WWE TV4 + HD,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) WWE LIVE HD,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) Sport3 Tv BR FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3,) WWE TV5 + HD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
         "isHot": false
     },
     {
@@ -710,6 +680,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | CONCACAF Nations League",
+        "matchTime": "2026-11-18 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4781/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4769/image",
+        "team1Title": "Mexico",
+        "team2Title": "Jamaica",
+        "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411,) HD QUALITY + TV,,https://chatgpt.hereisman.net/playlist/60362/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/BHHHAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD QUALITY +,,http://162.251.160.53:8089/1266/index.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | SAFF Championship",
         "matchTime": "2026-11-17 20:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4828/image",
@@ -1026,6 +1006,26 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/86794/image",
         "team1Title": "Vanderbilt Commodores",
         "team2Title": "Eastern Illinois Panthers",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34633/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/34656/image",
+        "team1Title": "Tennessee Volunteers",
+        "team2Title": "Michigan State Spartans",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/66378/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/41199/image",
+        "team1Title": "Virginia Cavaliers",
+        "team2Title": "Old Dominion Monarchs",
         "streamLink": "",
         "isHot": false
     },
