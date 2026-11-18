@@ -20,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "OTHER | DARTS PDC",
-        "matchTime": "2026-11-19 01:01:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "team1Title": "DARTS PDC",
-        "team2Title": "DARTS PDC",
-        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | TENNIS | EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
@@ -46,7 +36,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
         "team1Title": "New Zealand",
         "team2Title": "India",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "streamLink": "WILLOW SPORTS FHD,,https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmScheme=clearkey&drmLicense=52a0f31918f2a6f97809d3586aa6c41e:a108a050dfc5cf2065c23370efa58b09,) SonyLiv ENG FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd|drmScheme=clearkey&drmLicense=35183f892d12a791690417225bc42eb1:5126e0c580888655dbf96a95560489f6,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "isHot": true
     },
     {
@@ -57,6 +47,16 @@
         "team1Title": "South Africa",
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 05:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1954/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1963/image",
+        "team1Title": "Cruzeiro",
+        "team2Title": "Palmeiras",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8,) PREMIERE2 BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
         "isHot": true
     },
     {
@@ -77,6 +77,16 @@
         "team1Title": "Coritiba",
         "team2Title": "Santos",
         "streamLink": "PREMIERER3 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 05:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5981/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1967/image",
+        "team1Title": "Flamengo",
+        "team2Title": "Athletico",
+        "streamLink": "PREMIERER1 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3,) SPORT TV FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
         "isHot": true
     },
     {
@@ -201,33 +211,13 @@
     },
     {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-19 05:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1954/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1963/image",
-        "team1Title": "Cruzeiro",
-        "team2Title": "Palmeiras",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8,) PREMIERE2 BR FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-19 05:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5981/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1967/image",
-        "team1Title": "Flamengo",
-        "team2Title": "Athletico",
-        "streamLink": "PREMIERER1 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3,) SPORT TV FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
         "matchTime": "2026-11-19 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/5926/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/1955/image",
         "team1Title": "Grêmio",
         "team2Title": "Bahia",
         "streamLink": "PREMIERER5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -317,7 +307,7 @@
         "team1Title": "Toronto Raptors",
         "team2Title": "Washington Wizards",
         "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -327,7 +317,7 @@
         "team1Title": "Brooklyn Nets",
         "team2Title": "Chicago Bulls",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -357,7 +347,7 @@
         "team1Title": "New Jersey Devils",
         "team2Title": "Montréal Canadiens",
         "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -367,7 +357,7 @@
         "team1Title": "Detroit Red Wings",
         "team2Title": "Boston Bruins",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "HOCKEY | NHL",
@@ -407,6 +397,16 @@
         "team1Title": "SmackDown",
         "team2Title": "SmackDown",
         "streamLink": "WWE SMACK+ HD,,https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/goooaaaQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) WWE SMACK,,https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE HD 2,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE LIVE FHD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) HD QUALITY SMACK,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE LIVE FHD4,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) STREAM HD QUALITY,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) HD QUALITY SMK,,https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) SmackDown HD,,https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8,) WWE LIVE FHD5,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) WWE LIVE FHD6,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8,) SPORT CAST FHD5,,https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) WWE LIVE FHD1,,https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8,) WWE LIVE FHD5,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) USA TV (US VPN),,https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+        "isHot": false
+    },
+    {
+        "eventTitle": "OTHER | DARTS PDC",
+        "matchTime": "2026-11-19 01:01:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "team1Title": "DARTS PDC",
+        "team2Title": "DARTS PDC",
+        "streamLink": "SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) QUALITY (USE VPN),,http://193.47.62.59/hls/BEEEAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
