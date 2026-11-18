@@ -60,16 +60,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | International Friendly Games",
-        "matchTime": "2026-11-18 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4754/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4820/image",
-        "team1Title": "Chile",
-        "team2Title": "Colombia",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/52906/image",
@@ -347,7 +337,7 @@
         "team1Title": "Mexico",
         "team2Title": "Jamaica",
         "streamLink": "CANAL5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|drmScheme=clearkey&drmLicense=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4,) TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411,) HD QUALITY +,,http://162.251.160.53:8089/1266/index.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | CONCACAF Nations League",
@@ -427,7 +417,7 @@
         "team1Title": "UNLV Rebels",
         "team2Title": "Rice Owls",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -807,6 +797,16 @@
         "team1Title": "Kuwait",
         "team2Title": "Honduras",
         "streamLink": "STREAM TV + HD,,https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/JJJJGAAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | International Friendly Games",
+        "matchTime": "2026-11-18 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4754/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4820/image",
+        "team1Title": "Chile",
+        "team2Title": "Colombia",
+        "streamLink": "",
         "isHot": false
     },
     {
