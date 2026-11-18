@@ -80,26 +80,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | FA Women's League Cup",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/301455/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/36704/image",
-        "team1Title": "Manchester United",
-        "team2Title": "Everton",
-        "streamLink": "MUTV SPORTS HD,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8,) MUTV SPORTS HD 2,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | FA Women's League Cup",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/307282/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/66774/image",
-        "team1Title": "Nottingham Forest",
-        "team2Title": "Liverpool FC",
-        "streamLink": "STREAM TV + HD,,https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "MOTORSPORTS | Formula 1",
         "matchTime": "2026-11-20 06:30:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
@@ -257,7 +237,7 @@
         "team1Title": "Coritiba",
         "team2Title": "Santos",
         "streamLink": "PREMIERER3 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
@@ -527,6 +507,26 @@
         "team1Title": "Real Madrid",
         "team2Title": "Inter",
         "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8,) HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | FA Women's League Cup",
+        "matchTime": "2026-11-19 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/301455/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/36704/image",
+        "team1Title": "Manchester United",
+        "team2Title": "Everton",
+        "streamLink": "MUTV SPORTS HD,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8,) MUTV SPORTS HD 2,,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | FA Women's League Cup",
+        "matchTime": "2026-11-19 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/307282/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/66774/image",
+        "team1Title": "Nottingham Forest",
+        "team2Title": "Liverpool FC",
+        "streamLink": "STREAM TV + HD,,https://raw.githubusercontent.com/mdumarfaruksuk/LFCTV/refs/heads/main/live.m3u8",
         "isHot": false
     },
     {
