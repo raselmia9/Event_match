@@ -146,7 +146,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/142658/image",
         "team1Title": "BK Häcken FF",
         "team2Title": "Manchester City",
-        "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hng1trrl/index.m3u8,) STREAM TV + HD,,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/",
+        "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hng1trrl/index.m3u8,) STREAM TV + HD,,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "isHot": false
     },
     {
@@ -156,7 +156,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/178246/image",
         "team1Title": "Juventus",
         "team2Title": "Oud-Heverlee Leuven",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8,) STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8,) STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "isHot": false
     },
     {
@@ -166,7 +166,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/55505/image",
         "team1Title": "Chelsea FC",
         "team2Title": "Paris Saint-Germain",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "isHot": false
     },
     {
@@ -176,7 +176,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/325685/image",
         "team1Title": "Real Madrid",
         "team2Title": "Inter",
-        "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8,) HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8,) HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "isHot": false
     },
     {
@@ -272,36 +272,6 @@
     {
         "eventTitle": "FOOTBALL | FA Women's League Cup",
         "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/297802/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/334614/image",
-        "team1Title": "West Ham",
-        "team2Title": "Wolverhampton W.F.C.",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | FA Women's League Cup",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/273547/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/299289/image",
-        "team1Title": "Tottenham FC",
-        "team2Title": "Leicester City",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | FA Women's League Cup",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/326573/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/266376/image",
-        "team1Title": "London City Lionesses",
-        "team2Title": "Brighton",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | FA Women's League Cup",
-        "matchTime": "2026-11-19 01:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/301455/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/36704/image",
         "team1Title": "Manchester United",
@@ -347,7 +317,7 @@
         "team1Title": "Beşiktaş JK",
         "team2Title": "Real Madrid",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -511,42 +481,12 @@
     },
     {
         "eventTitle": "FOOTBALL | Copa del Rey",
-        "matchTime": "2026-11-19 01:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/189948/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/24329/image",
-        "team1Title": "Deportiva Minera",
-        "team2Title": "FC Cartagena",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Copa del Rey",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6585/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2826/image",
-        "team1Title": "CD Alcoyano",
-        "team2Title": "Mallorca",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Copa del Rey",
         "matchTime": "2026-11-19 00:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/25403/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/2881/image",
         "team1Title": "Club Portugalete",
         "team2Title": "Real Unión Club",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/6666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/6666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Copa del Rey",
-        "matchTime": "2026-11-19 01:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/2853/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2822/image",
-        "team1Title": "CD Badajoz",
-        "team2Title": "CD Tenerife",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
