@@ -40,6 +40,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | One Day International",
+        "matchTime": "2026-11-19 04:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
+        "team1Title": "New Zealand",
+        "team2Title": "India",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-18 14:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
@@ -108,16 +118,6 @@
         "team2Title": "AEW",
         "streamLink": "AEW LIVE FHD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
         "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | One Day International",
-        "matchTime": "2026-11-19 04:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187755/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187765/image",
-        "team1Title": "New Zealand",
-        "team2Title": "India",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-        "isHot": true
     },
     {
         "eventTitle": "CRICKET | ICC World Test Championship",
@@ -227,7 +227,7 @@
         "team1Title": "Remo",
         "team2Title": "Chapecoense",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
