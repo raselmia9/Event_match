@@ -90,6 +90,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-18 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3433/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3421/image",
+        "team1Title": "Toronto Raptors",
+        "team2Title": "New York Knicks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-18 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3699/image",
@@ -140,13 +150,23 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 03:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/41197/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/41198/image",
-        "team1Title": "Florida Gators",
-        "team2Title": "Notre Dame Fighting Irish",
-        "streamLink": "",
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-18 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3693/image",
+        "team1Title": "Chicago Blackhawks",
+        "team2Title": "Toronto Maple Leafs",
+        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-18 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3694/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3691/image",
+        "team1Title": "Tampa Bay Lightning",
+        "team2Title": "Washington Capitals",
+        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -166,6 +186,26 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/86830/image",
         "team1Title": "Miami Hurricanes",
         "team2Title": "Rider Broncs",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/66366/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/191017/image",
+        "team1Title": "Alabama Crimson Tide",
+        "team2Title": "Kennesaw State Owls",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/87830/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/66358/image",
+        "team1Title": "Arkansas Razorbacks",
+        "team2Title": "Indiana Hoosiers",
         "streamLink": "",
         "isHot": true
     },
@@ -291,16 +331,6 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-18 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3433/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3421/image",
-        "team1Title": "Toronto Raptors",
-        "team2Title": "New York Knicks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-18 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3426/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3414/image",
@@ -341,16 +371,6 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-18 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3693/image",
-        "team1Title": "Chicago Blackhawks",
-        "team2Title": "Toronto Maple Leafs",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-18 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3695/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3675/image",
@@ -361,43 +381,13 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-18 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3694/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3691/image",
-        "team1Title": "Tampa Bay Lightning",
-        "team2Title": "Washington Capitals",
-        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-18 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/257523/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3684/image",
         "team1Title": "Vegas Golden Knights",
         "team2Title": "Dallas Stars",
-        "streamLink": "",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/66366/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/191017/image",
-        "team1Title": "Alabama Crimson Tide",
-        "team2Title": "Kennesaw State Owls",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-18 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/87830/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/66358/image",
-        "team1Title": "Arkansas Razorbacks",
-        "team2Title": "Indiana Hoosiers",
-        "streamLink": "",
-        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
@@ -1007,6 +997,16 @@
         "team1Title": "Houston Cougars",
         "team2Title": "Rutgers Scarlet Knights",
         "streamLink": "HD QUALITY,,https://chatgpt.hereisman.net/playlist/60319/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-18 03:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41197/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/41198/image",
+        "team1Title": "Florida Gators",
+        "team2Title": "Notre Dame Fighting Irish",
+        "streamLink": "",
         "isHot": false
     },
     {
