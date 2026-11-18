@@ -41,26 +41,6 @@
     },
     {
         "eventTitle": "CRICKET | ICC World Test Championship",
-        "matchTime": "2026-11-18 10:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187756/image",
-        "team1Title": "Pakistan",
-        "team2Title": "Sri Lanka",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RREGEGE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CRICKET | One Day International",
-        "matchTime": "2026-11-18 09:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
-        "team1Title": "Australia",
-        "team2Title": "England",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/qqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "CRICKET | ICC World Test Championship",
         "matchTime": "2026-11-18 14:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187747/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/187744/image",
@@ -90,7 +70,7 @@
         "isHot": false
     },
     {
-        "eventTitle": "BOXING | AEW",
+        "eventTitle": "BOXING | AEW DYNAMIC",
         "matchTime": "2026-11-19 06:00:00",
         "team1Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
         "team2Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
@@ -120,6 +100,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "CRICKET | ICC World Test Championship",
+        "matchTime": "2026-11-19 10:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187754/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187756/image",
+        "team1Title": "Pakistan",
+        "team2Title": "Sri Lanka",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RREGEGE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "CRICKET | Women's Big Bash League",
         "matchTime": "2026-11-19 10:40:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
@@ -127,6 +117,16 @@
         "team1Title": "WBBL",
         "team2Title": "WBBL",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/ZZZZAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | T20 International",
+        "matchTime": "2026-11-21 14:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
+        "team1Title": "Australia",
+        "team2Title": "England",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/qqqq.m3u8|Referer=http://www.fawanews.sc/",
         "isHot": false
     },
     {
@@ -146,7 +146,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/142658/image",
         "team1Title": "BK Häcken FF",
         "team2Title": "Manchester City",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/",
+        "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hng1trrl/index.m3u8,) STREAM TV + HD,,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAA.m3u8|Referer=http://www.fawanews.sc/",
         "isHot": false
     },
     {
@@ -156,7 +156,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/178246/image",
         "team1Title": "Juventus",
         "team2Title": "Oud-Heverlee Leuven",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0gy2188pn/index.m3u8,) STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "isHot": false
     },
     {
@@ -166,7 +166,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/55505/image",
         "team1Title": "Chelsea FC",
         "team2Title": "Paris Saint-Germain",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hpwbpj18/index.m3u8",
         "isHot": false
     },
     {
@@ -176,7 +176,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/325685/image",
         "team1Title": "Real Madrid",
         "team2Title": "Inter",
-        "streamLink": "HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=http://www.fawanews.sc/",
+        "streamLink": "HD QUALITY + TV,,http://162.251.160.53:8089/prime_us_b0hmkgxkgc/index.m3u8,) HD QUALITY + TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/3333AAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -346,7 +346,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
         "team1Title": "Beşiktaş JK",
         "team2Title": "Real Madrid",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -497,6 +497,56 @@
         "team1Title": "Utah Mammoth",
         "team2Title": "Colorado Avalanche",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Copa del Rey",
+        "matchTime": "2026-11-19 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/212294/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/24335/image",
+        "team1Title": "Utebo FC",
+        "team2Title": "CE Sabadell",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/6666AAAAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/6666AAAAQQQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Copa del Rey",
+        "matchTime": "2026-11-19 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/189948/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/24329/image",
+        "team1Title": "Deportiva Minera",
+        "team2Title": "FC Cartagena",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Copa del Rey",
+        "matchTime": "2026-11-19 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6585/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2826/image",
+        "team1Title": "CD Alcoyano",
+        "team2Title": "Mallorca",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Copa del Rey",
+        "matchTime": "2026-11-19 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/25403/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2881/image",
+        "team1Title": "Club Portugalete",
+        "team2Title": "Real Unión Club",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/6666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/6666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Copa del Rey",
+        "matchTime": "2026-11-19 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2853/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2822/image",
+        "team1Title": "CD Badajoz",
+        "team2Title": "CD Tenerife",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
