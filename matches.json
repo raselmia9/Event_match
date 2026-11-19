@@ -90,16 +90,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "OTHER | Badminton Hong Kong Open",
-        "matchTime": "2026-11-19 12:00:00",
-        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
-        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
-        "team1Title": "Badminton Hong Kong Open",
-        "team2Title": "Badminton Hong Kong Open",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | ASEAN Club Championship",
         "matchTime": "2026-11-19 18:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/153474/image",
@@ -107,6 +97,16 @@
         "team1Title": "Preah Khan Reach Svay Rieng FC",
         "team2Title": "Port FC",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | ASEAN Club Championship",
+        "matchTime": "2026-11-19 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3327/image",
+        "team1Title": "Công An Hà Nội",
+        "team2Title": "Johor Darul Ta'zim",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -167,7 +167,7 @@
         "team1Title": "ABU DHABI T10 LEAGUE",
         "team2Title": "ABU DHABI T10 LEAGUE",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|drmScheme=clearkey&drmLicense=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | T20 International",
@@ -217,7 +217,7 @@
         "team1Title": "South Korea U17",
         "team2Title": "Uganda U17",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -580,16 +580,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | ASEAN Club Championship",
-        "matchTime": "2026-11-19 18:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3327/image",
-        "team1Title": "Công An Hà Nội",
-        "team2Title": "Johor Darul Ta'zim",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "BOXING | One Friday Fights",
         "matchTime": "2026-11-13 18:00:00",
         "team1Logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -877,6 +867,16 @@
         "team1Title": "Illawarra Hawks",
         "team2Title": "Adelaide 36ers",
         "streamLink": "QUALITY (USE VPN),,http://193.47.62.41/hls/FFFFEa.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "OTHER | Badminton Hong Kong Open",
+        "matchTime": "2026-11-19 12:00:00",
+        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
+        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT5nFj3JypI0tf8ekjCPlSCsdizwBeMDz5nWNcc7lag&s=10",
+        "team1Title": "Badminton Hong Kong Open",
+        "team2Title": "Badminton Hong Kong Open",
+        "streamLink": "",
         "isHot": false
     },
     {
