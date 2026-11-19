@@ -60,6 +60,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "BASKETBALL | NBL",
+        "matchTime": "2026-11-19 14:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3613/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3612/image",
+        "team1Title": "Illawarra Hawks",
+        "team2Title": "Adelaide 36ers",
+        "streamLink": "QUALITY (USE VPN),,http://193.47.62.41/hls/FFFFEa.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | Qatar - ACC Mens Asia Cup Rising Stars",
         "matchTime": "2026-11-19 12:00:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/en/c/cf/2025_ACC_Asia_Cup_Rising_Stars.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -298,16 +308,6 @@
         "team2Title": "Perth Wildcats",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBL",
-        "matchTime": "2026-11-19 14:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3613/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3612/image",
-        "team1Title": "Illawarra Hawks",
-        "team2Title": "Adelaide 36ers",
-        "streamLink": "QUALITY (USE VPN),,http://193.47.62.41/hls/FFFFEa.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
