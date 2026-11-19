@@ -30,16 +30,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
-        "matchTime": "2026-11-19 19:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-        "team1Title": "ABU DHABI T10 LEAGUE",
-        "team2Title": "ABU DHABI T10 LEAGUE",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|drmScheme=clearkey&drmLicense=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | DARTS PDC",
         "matchTime": "2026-11-20 00:55:00",
         "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
@@ -47,16 +37,6 @@
         "team1Title": "DARTS PDC",
         "team2Title": "DARTS PDC",
         "streamLink": "NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
-        "matchTime": "2026-11-19 23:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/264964/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/333128/image",
-        "team1Title": "Paris FC",
-        "team2Title": "HB Køge",
-        "streamLink": "STREAM TV + HD,,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8,) SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hm6sqrcg/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RARARADAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD TV,,https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "isHot": true
     },
     {
@@ -87,16 +67,6 @@
         "team1Title": "Arsenal",
         "team2Title": "OL Lyonnes",
         "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hqz3cnfh/index.m3u8,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
-        "matchTime": "2026-11-19 23:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/229911/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5543/image",
-        "team1Title": "FK Austria Wien",
-        "team2Title": "FC Bayern München",
-        "streamLink": "SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hjnd83v2/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RARARADA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "isHot": true
     },
     {
@@ -520,6 +490,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "CRICKET | ABU DHABI T10 LEAGUE",
+        "matchTime": "2026-11-19 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "team1Title": "ABU DHABI T10 LEAGUE",
+        "team2Title": "ABU DHABI T10 LEAGUE",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|drmScheme=clearkey&drmLicense=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "OTHER | Horse Racing",
         "matchTime": "2026-11-16 00:05:00",
         "team1Logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
@@ -607,6 +587,26 @@
         "team1Title": "Saudi Arabia U17",
         "team2Title": "Uruguay U17",
         "streamLink": "D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-19 23:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/264964/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/333128/image",
+        "team1Title": "Paris FC",
+        "team2Title": "HB Køge",
+        "streamLink": "STREAM TV + HD,,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8,) SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hm6sqrcg/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RARARADAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD TV,,https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | UEFA Women's Champions League",
+        "matchTime": "2026-11-19 23:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/229911/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5543/image",
+        "team1Title": "FK Austria Wien",
+        "team2Title": "FC Bayern München",
+        "streamLink": "SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hjnd83v2/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RARARADA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD TV,,https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "isHot": false
     },
     {
