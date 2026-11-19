@@ -101,6 +101,16 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1126751/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22597/image",
+        "team1Title": "Mozambique U17",
+        "team2Title": "Denmark U17",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-19 20:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/468403/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/37322/image",
@@ -127,16 +137,6 @@
         "team1Title": "⚽ AFC Awards 2026",
         "team2Title": "⚽ AFC Awards 2026",
         "streamLink": "Link 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | ASEAN Club Championship",
-        "matchTime": "2026-11-19 18:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3327/image",
-        "team1Title": "Công An Hà Nội",
-        "team2Title": "Johor Darul Ta'zim",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -207,7 +207,7 @@
         "team1Title": "Argentina U17",
         "team2Title": "Australia U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -217,7 +217,7 @@
         "team1Title": "Egypt U17",
         "team2Title": "Greece U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -227,16 +227,6 @@
         "team1Title": "Qatar U17",
         "team2Title": "Panama U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-19 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1126751/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22597/image",
-        "team1Title": "Mozambique U17",
-        "team2Title": "Denmark U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
         "isHot": true
     },
     {
@@ -867,6 +857,16 @@
         "team1Title": "Preah Khan Reach Svay Rieng FC",
         "team2Title": "Port FC",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | ASEAN Club Championship",
+        "matchTime": "2026-11-19 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3327/image",
+        "team1Title": "Công An Hà Nội",
+        "team2Title": "Johor Darul Ta'zim",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
