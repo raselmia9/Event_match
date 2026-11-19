@@ -20,16 +20,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BOXING | AEW DYNAMIC",
-        "matchTime": "2026-11-19 06:00:00",
-        "team1Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "team2Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
-        "team1Title": "AEW",
-        "team2Title": "AEW",
-        "streamLink": "AEW LIVE FHD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | TENNIS | EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
@@ -57,6 +47,16 @@
         "team1Title": "Pakistan",
         "team2Title": "Sri Lanka",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd|drmScheme=clearkey&drmLicense=a368bc0596cc6975605701aa79d01f3c:d514a032036589c2a3e4ea2d958793a3,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RREGEGE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "CRICKET | Women's Big Bash League",
+        "matchTime": "2026-11-19 10:40:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team1Title": "WBBL",
+        "team2Title": "WBBL",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/FFFFE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -130,46 +130,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-19 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/87192/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86660/image",
-        "team1Title": "San Jose State Spartans",
-        "team2Title": "Fresno State Bulldogs",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60437/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-19 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34640/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86864/image",
-        "team1Title": "Missouri Tigers",
-        "team2Title": "Alcorn State Braves",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60431/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-19 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/66364/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/88918/image",
-        "team1Title": "Creighton Bluejays",
-        "team2Title": "Bethune-Cookman Wildcats",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60433/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-19 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34654/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/41217/image",
-        "team1Title": "Arizona State Sun Devils",
-        "team2Title": "Oakland Golden Grizzlies",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60449/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60432/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "MOTORSPORTS | Formula 1",
         "matchTime": "2026-11-20 06:30:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
@@ -188,16 +148,6 @@
         "team2Title": "MotorGP",
         "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY SPORT MIX FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
         "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | Women's Big Bash League",
-        "matchTime": "2026-11-19 10:40:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team1Title": "WBBL",
-        "team2Title": "WBBL",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|drmScheme=clearkey&drmLicense=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/FFFFE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "CRICKET | T20 International",
@@ -640,6 +590,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "BOXING | AEW DYNAMIC",
+        "matchTime": "2026-11-19 06:00:00",
+        "team1Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "team2Logo": "https://i.ibb.co/sdQb8WBx/20260310-203106.png",
+        "team1Title": "AEW",
+        "team2Title": "AEW",
+        "streamLink": "AEW LIVE FHD,,https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) HD QUALITY WWE,,https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426,) AEW TV HD,,https://admin2.formaturamaxi.com.br/aew.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "OTHER | Snooker",
         "matchTime": "2026-11-17 00:00:00",
         "team1Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
@@ -780,6 +740,36 @@
         "isHot": false
     },
     {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-19 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/87192/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86660/image",
+        "team1Title": "San Jose State Spartans",
+        "team2Title": "Fresno State Bulldogs",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60437/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-19 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34640/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86864/image",
+        "team1Title": "Missouri Tigers",
+        "team2Title": "Alcorn State Braves",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60431/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-19 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/66364/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/88918/image",
+        "team1Title": "Creighton Bluejays",
+        "team2Title": "Bethune-Cookman Wildcats",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60433/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
         "eventTitle": "BASKETBALL | NCAA Men's Division II",
         "matchTime": "2026-11-19 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/303208/image",
@@ -787,6 +777,16 @@
         "team1Title": "Francis Marion Patriots",
         "team2Title": "Georgia Southwestern Hurricanes",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-19 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34654/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/41217/image",
+        "team1Title": "Arizona State Sun Devils",
+        "team2Title": "Oakland Golden Grizzlies",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60449/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60432/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
