@@ -131,32 +131,12 @@
     },
     {
         "eventTitle": "FOOTBALL | ASEAN Club Championship",
-        "matchTime": "2026-11-19 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/153474/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/40661/image",
-        "team1Title": "Preah Khan Reach Svay Rieng FC",
-        "team2Title": "Port FC",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | ASEAN Club Championship",
         "matchTime": "2026-11-19 18:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/193616/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3327/image",
         "team1Title": "Công An Hà Nội",
         "team2Title": "Johor Darul Ta'zim",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | ASEAN Club Championship",
-        "matchTime": "2026-11-19 18:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/64289/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/69658/image",
-        "team1Title": "Persib Bandung",
-        "team2Title": "Shan United",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBB.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBB.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -247,7 +227,7 @@
         "team1Title": "Qatar U17",
         "team2Title": "Panama U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -877,6 +857,26 @@
         "team1Title": "Badminton Hong Kong Open",
         "team2Title": "Badminton Hong Kong Open",
         "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | ASEAN Club Championship",
+        "matchTime": "2026-11-19 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/153474/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/40661/image",
+        "team1Title": "Preah Khan Reach Svay Rieng FC",
+        "team2Title": "Port FC",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBBA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | ASEAN Club Championship",
+        "matchTime": "2026-11-19 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/64289/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/69658/image",
+        "team1Title": "Persib Bandung",
+        "team2Title": "Shan United",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/BBBB.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/BBBB.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
