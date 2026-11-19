@@ -50,16 +50,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-19 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5926/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1955/image",
-        "team1Title": "Grêmio",
-        "team2Title": "Bahia",
-        "streamLink": "PREMIERER5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-19 08:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3417/image",
@@ -67,6 +57,16 @@
         "team1Title": "Denver Nuggets",
         "team2Title": "Boston Celtics",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60439/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60438/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/GYYYAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3427/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3434/image",
+        "team1Title": "Los Angeles Lakers",
+        "team2Title": "Utah Jazz",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KTTTAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -91,32 +91,22 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3413/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
+        "team1Title": "Sacramento Kings",
+        "team2Title": "Phoenix Suns",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KTTTAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-19 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/5539/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3424/image",
         "team1Title": "New Orleans Pelicans",
         "team2Title": "Detroit Pistons",
         "streamLink": "SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60414/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60429/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KTTTAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3419/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3412/image",
-        "team1Title": "Indiana Pacers",
-        "team2Title": "Houston Rockets",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60399/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60401/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/GYYYAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3437/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3420/image",
-        "team1Title": "Orlando Magic",
-        "team2Title": "Philadelphia 76ers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60416/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KTTTAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -140,26 +130,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3435/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3410/image",
-        "team1Title": "Vice City Heat",
-        "team2Title": "Milwaukee Bucks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60395/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60400/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KTTT.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3415/image",
-        "team1Title": "Cleveland Cavaliers",
-        "team2Title": "Memphis Grizzlies",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60396/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60402/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/GYYY.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-19 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3704/image",
@@ -177,6 +147,16 @@
         "team1Title": "Detroit Red Wings",
         "team2Title": "Boston Bruins",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60404/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/51279963-a969-43d0-a148-7f06e686134a/master.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3682/image",
+        "team1Title": "Utah Mammoth",
+        "team2Title": "Colorado Avalanche",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d65cc779-21c0-4151-835b-84a6108b56d4/master.m3u8",
         "isHot": true
     },
     {
@@ -318,36 +298,6 @@
         "team2Title": "Uganda U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3427/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3434/image",
-        "team1Title": "Los Angeles Lakers",
-        "team2Title": "Utah Jazz",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KTTTAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3413/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
-        "team1Title": "Sacramento Kings",
-        "team2Title": "Phoenix Suns",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KTTTAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3682/image",
-        "team1Title": "Utah Mammoth",
-        "team2Title": "Colorado Avalanche",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d65cc779-21c0-4151-835b-84a6108b56d4/master.m3u8",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -620,6 +570,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5926/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1955/image",
+        "team1Title": "Grêmio",
+        "team2Title": "Bahia",
+        "streamLink": "PREMIERER5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+        "isHot": false
+    },
+    {
         "eventTitle": "BASKETBALL | Euroleague",
         "matchTime": "2026-11-18 23:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/6678/image",
@@ -627,6 +587,46 @@
         "team1Title": "Beşiktaş JK",
         "team2Title": "Real Madrid",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3419/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3412/image",
+        "team1Title": "Indiana Pacers",
+        "team2Title": "Houston Rockets",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60399/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60401/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/GYYYAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3437/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3420/image",
+        "team1Title": "Orlando Magic",
+        "team2Title": "Philadelphia 76ers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60416/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KTTTAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3435/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3410/image",
+        "team1Title": "Vice City Heat",
+        "team2Title": "Milwaukee Bucks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60395/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60400/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KTTT.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3415/image",
+        "team1Title": "Cleveland Cavaliers",
+        "team2Title": "Memphis Grizzlies",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60396/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60402/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/GYYY.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
