@@ -80,16 +80,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-19 20:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/468403/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/37322/image",
-        "team1Title": "Saudi Arabia U17",
-        "team2Title": "Uruguay U17",
-        "streamLink": "D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | ⚽ AFC Awards 2026",
         "matchTime": "2026-11-19 18:00:00",
         "team1Logo": "https://www.the-afc.com/image/AFC-Awards-Bangkok-2026/AFC-Awards-Bangkok-2026-Website-holding.jpg",
@@ -617,6 +607,16 @@
         "team1Title": "South Korea U17",
         "team2Title": "Uganda U17",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/468403/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/37322/image",
+        "team1Title": "Saudi Arabia U17",
+        "team2Title": "Uruguay U17",
+        "streamLink": "D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
         "isHot": false
     },
     {
