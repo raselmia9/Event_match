@@ -46,17 +46,17 @@
         "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
         "team1Title": "WBBL",
         "team2Title": "WBBL",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd|drmScheme=clearkey&drmLicense=6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd|drmScheme=clearkey&drmLicense=6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/FFFFE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd|drmScheme=clearkey&drmLicense=6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ojtiswgkzi/out/v1/2452bfe9be704e98be6ca4bb5fb182c9/cenc.mpd|drmScheme=clearkey&drmLicense=6f87f49f1a51b9c8d7d11a23c3f207ef:0fdd85e00b98637bb97e1b6b319d2be9,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) WILLOW HD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd|drmScheme=clearkey&drmLicense=93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba,) SD QUALITY,,http://193.47.62.41/hls/FFFFE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) FANCODE FHD1,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
         "isHot": true
     },
     {
-        "eventTitle": "CRICKET | Men's Asia Cup Rising Stars 2026",
+        "eventTitle": "CRICKET | Qatar - ACC Mens Asia Cup Rising Stars",
         "matchTime": "2026-11-19 12:00:00",
-        "team1Logo": "n",
-        "team2Logo": "n",
+        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/c/cf/2025_ACC_Asia_Cup_Rising_Stars.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/en/c/cf/2025_ACC_Asia_Cup_Rising_Stars.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
         "team1Title": "Men's Asia Cup",
         "team2Title": "Rising Stars 2026",
-        "streamLink": "SonyLiv (Asia),,https://dai.google.com/linear/hls/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8,) SONY,,https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/",
+        "streamLink": "PRIME VIDEO,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6re2sw5cd/out/v1/8e8f93ec4fe2435c885a283151852080/cenc.mpd|drmScheme=clearkey&drmLicense=6300bd600d0c9e459bd1a3d023e2270d:edf53fad044c43f8aae91ad2576cccfd,) SonyLiv (Asia),,https://dai.google.com/linear/hls/event/7cIN-VbvRemT_Gc-OWNing/master.m3u8,) SONY,,https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8|Referer=https://www.sonyliv.com/",
         "isHot": true
     },
     {
@@ -97,6 +97,16 @@
         "team1Title": "MotorGP",
         "team2Title": "MotorGP",
         "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY SPORT MIX FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+        "isHot": false
+    },
+    {
+        "eventTitle": "CRICKET | Nepal Premier League",
+        "matchTime": "2026-11-19 17:14:00",
+        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "team1Title": "NPL",
+        "team2Title": "NPL",
+        "streamLink": "FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) NPL LIVE FHD,,https://ott-lb.nettv.com.np/npl/live_match/index.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) STAR SPORTS HD,,http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8,) SD SERVER,,http://162.251.160.53:8089/NPLT20/index.m3u8,) FANCODE SD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) STAR SPORTS HD,,https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8,) FANCODE (IND),,https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
         "isHot": false
     },
     {
@@ -266,27 +276,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/2946/image",
         "team1Title": "Western Sydney Wanderers",
         "team2Title": "Adelaide United",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Women",
-        "matchTime": "2026-11-20 11:50:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/174108/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/394912/image",
-        "team1Title": "Western Sydney Wanderers",
-        "team2Title": "Wellington Phoenix",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Men",
-        "matchTime": "2026-11-20 14:40:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/72926/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2946/image",
-        "team1Title": "Western Sydney Wanderers",
-        "team2Title": "Adelaide United",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": false
     },
     {
@@ -317,7 +307,7 @@
         "team1Title": "Illawarra Hawks",
         "team2Title": "Adelaide 36ers",
         "streamLink": "QUALITY (USE VPN),,http://193.47.62.41/hls/FFFFEa.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -617,16 +607,6 @@
         "team1Title": "Snooker",
         "team2Title": "Snooker",
         "streamLink": "ITV4 (SD USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | Nepal Premier League",
-        "matchTime": "2026-11-17 17:15:00",
-        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "team1Title": "NPL",
-        "team2Title": "NPL",
-        "streamLink": "FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) NPL LIVE FHD,,https://ott-lb.nettv.com.np/npl/live_match/index.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) STAR SPORTS HD,,http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8,) SD SERVER,,http://162.251.160.53:8089/NPLT20/index.m3u8,) FANCODE SD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) STAR SPORTS HD,,https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8,) FANCODE (IND),,https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
         "isHot": false
     },
     {
