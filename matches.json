@@ -40,26 +40,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-19 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22576/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22578/image",
-        "team1Title": "Argentina U17",
-        "team2Title": "Australia U17",
-        "streamLink": "QUALITY (USE VPN),,http://193.47.62.44/hls/XAXAXA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD TV,,https://live2.jorvakstreamcache.com/live/channel19.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-19 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/216077/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22607/image",
-        "team1Title": "Egypt U17",
-        "team2Title": "Greece U17",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/XAXAXAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/XAXAXAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | UEFA Women's Champions League",
         "matchTime": "2026-11-19 23:45:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/264964/image",
@@ -467,7 +447,7 @@
         "team1Title": "Club Atlético Peñarol",
         "team2Title": "Cerro Largo",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga AUF Uruguaya",
@@ -477,7 +457,7 @@
         "team1Title": "Progreso",
         "team2Title": "Montevideo City Torque",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga AUF Uruguaya",
@@ -487,7 +467,7 @@
         "team1Title": "Boston River",
         "team2Title": "Deportivo Maldonado",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BOXING | One Friday Fights",
@@ -577,6 +557,26 @@
         "team1Title": "South Korea U17",
         "team2Title": "Uganda U17",
         "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22576/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22578/image",
+        "team1Title": "Argentina U17",
+        "team2Title": "Australia U17",
+        "streamLink": "QUALITY (USE VPN),,http://193.47.62.44/hls/XAXAXA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) HD TV,,https://live2.jorvakstreamcache.com/live/channel19.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/216077/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22607/image",
+        "team1Title": "Egypt U17",
+        "team2Title": "Greece U17",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/XAXAXAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/XAXAXAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
