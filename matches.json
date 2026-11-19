@@ -60,46 +60,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3427/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3434/image",
-        "team1Title": "Los Angeles Lakers",
-        "team2Title": "Utah Jazz",
-        "streamLink": "SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60450/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE 2,,https://chatgpt.hereisman.net/playlist/60442/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60451/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KTTTAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3413/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
-        "team1Title": "Sacramento Kings",
-        "team2Title": "Phoenix Suns",
-        "streamLink": "SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60452/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60445/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KTTTAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3682/image",
-        "team1Title": "Utah Mammoth",
-        "team2Title": "Colorado Avalanche",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60443/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60444/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d65cc779-21c0-4151-835b-84a6108b56d4/master.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/41209/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86622/image",
-        "team1Title": "UNLV Runnin' Rebels",
-        "team2Title": "Auburn Tigers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-19 09:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/34626/image",
@@ -110,13 +70,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-19 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/86606/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86844/image",
-        "team1Title": "Nevada Wolf Pack",
-        "team2Title": "Idaho Vandals",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60446/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "eventTitle": "CRICKET | Men's Asia Cup Rising Stars 2026",
+        "matchTime": "2026-11-19 12:00:00",
+        "team1Logo": "n",
+        "team2Logo": "n",
+        "team1Title": "Men's Asia Cup",
+        "team2Title": "Rising Stars 2026",
+        "streamLink": "Link 1,,j",
         "isHot": true
     },
     {
@@ -540,16 +500,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "CRICKET | Men's Asia Cup Rising Stars 2026",
-        "matchTime": "2026-11-19 12:00:00",
-        "team1Logo": "n",
-        "team2Logo": "n",
-        "team1Title": "Men's Asia Cup",
-        "team2Title": "Rising Stars 2026",
-        "streamLink": "Link 1,,j",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | UEFA Women's Champions League",
         "matchTime": "2026-11-19 23:45:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/264964/image",
@@ -691,6 +641,16 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3427/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3434/image",
+        "team1Title": "Los Angeles Lakers",
+        "team2Title": "Utah Jazz",
+        "streamLink": "SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60450/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE 2,,https://chatgpt.hereisman.net/playlist/60442/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60451/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.50/hls/KTTTAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-19 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3411/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3428/image",
@@ -707,6 +667,16 @@
         "team1Title": "Oklahoma City Thunder",
         "team2Title": "Atlanta Hawks",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60427/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60428/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE2,,https://chatgpt.hereisman.net/playlist/60411/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/GYYYAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3413/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
+        "team1Title": "Sacramento Kings",
+        "team2Title": "Phoenix Suns",
+        "streamLink": "SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60452/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60445/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/KTTTAAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -760,6 +730,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3682/image",
+        "team1Title": "Utah Mammoth",
+        "team2Title": "Colorado Avalanche",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60443/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60444/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d65cc779-21c0-4151-835b-84a6108b56d4/master.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-19 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4376/image",
@@ -777,6 +757,26 @@
         "team1Title": "Massachusetts Minutemen",
         "team2Title": "Akron Zips",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60398/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60398/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41209/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86622/image",
+        "team1Title": "UNLV Runnin' Rebels",
+        "team2Title": "Auburn Tigers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-19 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/86606/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86844/image",
+        "team1Title": "Nevada Wolf Pack",
+        "team2Title": "Idaho Vandals",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60446/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
