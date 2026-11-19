@@ -90,6 +90,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-19 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5926/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1955/image",
+        "team1Title": "Grêmio",
+        "team2Title": "Bahia",
+        "streamLink": "PREMIERER5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+        "isHot": true
+    },
+    {
         "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-19 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3419/image",
@@ -111,6 +121,26 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3433/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3431/image",
+        "team1Title": "Toronto Raptors",
+        "team2Title": "Washington Wizards",
+        "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/GYYYAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-19 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3436/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
+        "team1Title": "Brooklyn Nets",
+        "team2Title": "Chicago Bulls",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/GYYYA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-19 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3435/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3410/image",
@@ -127,6 +157,36 @@
         "team1Title": "Cleveland Cavaliers",
         "team2Title": "Memphis Grizzlies",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60396/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60402/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/GYYY.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-19 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3704/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3690/image",
+        "team1Title": "New Jersey Devils",
+        "team2Title": "Montréal Canadiens",
+        "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60405/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7651e901-d140-481d-b833-8fa9a8701bc5/master.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-19 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3685/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3677/image",
+        "team1Title": "Detroit Red Wings",
+        "team2Title": "Boston Bruins",
+        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60404/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/51279963-a969-43d0-a148-7f06e686134a/master.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-19 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4376/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4339/image",
+        "team1Title": "Buffalo Bulls",
+        "team2Title": "Central Michigan Chippewas",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60407/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -260,16 +320,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
-        "matchTime": "2026-11-19 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5926/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1955/image",
-        "team1Title": "Grêmio",
-        "team2Title": "Bahia",
-        "streamLink": "PREMIERER5 FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|drmScheme=clearkey&drmLicense=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-19 08:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3417/image",
@@ -330,46 +380,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3433/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3431/image",
-        "team1Title": "Toronto Raptors",
-        "team2Title": "Washington Wizards",
-        "streamLink": "TSN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/GYYYAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-19 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3436/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3409/image",
-        "team1Title": "Brooklyn Nets",
-        "team2Title": "Chicago Bulls",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/GYYYA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-19 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3704/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3690/image",
-        "team1Title": "New Jersey Devils",
-        "team2Title": "Montréal Canadiens",
-        "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60405/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7651e901-d140-481d-b833-8fa9a8701bc5/master.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-19 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3685/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3677/image",
-        "team1Title": "Detroit Red Wings",
-        "team2Title": "Boston Bruins",
-        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60404/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/51279963-a969-43d0-a148-7f06e686134a/master.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-19 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/530472/image",
@@ -378,16 +388,6 @@
         "team2Title": "Colorado Avalanche",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) SPORTSCAST,,https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d65cc779-21c0-4151-835b-84a6108b56d4/master.m3u8",
         "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-19 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4376/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4339/image",
-        "team1Title": "Buffalo Bulls",
-        "team2Title": "Central Michigan Chippewas",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60407/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "BOXING | One Friday Fights",
