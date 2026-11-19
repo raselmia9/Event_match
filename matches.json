@@ -41,12 +41,22 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-19 19:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22652/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1077159/image",
-        "team1Title": "South Korea U17",
-        "team2Title": "Uganda U17",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "matchTime": "2026-11-19 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22576/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22578/image",
+        "team1Title": "Argentina U17",
+        "team2Title": "Australia U17",
+        "streamLink": "QUALITY (USE VPN),,http://193.47.62.44/hls/XAXAXA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/216077/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22607/image",
+        "team1Title": "Egypt U17",
+        "team2Title": "Greece U17",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/XAXAXAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/XAXAXAX.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -178,26 +188,6 @@
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-19 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22576/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22578/image",
-        "team1Title": "Argentina U17",
-        "team2Title": "Australia U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-19 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/216077/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22607/image",
-        "team1Title": "Egypt U17",
-        "team2Title": "Greece U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
@@ -476,7 +466,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/305811/image",
         "team1Title": "Fútbol Club Barcelona",
         "team2Title": "Servette FC Chênois Féminin",
-        "streamLink": "SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hnpy3p65/index.m3u8",
+        "streamLink": "SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hnpy3p65/index.m3u8,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "isHot": false
     },
     {
@@ -496,7 +486,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/26245/image",
         "team1Title": "Arsenal",
         "team2Title": "OL Lyonnes",
-        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hqz3cnfh/index.m3u8",
+        "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861,) SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hqz3cnfh/index.m3u8,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "isHot": false
     },
     {
@@ -507,6 +497,36 @@
         "team1Title": "FK Austria Wien",
         "team2Title": "FC Bayern München",
         "streamLink": "SERVER + LIVE,,http://162.251.160.53:8089/prime_us_b0hjnd83v2/index.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga AUF Uruguaya",
+        "matchTime": "2026-11-20 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3227/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/25009/image",
+        "team1Title": "Club Atlético Peñarol",
+        "team2Title": "Cerro Largo",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga AUF Uruguaya",
+        "matchTime": "2026-11-20 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3238/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/174972/image",
+        "team1Title": "Progreso",
+        "team2Title": "Montevideo City Torque",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga AUF Uruguaya",
+        "matchTime": "2026-11-20 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/174970/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3234/image",
+        "team1Title": "Boston River",
+        "team2Title": "Deportivo Maldonado",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -587,6 +607,16 @@
         "team1Title": "France U17",
         "team2Title": "Haiti U17",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/FYYY.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-19 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22652/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1077159/image",
+        "team1Title": "South Korea U17",
+        "team2Title": "Uganda U17",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/FYYYSS.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
