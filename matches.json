@@ -110,6 +110,26 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 02:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3002/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/231591/image",
+        "team1Title": "FC Porto",
+        "team2Title": "USC Paredes",
+        "streamLink": "beIN SPORTS US FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) beIN Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) TV QUALITY,,http://162.251.160.53:8089/411/index.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga de Primera",
+        "matchTime": "2026-11-21 03:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3167/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3162/image",
+        "team1Title": "Cobresal",
+        "team2Title": "Audax Italiano",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
         "eventTitle": "BASKETBALL | Euroleague",
         "matchTime": "2026-11-21 01:45:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/6637/image",
@@ -197,7 +217,7 @@
         "team1Title": "New Zealand",
         "team2Title": "India",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmScheme=clearkey&drmLicense=766c7943cfc3e9d982ff49ca5e16bb90:f715c4b43971ca6990af7eff70f021b0,) PRIME ENG FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2crmhngewx/out/v1/7005e762d047462aa11136773a136dfa/cenc.mpd?|drmScheme=clearkey&drmLicense=ebc640cb03dbdf8677190f7e4b2e96b0:7ab2c0204d41d1eefeca0cc04622c4cc,) PRIME HINDI FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0edrlrm8n/out/v1/769e4d71dfec4c4cb8189a0bf5051266/cenc.mpd?|drmScheme=clearkey&drmLicense=080deb5f5141f1274093066904865667:af9d012f808345520ac2d3b2cc9026de,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/qaqaqa.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | T20 International",
@@ -260,16 +280,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | Taça de Portugal",
-        "matchTime": "2026-11-21 02:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3002/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/231591/image",
-        "team1Title": "FC Porto",
-        "team2Title": "USC Paredes",
-        "streamLink": "beIN SPORTS US FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) beIN Español FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c,) TV QUALITY,,http://162.251.160.53:8089/411/index.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Liga de Primera",
         "matchTime": "2026-11-21 05:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3157/image",
@@ -278,16 +288,6 @@
         "team2Title": "Unión La Calera",
         "streamLink": "",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga de Primera",
-        "matchTime": "2026-11-21 03:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3167/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3162/image",
-        "team1Title": "Cobresal",
-        "team2Title": "Audax Italiano",
-        "streamLink": "",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga MX, Apertura",
