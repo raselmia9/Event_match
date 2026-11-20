@@ -46,7 +46,7 @@
         "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
         "team1Title": "MotorGP",
         "team2Title": "MotorGP",
-        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY SPORT MIX FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) SKY SPORT MIX FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
         "isHot": true
     },
     {
@@ -71,16 +71,6 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 19:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/203876/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22634/image",
-        "team1Title": "Mali U17",
-        "team2Title": "New Zealand U17",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/RUUU.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RUUU.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-20 21:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22616/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/22617/image",
@@ -101,22 +91,52 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/48857/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22662/image",
+        "team1Title": "Côte d'Ivoire U17",
+        "team2Title": "Uzbekistan U17",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/YPPPAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48862/image",
+        "team1Title": "Fiji U17",
+        "team2Title": "Morocco U17",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/YPPPA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-20 21:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/323076/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/22594/image",
         "team1Title": "Senegal U17",
         "team2Title": "Croatia U17",
-        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/CDCDCD.m3u8|Referer=http://www.fawanews.sc/",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/CDCDCD.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/CDCDCD.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
+        "matchTime": "2026-11-20 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/934434/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48858/image",
+        "team1Title": "Oman U17",
+        "team2Title": "Kuwait U17",
+        "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
         "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Tanzania Ligi Kuu Bara",
-        "matchTime": "2026-11-20 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/327300/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/134320/image",
-        "team1Title": "Polisi Tanzania",
-        "team2Title": "Young Africans",
-        "streamLink": "Link 1,,http://193.47.62.44/hls/HHHH.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Namungo vs Mbeya City,,http://193.47.62.41/hls/DADADAAAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "matchTime": "2026-11-20 21:30:00",
+        "team1Logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+        "team2Logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "team1Title": "Namungo",
+        "team2Title": "Mbeya City",
+        "streamLink": "Link 1,,http://193.47.62.41/hls/DADADAAAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Namungo vs Mbeya City,,http://193.47.62.41/hls/DADADAAAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -190,26 +210,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/48857/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22662/image",
-        "team1Title": "Côte d'Ivoire U17",
-        "team2Title": "Uzbekistan U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/48862/image",
-        "team1Title": "Fiji U17",
-        "team2Title": "Morocco U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
         "matchTime": "2026-11-20 22:20:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22660/image",
@@ -217,16 +217,6 @@
         "team1Title": "United Arab Emirates U17",
         "team2Title": "Bangladesh U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
-        "matchTime": "2026-11-20 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/934434/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/48858/image",
-        "team1Title": "Oman U17",
-        "team2Title": "Kuwait U17",
-        "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
         "isHot": true
     },
     {
@@ -277,7 +267,7 @@
         "team1Title": "Al-Nassr",
         "team2Title": "Al-Qadsiah",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -297,7 +287,7 @@
         "team1Title": "Al-Ahli",
         "team2Title": "Al Faisaly",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -307,7 +297,7 @@
         "team1Title": "Al-Riyadh",
         "team2Title": "Al-Hazem",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -317,7 +307,7 @@
         "team1Title": "Al-Fayha",
         "team2Title": "Al-Fateh",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -327,7 +317,7 @@
         "team1Title": "Al-Hilal",
         "team2Title": "Diriyah",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -337,7 +327,7 @@
         "team1Title": "Al-Taawoun",
         "team2Title": "Abha",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -347,7 +337,7 @@
         "team1Title": "Al-Khaleej",
         "team2Title": "Al-Ittihad",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -357,7 +347,7 @@
         "team1Title": "Al-Shabab",
         "team2Title": "Al-Ettifaq",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -367,7 +357,7 @@
         "team1Title": "Neom SC",
         "team2Title": "Al-Kholood",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Ekstraklasa",
@@ -377,7 +367,7 @@
         "team1Title": "Piast Gliwice",
         "team2Title": "MKS Korona Kielce",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Ekstraklasa",
@@ -746,7 +736,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/7949/image",
         "team1Title": "Romania",
         "team2Title": "Canada",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -867,6 +857,16 @@
         "team1Title": "UEFA Nations League",
         "team2Title": "UEFA Nations League",
         "streamLink": "Link 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/203876/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22634/image",
+        "team1Title": "Mali U17",
+        "team2Title": "New Zealand U17",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/RUUU.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RUUU.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
