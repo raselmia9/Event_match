@@ -30,6 +30,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "MOTORSPORTS | MotorGP",
+        "matchTime": "2026-11-20 16:45:00",
+        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "team1Title": "MotorGP",
+        "team2Title": "MotorGP",
+        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY SPORT MIX FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+        "isHot": true
+    },
+    {
         "eventTitle": "OTHER | TENNIS | EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
@@ -57,16 +67,6 @@
         "team1Title": "Pakistan",
         "team2Title": "Sri Lanka",
         "streamLink": "WILLOW FHD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rga2lws43c/out/v1/1d31ca47c2e24339bb6a939c28924550/cenc.mpd|drmScheme=clearkey&drmLicense=d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rga2lws43c/out/v1/1d31ca47c2e24339bb6a939c28924550/cenc.mpd|drmScheme=clearkey&drmLicense=d129d1272d5a71f72a74839d021c46a6:b357d476f2f374c66dff8fa650df717b,) T SPORTS HD,,https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|Referer=https://tapmad.com/,) HD QUALITY,,https://live.msnetworks.net/ptv-sports/master.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RREGEGE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Men",
-        "matchTime": "2026-11-20 14:40:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/72926/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2946/image",
-        "team1Title": "Western Sydney Wanderers",
-        "team2Title": "Adelaide United",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "isHot": true
     },
     {
@@ -100,6 +100,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | UEFA Nations League Draw",
+        "matchTime": "2026-11-20 17:00:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "team1Title": "UEFA Nations League",
+        "team2Title": "UEFA Nations League",
+        "streamLink": "Link 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isHot": true
+    },
+    {
         "eventTitle": "BOXING | One Friday Fights",
         "matchTime": "2026-11-20 18:04:00",
         "team1Logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -108,16 +118,6 @@
         "team2Title": "One Friday Fights",
         "streamLink": "Server 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d,) Server 2,,https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271,) Server 3,,https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8,) MMA Fighting,,https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "MOTORSPORTS | MotorGP",
-        "matchTime": "2026-11-20 16:45:00",
-        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "team1Title": "MotorGP",
-        "team2Title": "MotorGP",
-        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) FANCODE1 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) MotoGP FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de,) SP0TV FHD,,https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901,) SKY SPORT MIX FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
-        "isHot": true
     },
     {
         "eventTitle": "BOXING | Friday Night SmackDown",
@@ -188,16 +188,6 @@
         "team2Title": "DARTS PDC",
         "streamLink": "NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d,) SPORT 1 DE - FHD,,https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd|drmScheme=clearkey&drmLicense=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | UEFA Nations League Draw",
-        "matchTime": "2026-11-20 17:00:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-        "team1Title": "UEFA Nations League",
-        "team2Title": "UEFA Nations League",
-        "streamLink": "Link 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -897,6 +887,16 @@
         "team1Title": "Horse Racing",
         "team2Title": "Horse Racing",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Men",
+        "matchTime": "2026-11-20 14:40:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/72926/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2946/image",
+        "team1Title": "Western Sydney Wanderers",
+        "team2Title": "Adelaide United",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "isHot": false
     },
     {
