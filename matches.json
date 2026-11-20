@@ -90,6 +90,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | Bundesliga",
+        "matchTime": "2026-11-21 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2672/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2671/image",
+        "team1Title": "FC Bayern München",
+        "team2Title": "1. FC Köln",
+        "streamLink": "BeIN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+        "isHot": true
+    },
+    {
         "eventTitle": "FOOTBALL | Saudi Pro League",
         "matchTime": "2026-11-20 23:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/34469/image",
@@ -101,12 +111,42 @@
     },
     {
         "eventTitle": "FOOTBALL | Ekstraklasa",
-        "matchTime": "2026-11-20 23:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7918/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5065/image",
-        "team1Title": "Piast Gliwice",
-        "team2Title": "MKS Korona Kielce",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/R999AAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999AAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "matchTime": "2026-11-21 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3117/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3108/image",
+        "team1Title": "Pogoń Szczecin",
+        "team2Title": "Śląsk Wrocław",
+        "streamLink": "SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-21 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/324871/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2845/image",
+        "team1Title": "FC Andorra",
+        "team2Title": "Leganés",
+        "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-21 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3543/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/57183/image",
+        "team1Title": "Barça Basket",
+        "team2Title": "KK Crvena zvezda",
+        "streamLink": "D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-21 01:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3501/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
+        "team1Title": "Olympiacos BC",
+        "team2Title": "Real Madrid",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/G3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/G3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -117,16 +157,6 @@
         "team1Title": "Anadolu Efes",
         "team2Title": "LDLC ASVEL Lyon-Villeurbanne",
         "streamLink": "STREAM TV + HD,,https://www.rtmpcdn.com/live/baf609e0-2f59-4e4a-a42f-bafcfaa23419.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/VAVAVA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "RUGBY | Nations Cup",
-        "matchTime": "2026-11-20 22:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7957/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/7949/image",
-        "team1Title": "Romania",
-        "team2Title": "Canada",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -250,26 +280,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | Bundesliga",
-        "matchTime": "2026-11-21 01:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/2672/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2671/image",
-        "team1Title": "FC Bayern München",
-        "team2Title": "1. FC Köln",
-        "streamLink": "BeIN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Ekstraklasa",
-        "matchTime": "2026-11-21 01:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3117/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3108/image",
-        "team1Title": "Pogoń Szczecin",
-        "team2Title": "Śląsk Wrocław",
-        "streamLink": "SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Ligue 1",
         "matchTime": "2026-11-21 01:45:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/1652/image",
@@ -297,16 +307,6 @@
         "team1Title": "Athletic Club",
         "team2Title": "Espanyol",
         "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | LaLiga 2",
-        "matchTime": "2026-11-21 01:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/324871/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2845/image",
-        "team1Title": "FC Andorra",
-        "team2Title": "Leganés",
-        "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
         "isHot": true
     },
     {
@@ -557,26 +557,6 @@
         "team1Title": "KK Partizan Mozzart Bet",
         "team2Title": "Beşiktaş JK",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-21 01:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3543/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/57183/image",
-        "team1Title": "Barça Basket",
-        "team2Title": "KK Crvena zvezda",
-        "streamLink": "D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-21 01:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3501/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
-        "team1Title": "Olympiacos BC",
-        "team2Title": "Real Madrid",
-        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/G3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/G3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -837,6 +817,26 @@
         "team1Title": "Oman U17",
         "team2Title": "Kuwait U17",
         "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Ekstraklasa",
+        "matchTime": "2026-11-20 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7918/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5065/image",
+        "team1Title": "Piast Gliwice",
+        "team2Title": "MKS Korona Kielce",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/R999AAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999AAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "RUGBY | Nations Cup",
+        "matchTime": "2026-11-20 22:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7957/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7949/image",
+        "team1Title": "Romania",
+        "team2Title": "Canada",
+        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
