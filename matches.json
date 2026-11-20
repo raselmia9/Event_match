@@ -66,7 +66,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
         "team1Title": "ABU DHABI T10 LEAGUE",
         "team2Title": "ABU DHABI T10 LEAGUE",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd|drmScheme=clearkey&drmLicense=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e4htfkwtdn/out/v1/d88e790408ad45d98c84ffe9f812f9d8/cenc.mpd|drmScheme=clearkey&drmLicense=b523235faf497e1ce0967946ba01a9c3:1697e8dd99cd9cd940f463f4fdc7385f,) PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) WILLOW ALT,,https://live.msnetworks.net/a-sports/master.m3u8",
         "isHot": true
     },
     {
@@ -81,32 +81,12 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22583/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/468404/image",
-        "team1Title": "Belgium U17",
-        "team2Title": "Vietnam U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RYYYAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/190704/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/229664/image",
-        "team1Title": "Cuba U17",
-        "team2Title": "Tajikistan U17",
-        "streamLink": "HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RYYYAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-20 21:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22616/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/22617/image",
         "team1Title": "Italy U17",
         "team2Title": "Jamaica U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DADADAAA.m3u8|Referer=http://www.fawanews.sc/,) HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "isHot": true
     },
     {
@@ -120,23 +100,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
-        "matchTime": "2026-11-20 19:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/934531/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/934421/image",
-        "team1Title": "Lebanon U17",
-        "team2Title": "Bahrain U17",
-        "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
-        "matchTime": "2026-11-20 20:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/233785/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/468398/image",
-        "team1Title": "India U17",
-        "team2Title": "Malaysia U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 21:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/323076/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22594/image",
+        "team1Title": "Senegal U17",
+        "team2Title": "Croatia U17",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/CDCDCD.m3u8|Referer=http://www.fawanews.sc/",
         "isHot": true
     },
     {
@@ -240,16 +210,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 21:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/323076/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22594/image",
-        "team1Title": "Senegal U17",
-        "team2Title": "Croatia U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
         "matchTime": "2026-11-20 22:20:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22660/image",
@@ -257,7 +217,7 @@
         "team1Title": "United Arab Emirates U17",
         "team2Title": "Bangladesh U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
@@ -787,7 +747,7 @@
         "team1Title": "Romania",
         "team2Title": "Canada",
         "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "Premiership Rugby Cup",
@@ -907,6 +867,36 @@
         "team1Title": "UEFA Nations League",
         "team2Title": "UEFA Nations League",
         "streamLink": "Link 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22583/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/468404/image",
+        "team1Title": "Belgium U17",
+        "team2Title": "Vietnam U17",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RYYYAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/190704/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/229664/image",
+        "team1Title": "Cuba U17",
+        "team2Title": "Tajikistan U17",
+        "streamLink": "HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RYYYAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
+        "matchTime": "2026-11-20 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/934531/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/934421/image",
+        "team1Title": "Lebanon U17",
+        "team2Title": "Bahrain U17",
+        "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
         "isHot": false
     },
     {
