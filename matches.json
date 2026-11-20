@@ -60,6 +60,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | Liga Profesional de Fútbol",
+        "matchTime": "2026-11-21 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3208/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3203/image",
+        "team1Title": "Vélez Sarsfield",
+        "team2Title": "Club Atlético Belgrano",
+        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "isHot": true
+    },
+    {
         "eventTitle": "FOOTBALL | Taça de Portugal",
         "matchTime": "2026-11-21 02:45:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3002/image",
@@ -80,23 +90,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | Euroleague",
-        "matchTime": "2026-11-21 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/6637/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/6678/image",
-        "team1Title": "KK Partizan Mozzart Bet",
-        "team2Title": "Beşiktaş JK",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "Premiership Rugby Cup",
-        "matchTime": "2026-11-21 01:45:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4191/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4196/image",
-        "team1Title": "Bristol Bears",
-        "team2Title": "Bath Rugby",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-21 05:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4309/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4374/image",
+        "team1Title": "UCF Knights",
+        "team2Title": "Iowa State Cyclones",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
         "isHot": true
     },
     {
@@ -117,7 +117,7 @@
         "team1Title": "SmackDown",
         "team2Title": "SmackDown",
         "streamLink": "WWE SMACK+ HD,,https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/goooaaaQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) WWE SMACK,,https://chatgpt.hereisman.net/playlist/58881/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) WWE HD 2,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE LIVE FHD,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8,) HD QUALITY SMACK,,https://admin2.formaturamaxi.com.br/wwe.m3u8,) WWE LIVE FHD4,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8,) STREAM HD QUALITY,,https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) HD QUALITY SMK,,https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) SmackDown HD,,https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8,) WWE LIVE FHD5,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) WWE LIVE FHD6,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8,) SPORT CAST FHD5,,https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) WWE LIVE FHD1,,https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8,) WWE LIVE FHD5,,https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8,) USA TV (US VPN),,https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | Nepal Premier League",
@@ -178,16 +178,6 @@
         "team2Title": "Fulham",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SKY SPORTS EPL FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f,) SKY SPORTS MIX FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) FUBO SPORTS ALT,,https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga Profesional de Fútbol",
-        "matchTime": "2026-11-21 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3208/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3203/image",
-        "team1Title": "Vélez Sarsfield",
-        "team2Title": "Club Atlético Belgrano",
-        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga de Primera",
@@ -268,16 +258,6 @@
         "team2Title": "Bowling Green Falcons",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-21 05:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4309/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4374/image",
-        "team1Title": "UCF Knights",
-        "team2Title": "Iowa State Cyclones",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
@@ -387,7 +367,7 @@
         "team1Title": "Atlanta Hawks",
         "team2Title": "Charlotte Hornets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -751,6 +731,16 @@
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
+        "matchTime": "2026-11-21 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/6637/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/6678/image",
+        "team1Title": "KK Partizan Mozzart Bet",
+        "team2Title": "Beşiktaş JK",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | Euroleague",
         "matchTime": "2026-11-21 01:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3543/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/57183/image",
@@ -787,6 +777,16 @@
         "team1Title": "Romania",
         "team2Title": "Canada",
         "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "Premiership Rugby Cup",
+        "matchTime": "2026-11-21 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4191/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4196/image",
+        "team1Title": "Bristol Bears",
+        "team2Title": "Bath Rugby",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": false
     },
     {
