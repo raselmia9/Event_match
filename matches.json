@@ -81,16 +81,6 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 20:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22479/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/468402/image",
-        "team1Title": "Spain U17",
-        "team2Title": "China U17",
-        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tiiiA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-20 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/48857/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/22662/image",
@@ -121,12 +111,32 @@
     },
     {
         "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
+        "matchTime": "2026-11-20 22:20:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22660/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/930168/image",
+        "team1Title": "United Arab Emirates U17",
+        "team2Title": "Bangladesh U17",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
         "matchTime": "2026-11-20 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/934434/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/48858/image",
         "team1Title": "Oman U17",
         "team2Title": "Kuwait U17",
         "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "RUGBY | Nations Cup",
+        "matchTime": "2026-11-20 22:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/7957/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7949/image",
+        "team1Title": "Romania",
+        "team2Title": "Canada",
+        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -210,16 +220,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
-        "matchTime": "2026-11-20 22:20:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22660/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/930168/image",
-        "team1Title": "United Arab Emirates U17",
-        "team2Title": "Bangladesh U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Frauen-Bundesliga",
         "matchTime": "2026-11-20 23:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/36618/image",
@@ -227,7 +227,7 @@
         "team1Title": "1. FC Union Berlin",
         "team2Title": "Bayer Leverkusen",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | 2. Bundesliga",
@@ -237,7 +237,7 @@
         "team1Title": "Arminia Bielefeld",
         "team2Title": "1. FC Magdeburg",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | 2. Bundesliga",
@@ -247,7 +247,7 @@
         "team1Title": "Darmstadt 98",
         "team2Title": "1. FC Heidenheim",
         "streamLink": "BEIN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Bundesliga",
@@ -277,7 +277,7 @@
         "team1Title": "Al-Ahli",
         "team2Title": "Al-Nassr",
         "streamLink": "SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Saudi Pro League",
@@ -697,7 +697,7 @@
         "team1Title": "Anadolu Efes",
         "team2Title": "LDLC ASVEL Lyon-Villeurbanne",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBL",
@@ -728,16 +728,6 @@
         "team2Title": "Tonga",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "RUGBY | Nations Cup",
-        "matchTime": "2026-11-20 22:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/7957/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/7949/image",
-        "team1Title": "Romania",
-        "team2Title": "Canada",
-        "streamLink": "TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R999A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
     },
     {
         "eventTitle": "Premiership Rugby Cup",
@@ -887,6 +877,16 @@
         "team1Title": "Cuba U17",
         "team2Title": "Tajikistan U17",
         "streamLink": "HD QUALITY,,https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RYYYAAAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22479/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/468402/image",
+        "team1Title": "Spain U17",
+        "team2Title": "China U17",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tiiiA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
