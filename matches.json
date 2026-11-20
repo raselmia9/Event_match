@@ -70,22 +70,12 @@
         "isHot": true
     },
     {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-20 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/257523/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3684/image",
-        "team1Title": "Vegas Golden Knights",
-        "team2Title": "Dallas Stars",
-        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-20 08:40:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/381707/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
-        "team1Title": "Seattle Kraken",
-        "team2Title": "Vancouver Canucks",
+        "eventTitle": "FOOTBALL | A-League Women",
+        "matchTime": "2026-11-20 11:50:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/174108/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/394912/image",
+        "team1Title": "Western Sydney Wanderers",
+        "team2Title": "Wellington Phoenix",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
@@ -117,26 +107,6 @@
         "team1Title": "Santa Clara Broncos",
         "team2Title": "VCU Rams",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60518/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-20 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34610/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/303036/image",
-        "team1Title": "California Golden Bears",
-        "team2Title": "Texas A&M–Commerce Lions",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60513/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-20 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/86766/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86820/image",
-        "team1Title": "Stanford Cardinal",
-        "team2Title": "Sacramento State Hornets",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60512/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -218,16 +188,6 @@
         "team2Title": "Adelaide United",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Women",
-        "matchTime": "2026-11-20 11:50:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/174108/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/394912/image",
-        "team1Title": "Western Sydney Wanderers",
-        "team2Title": "Wellington Phoenix",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBL",
@@ -351,12 +311,32 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-20 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/257523/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3684/image",
+        "team1Title": "Vegas Golden Knights",
+        "team2Title": "Dallas Stars",
+        "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-20 08:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3682/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3675/image",
         "team1Title": "Colorado Avalanche",
         "team2Title": "Anaheim Ducks",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60507/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-20 08:40:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/381707/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
+        "team1Title": "Seattle Kraken",
+        "team2Title": "Vancouver Canucks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
@@ -417,6 +397,26 @@
         "team1Title": "Temple Owls",
         "team2Title": "Rice Owls",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60485/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) College Football FHD,,https://admin.formaturamaxi.com.br/ncaa.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-20 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34610/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/303036/image",
+        "team1Title": "California Golden Bears",
+        "team2Title": "Texas A&M–Commerce Lions",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60513/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-20 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/86766/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86820/image",
+        "team1Title": "Stanford Cardinal",
+        "team2Title": "Sacramento State Hornets",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60512/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
