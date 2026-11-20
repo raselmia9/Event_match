@@ -70,16 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBL",
-        "matchTime": "2026-11-20 14:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3604/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3609/image",
-        "team1Title": "Cairns Taipans",
-        "team2Title": "Perth Wildcats",
-        "streamLink": "",
-        "isHot": true
-    },
-    {
         "eventTitle": "CRICKET | Qatar - ACC Mens Asia Cup Rising Stars",
         "matchTime": "2026-11-20 12:00:00",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/en/c/cf/2025_ACC_Asia_Cup_Rising_Stars.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -117,7 +107,7 @@
         "team1Title": "One Friday Fights",
         "team2Title": "One Friday Fights",
         "streamLink": "Server 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d,) Server 2,,https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271,) Server 3,,https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8,) MMA Fighting,,https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BOXING | Friday Night SmackDown",
@@ -907,6 +897,16 @@
         "team1Title": "Western Sydney Wanderers",
         "team2Title": "Wellington Phoenix",
         "streamLink": "TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBL",
+        "matchTime": "2026-11-20 14:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3604/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3609/image",
+        "team1Title": "Cairns Taipans",
+        "team2Title": "Perth Wildcats",
+        "streamLink": "",
         "isHot": false
     },
     {
