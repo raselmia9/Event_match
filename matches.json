@@ -121,6 +121,16 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-20 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3682/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3675/image",
+        "team1Title": "Colorado Avalanche",
+        "team2Title": "Anaheim Ducks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-20 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3683/image",
@@ -357,16 +367,6 @@
         "team1Title": "Vegas Golden Knights",
         "team2Title": "Dallas Stars",
         "streamLink": "PREMIERE2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-20 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3682/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3675/image",
-        "team1Title": "Colorado Avalanche",
-        "team2Title": "Anaheim Ducks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -377,7 +377,7 @@
         "team1Title": "Seattle Kraken",
         "team2Title": "Vancouver Canucks",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | MLS",
@@ -387,7 +387,7 @@
         "team1Title": "Seattle Sounders FC",
         "team2Title": "Real Salt Lake",
         "streamLink": "SERVER + LIVE,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BOXING | One Friday Fights",
