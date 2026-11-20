@@ -1,5 +1,15 @@
 [
     {
+        "eventTitle": "AMERICAN FOOTBALL | NFL",
+        "matchTime": "2026-11-20 07:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4324/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4421/image",
+        "team1Title": "Houston Texans",
+        "team2Title": "Indianapolis Colts",
+        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) KLTRA + HD,,https://chatgpt.hereisman.net/playlist/60472/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 1,,https://chatgpt.hereisman.net/playlist/60469/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 2,,https://chatgpt.hereisman.net/playlist/60470/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 3,,https://chatgpt.hereisman.net/playlist/60471/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "isHot": true
+    },
+    {
         "eventTitle": "OTHER | GOLF EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
@@ -210,6 +220,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "AMERICAN FOOTBALL | NFL",
+        "matchTime": "2026-11-20 07:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4324/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4421/image",
+        "team1Title": "Houston Texans",
+        "team2Title": "Indianapolis Colts",
+        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "isHot": true
+    },
+    {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-20 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4361/image",
@@ -237,16 +257,6 @@
         "team1Title": "Stephen F. Austin Lumberjacks",
         "team2Title": "Northwestern State Demons",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60462/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-20 07:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4324/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4421/image",
-        "team1Title": "Houston Texans",
-        "team2Title": "Indianapolis Colts",
-        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) KLTRA + HD,,https://chatgpt.hereisman.net/playlist/60472/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 1,,https://chatgpt.hereisman.net/playlist/60469/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 2,,https://chatgpt.hereisman.net/playlist/60470/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER HD 3,,https://chatgpt.hereisman.net/playlist/60471/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "isHot": true
     },
     {
@@ -378,16 +388,6 @@
         "team2Title": "Real Salt Lake",
         "streamLink": "SERVER + LIVE,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-20 07:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4324/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4421/image",
-        "team1Title": "Houston Texans",
-        "team2Title": "Indianapolis Colts",
-        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isHot": true
     },
     {
         "eventTitle": "BOXING | One Friday Fights",
