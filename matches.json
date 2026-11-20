@@ -101,12 +101,22 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22616/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22617/image",
+        "team1Title": "Italy U17",
+        "team2Title": "Jamaica U17",
+        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-20 20:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22479/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/468402/image",
         "team1Title": "Spain U17",
         "team2Title": "China U17",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/tiiiA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -136,7 +146,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/134320/image",
         "team1Title": "Polisi Tanzania",
         "team2Title": "Young Africans",
-        "streamLink": "Link 1,,http://193.47.62.44/hls/HHHH.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "Link 1,,http://193.47.62.44/hls/HHHH.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) Namungo vs Mbeya City,,http://193.47.62.41/hls/DADADAAAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -211,23 +221,13 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 21:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22616/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22617/image",
-        "team1Title": "Italy U17",
-        "team2Title": "Jamaica U17",
-        "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-20 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/48857/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/22662/image",
         "team1Title": "Côte d'Ivoire U17",
         "team2Title": "Uzbekistan U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -237,7 +237,7 @@
         "team1Title": "Fiji U17",
         "team2Title": "Morocco U17",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -267,7 +267,7 @@
         "team1Title": "Oman U17",
         "team2Title": "Kuwait U17",
         "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Frauen-Bundesliga",
