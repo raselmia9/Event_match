@@ -70,36 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/48857/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/22662/image",
-        "team1Title": "Côte d'Ivoire U17",
-        "team2Title": "Uzbekistan U17",
-        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/YPPPAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-20 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/48862/image",
-        "team1Title": "Fiji U17",
-        "team2Title": "Morocco U17",
-        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/YPPPA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
-        "matchTime": "2026-11-20 22:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/934434/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/48858/image",
-        "team1Title": "Oman U17",
-        "team2Title": "Kuwait U17",
-        "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Frauen-Bundesliga",
         "matchTime": "2026-11-20 23:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/36618/image",
@@ -297,7 +267,7 @@
         "team1Title": "FC Bayern München",
         "team2Title": "1. FC Köln",
         "streamLink": "BeIN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8,) SKY TOP EVENT FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|drmScheme=clearkey&drmLicense=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Ekstraklasa",
@@ -307,7 +277,7 @@
         "team1Title": "Pogoń Szczecin",
         "team2Title": "Śląsk Wrocław",
         "streamLink": "SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Ligue 1",
@@ -347,7 +317,7 @@
         "team1Title": "FC Andorra",
         "team2Title": "Leganés",
         "streamLink": "LaLiga Hypermotion,,https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga Profesional de Fútbol",
@@ -606,8 +576,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/57183/image",
         "team1Title": "Barça Basket",
         "team2Title": "KK Crvena zvezda",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "streamLink": "D SPORTS + FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3,) D SPORTS2+ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504,) D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | Euroleague",
@@ -616,8 +586,8 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3540/image",
         "team1Title": "Olympiacos BC",
         "team2Title": "Real Madrid",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/G3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/G3333.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBL",
@@ -821,6 +791,26 @@
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/48857/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22662/image",
+        "team1Title": "Côte d'Ivoire U17",
+        "team2Title": "Uzbekistan U17",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/YPPPAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-20 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1096685/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48862/image",
+        "team1Title": "Fiji U17",
+        "team2Title": "Morocco U17",
+        "streamLink": "STREAM TV + HD,,https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/YPPPA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
         "matchTime": "2026-11-20 21:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/323076/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/22594/image",
@@ -836,6 +826,16 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/934421/image",
         "team1Title": "Lebanon U17",
         "team2Title": "Bahrain U17",
+        "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | AFC U17 Asian Cup Qualification",
+        "matchTime": "2026-11-20 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/934434/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48858/image",
+        "team1Title": "Oman U17",
+        "team2Title": "Kuwait U17",
         "streamLink": "STREAM TV + HD,,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
         "isHot": false
     },
