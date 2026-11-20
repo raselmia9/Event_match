@@ -90,16 +90,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | MLS",
-        "matchTime": "2026-11-20 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/22009/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5133/image",
-        "team1Title": "Seattle Sounders FC",
-        "team2Title": "Real Salt Lake",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60515/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/R333AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-20 10:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/41223/image",
@@ -387,6 +377,16 @@
         "team1Title": "Calgary Flames",
         "team2Title": "Minnesota Wild",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | MLS",
+        "matchTime": "2026-11-20 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22009/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5133/image",
+        "team1Title": "Seattle Sounders FC",
+        "team2Title": "Real Salt Lake",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60515/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/R333AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
