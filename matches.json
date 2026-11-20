@@ -40,16 +40,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BOXING | TNA iMPACT",
-        "matchTime": "2026-11-20 06:00:00",
-        "team1Logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "team2Logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
-        "team1Title": "TNA iMPACT",
-        "team2Title": "TNA iMPACT",
-        "streamLink": "TNA LIVE HD,,https://word.onnext.site/dailymotion/live/playlist/54.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RIIIAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "OTHER | TENNIS | EVENTO",
         "matchTime": "2026-11-16 08:35:00",
         "team1Logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
@@ -91,16 +81,6 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-20 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3682/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3675/image",
-        "team1Title": "Colorado Avalanche",
-        "team2Title": "Anaheim Ducks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60507/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-20 08:40:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/381707/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3692/image",
@@ -117,16 +97,6 @@
         "team1Title": "Seattle Sounders FC",
         "team2Title": "Real Salt Lake",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60515/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) SERVER + LIVE,,http://162.251.160.53:8089/prime_can_amzn1_dv_gti_e733af2e_2359_4a09_9ca6_5736fbb3cd7c/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/R333AAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NFL",
-        "matchTime": "2026-11-20 07:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4324/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4421/image",
-        "team1Title": "Houston Texans",
-        "team2Title": "Indianapolis Colts",
-        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "isHot": true
     },
     {
@@ -177,16 +147,6 @@
         "team1Title": "Stanford Cardinal",
         "team2Title": "Sacramento State Hornets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60512/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-20 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34612/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/303989/image",
-        "team1Title": "Washington Huskies",
-        "team2Title": "Utah Tech Trailblazers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60509/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -277,7 +237,7 @@
         "team1Title": "Western Sydney Wanderers",
         "team2Title": "Wellington Phoenix",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBL",
@@ -307,6 +267,16 @@
         "team1Title": "One Friday Fights",
         "team2Title": "One Friday Fights",
         "streamLink": "Server 1,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d,) Server 2,,https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271,) Server 3,,https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8,) MMA Fighting,,https://chatgpt.hereisman.net/playlist/59937/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BOXING | TNA iMPACT",
+        "matchTime": "2026-11-20 06:00:00",
+        "team1Logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "team2Logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
+        "team1Title": "TNA iMPACT",
+        "team2Title": "TNA iMPACT",
+        "streamLink": "TNA LIVE HD,,https://word.onnext.site/dailymotion/live/playlist/54.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RIIIAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
@@ -391,6 +361,16 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-20 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3682/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3675/image",
+        "team1Title": "Colorado Avalanche",
+        "team2Title": "Anaheim Ducks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60507/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-20 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3681/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3683/image",
@@ -407,6 +387,16 @@
         "team1Title": "Calgary Flames",
         "team2Title": "Minnesota Wild",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NFL",
+        "matchTime": "2026-11-20 07:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4324/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4421/image",
+        "team1Title": "Houston Texans",
+        "team2Title": "Indianapolis Colts",
+        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN4 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "isHot": false
     },
     {
@@ -427,6 +417,16 @@
         "team1Title": "Temple Owls",
         "team2Title": "Rice Owls",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60485/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) College Football FHD,,https://admin.formaturamaxi.com.br/ncaa.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-20 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34612/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/303989/image",
+        "team1Title": "Washington Huskies",
+        "team2Title": "Utah Tech Trailblazers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60509/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
