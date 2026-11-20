@@ -160,16 +160,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "HOCKEY | NHL",
-        "matchTime": "2026-11-20 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3694/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3686/image",
-        "team1Title": "Tampa Bay Lightning",
-        "team2Title": "Edmonton Oilers",
-        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60486/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | MLS",
         "matchTime": "2026-11-20 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/22009/image",
@@ -200,26 +190,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FCS",
-        "matchTime": "2026-11-20 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/296521/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/296495/image",
-        "team1Title": "Nicholls State Colonels",
-        "team2Title": "Southeastern Louisiana Lions",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60463/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FCS",
-        "matchTime": "2026-11-20 06:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/296525/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/296499/image",
-        "team1Title": "Stephen F. Austin Lumberjacks",
-        "team2Title": "Northwestern State Demons",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60462/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "MOTORSPORTS | MotorGP",
         "matchTime": "2026-11-20 16:45:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
@@ -247,7 +217,7 @@
         "team1Title": "Pakistan",
         "team2Title": "Sri Lanka",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd|drmScheme=clearkey&drmLicense=15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd|drmScheme=clearkey&drmLicense=15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RREGEGE.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | T20 International",
@@ -501,6 +471,16 @@
     },
     {
         "eventTitle": "HOCKEY | NHL",
+        "matchTime": "2026-11-20 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3694/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3686/image",
+        "team1Title": "Tampa Bay Lightning",
+        "team2Title": "Edmonton Oilers",
+        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60486/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "HOCKEY | NHL",
         "matchTime": "2026-11-20 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3700/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3699/image",
@@ -667,6 +647,26 @@
         "team1Title": "Maccabi Tel Aviv",
         "team2Title": "BC Dubai",
         "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/RARARAD.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FCS",
+        "matchTime": "2026-11-20 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/296521/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/296495/image",
+        "team1Title": "Nicholls State Colonels",
+        "team2Title": "Southeastern Louisiana Lions",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60463/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FCS",
+        "matchTime": "2026-11-20 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/296525/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/296499/image",
+        "team1Title": "Stephen F. Austin Lumberjacks",
+        "team2Title": "Northwestern State Demons",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60462/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
