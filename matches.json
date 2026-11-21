@@ -96,7 +96,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/2832/image",
         "team1Title": "Deportivo Alavés",
         "team2Title": "Deportivo de A Coruña",
-        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) ESPN DEPORTES+ HD,,https://chatgpt.hereisman.net/playlist/60593/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "PREMIER1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f,) ESPN DEPORTES+ HD,,https://chatgpt.hereisman.net/playlist/60593/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) CazéTV FHD,,https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|drmScheme=clearkey&drmLicense=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6,) HD QUALITY,,https://live.vivo155.com/live/sd-1-4565604.m3u8?txSecret=caa0d6d0dced0b6a1caf4b4a2e13c04c&txTime=6B01A632|Referer=https://player.on8on8.com/,) HD QUALITY 2,,https://www.rtmpcdn.com/live/dcea26d8-186d-40cf-b9ab-8e327e2eeab3.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/DADADADDD.m3u8|Referer=http://www.fawanews.sc/",
         "isHot": true
     },
     {
@@ -166,7 +166,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/22593/image",
         "team1Title": "Tanzania U17",
         "team2Title": "Costa Rica U17",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/QAQAQAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QAQAQAAAQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
         "isHot": true
     },
     {
@@ -190,23 +190,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Taça de Portugal",
-        "matchTime": "2026-11-21 17:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/35177/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/36365/image",
-        "team1Title": "Atletico CP",
-        "team2Title": "Casa Pia",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga F Moeve",
-        "matchTime": "2026-11-21 17:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/77893/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/262253/image",
-        "team1Title": "FC Badalona Women",
-        "team2Title": "Real Club Deportivo de A Coruña",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/313112/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48841/image",
+        "team1Title": "Cameroon U17",
+        "team2Title": "Venezuela U17",
+        "streamLink": "D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
         "isHot": true
     },
     {
@@ -246,7 +236,17 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/66768/image",
         "team1Title": "Liverpool FC",
         "team2Title": "Chelsea FC",
-        "streamLink": "SKY SPORTS MIX FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) SKY SPORTS EPL - FHD,,https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=,) SKY SPORTS EPL FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QAQAQAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "streamLink": "SKY SPORTS EPL - FHD,,https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=,) SKY SPORTS,,https://live.vivo155.com/live/hd-en-1-4603747.m3u8?txSecret=82f187affe4e83f8450969aea1e96b02&txTime=6B01A58A|Referer=https://player.on8on8.com/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QAQAQAAAQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | South African League Cup",
+        "matchTime": "2026-11-21 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/43555/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7668/image",
+        "team1Title": "Stellenbosch",
+        "team2Title": "Orlando Pirates",
+        "streamLink": "",
         "isHot": true
     },
     {
@@ -256,7 +256,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/212413/image",
         "team1Title": "Pamba SC",
         "team2Title": "Coastal Union",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "streamLink": "STREAM TV + HD,,http://193.47.62.44/hls/R666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/R666.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -306,7 +306,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3053/image",
         "team1Title": "Galatasaray",
         "team2Title": "Samsunspor",
-        "streamLink": "BeIN SPORTS3 - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) beIN ESPNAOL FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+        "streamLink": "beIN SPORTS 1 FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|drmScheme=clearkey&drmLicense=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe,) BeIN SPORTS 3 FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) HD QUALITY,,https://live.vivo155.com/live/sd-1-4581371.m3u8?txSecret=6d15b0d80a44fcff63fd7a2e400ef6f5&txTime=6B01A6E0|Referer=https://player.on8on8.com/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QAQAQAAAQQQQQQAA.m3u8|Referer=http://www.fawanews.sc/,) BeIN SPORTS3 - FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|drmScheme=clearkey&drmLicense=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c,) beIN ESPNAOL FHD,,https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|drmScheme=clearkey&drmLicense=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
         "isHot": true
     },
     {
@@ -316,7 +316,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3064/image",
         "team1Title": "Amedspor",
         "team2Title": "Çaykur Rizespor",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "streamLink": "STREAM TV + HD,,https://live.vivo155.com/live/sd-1-4581368.m3u8?txSecret=5ffbcbc9e7d16e42300e87c02e2af3a1&txTime=6B01A69C|Referer=https://player.on8on8.com/,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QAQAQAAAQQQQQQA.m3u8|Referer=http://www.fawanews.sc/",
         "isHot": true
     },
     {
@@ -351,7 +351,7 @@
     },
     {
         "eventTitle": "OTHER | Snooker",
-        "matchTime": "2026-11-21 20:00:00",
+        "matchTime": "2026-11-21 20:05:00",
         "team1Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
         "team2Logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
         "team1Title": "Snooker",
@@ -787,7 +787,7 @@
         "team1Title": "Eintracht Frankfurt",
         "team2Title": "TSG Hoffenheim",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Bundesliga",
@@ -797,7 +797,7 @@
         "team1Title": "SV 07 Elversberg",
         "team2Title": "SC Freiburg",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Bundesliga",
@@ -807,7 +807,7 @@
         "team1Title": "Borussia M'gladbach",
         "team2Title": "Borussia Dortmund",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Bundesliga",
@@ -817,7 +817,7 @@
         "team1Title": "Bayer 04 Leverkusen",
         "team2Title": "SC Paderborn 07",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Bundesliga",
@@ -827,7 +827,7 @@
         "team1Title": "1. FC Union Berlin",
         "team2Title": "RB Leipzig",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Allsvenskan",
@@ -867,7 +867,7 @@
         "team1Title": "Dominican Republic U17",
         "team2Title": "Montenegro U17",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -898,16 +898,6 @@
         "team2Title": "Romania U17",
         "streamLink": "TUDN MEXICO FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|drmScheme=clearkey&drmLicense=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | U17 World Championship",
-        "matchTime": "2026-11-21 19:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/313112/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/48841/image",
-        "team1Title": "Cameroon U17",
-        "team2Title": "Venezuela U17",
-        "streamLink": "D SPORTS ++ FHD,,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | VriendenLoterij Eredivisie",
@@ -1168,16 +1158,6 @@
         "team2Title": "Atlético Nacional",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | South African League Cup",
-        "matchTime": "2026-11-21 19:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/43555/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/7668/image",
-        "team1Title": "Stellenbosch",
-        "team2Title": "Orlando Pirates",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Scottish Championship",
@@ -1516,7 +1496,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/7691/image",
         "team1Title": "KS Cracovia",
         "team2Title": "Jagiellonia Białystok",
-        "streamLink": "beIN XTRA FHD,,https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
+        "streamLink": "beIN XTRA FHD,,https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/DADADADDDD.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -2046,7 +2026,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4357/image",
         "team1Title": "Baylor Bears",
         "team2Title": "Texas Tech Red Raiders",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -2056,7 +2036,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4322/image",
         "team1Title": "Illinois Fighting Illini",
         "team2Title": "Iowa Hawkeyes",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -2096,7 +2076,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4313/image",
         "team1Title": "Michigan Wolverines",
         "team2Title": "UCLA Bruins",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -2126,7 +2106,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4375/image",
         "team1Title": "Washington Huskies",
         "team2Title": "Indiana Hoosiers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -2206,7 +2186,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4306/image",
         "team1Title": "USC Trojans",
         "team2Title": "Maryland Terrapins",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -2246,7 +2226,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4336/image",
         "team1Title": "Miami Hurricanes",
         "team2Title": "Virginia Tech Hokies",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -2286,7 +2266,7 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/4305/image",
         "team1Title": "Notre Dame Fighting Irish",
         "team2Title": "Southern Methodist Mustangs",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "streamLink": "",
         "isHot": false
     },
     {
@@ -2417,7 +2397,7 @@
         "team1Title": "Scotland",
         "team2Title": "Japan",
         "streamLink": "NOVA2 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Championship",
@@ -2447,7 +2427,7 @@
         "team1Title": "England",
         "team2Title": "New Zealand",
         "streamLink": "NOVA1 SPORTS FHD,,https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Championship",
@@ -2600,6 +2580,36 @@
         "isHot": false
     },
     {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Interdivisional",
+        "matchTime": "2026-11-21 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4385/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/296551/image",
+        "team1Title": "Ole Miss Rebels",
+        "team2Title": "Wofford Terriers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Interdivisional",
+        "matchTime": "2026-11-21 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4385/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/296551/image",
+        "team1Title": "Ole Miss Rebels",
+        "team2Title": "Wofford Terriers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Interdivisional",
+        "matchTime": "2026-11-22 01:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4312/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/188361/image",
+        "team1Title": "Alabama Crimson Tide",
+        "team2Title": "Chattanooga Mocs",
+        "streamLink": "",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | UFC EVENTO",
         "matchTime": "2026-11-21 08:00:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
@@ -2710,6 +2720,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/35177/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/36365/image",
+        "team1Title": "Atletico CP",
+        "team2Title": "Casa Pia",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "FOOTBALL | A-League Men",
         "matchTime": "2026-11-21 14:40:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/5968/image",
@@ -2717,6 +2737,16 @@
         "team1Title": "Brisbane Roar",
         "team2Title": "Sydney FC",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/TPPPPAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-21 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/77893/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/262253/image",
+        "team1Title": "FC Badalona Women",
+        "team2Title": "Real Club Deportivo de A Coruña",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": false
     },
     {
