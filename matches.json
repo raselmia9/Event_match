@@ -171,42 +171,12 @@
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-21 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/86844/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/87354/image",
-        "team1Title": "Idaho Vandals",
-        "team2Title": "Cal State Bakersfield Roadrunners",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60563/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-21 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34628/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/86794/image",
-        "team1Title": "Illinois Fighting Illini",
-        "team2Title": "Eastern Illinois Panthers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60578/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-21 10:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/41207/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/66382/image",
         "team1Title": "St Mary's Gaels",
         "team2Title": "Saint Louis Billikens",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-21 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/34608/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/87340/image",
-        "team1Title": "North Carolina Tar Heels",
-        "team2Title": "Marshall Thundering Herd",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60576/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -1087,7 +1057,7 @@
         "team1Title": "Brisbane Roar",
         "team2Title": "Melbourne City",
         "streamLink": "TNT4UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | A-League Men",
@@ -1097,7 +1067,7 @@
         "team1Title": "Central Coast Mariners",
         "team2Title": "Perth Glory",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | A-League Women",
@@ -1107,7 +1077,7 @@
         "team1Title": "Sydney FC",
         "team2Title": "Canberra United",
         "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga F Moeve",
@@ -2071,6 +2041,26 @@
     },
     {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-21 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/86844/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/87354/image",
+        "team1Title": "Idaho Vandals",
+        "team2Title": "Cal State Bakersfield Roadrunners",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60563/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-21 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34628/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/86794/image",
+        "team1Title": "Illinois Fighting Illini",
+        "team2Title": "Eastern Illinois Panthers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60578/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-21 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/41219/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/49869/image",
@@ -2097,6 +2087,16 @@
         "team1Title": "Indiana Hoosiers",
         "team2Title": "Kentucky Wildcats",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60566/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-21 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/34608/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/87340/image",
+        "team1Title": "North Carolina Tar Heels",
+        "team2Title": "Marshall Thundering Herd",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60576/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
