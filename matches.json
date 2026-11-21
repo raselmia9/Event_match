@@ -90,6 +90,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "BASKETBALL | NBL",
+        "matchTime": "2026-11-21 12:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/400450/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3613/image",
+        "team1Title": "Tasmania Jackjumpers",
+        "team2Title": "Illawarra Hawks",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
         "eventTitle": "BASKETBALL | NCAA Men's Division I",
         "matchTime": "2026-11-21 10:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/41207/image",
@@ -127,16 +137,6 @@
         "team1Title": "Sydney FC",
         "team2Title": "Canberra United",
         "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Men",
-        "matchTime": "2026-11-21 10:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/800224/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5970/image",
-        "team1Title": "Auckland FC",
-        "team2Title": "Melbourne Victory",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": true
     },
     {
@@ -198,16 +198,6 @@
         "team2Title": "New Zealand Breakers",
         "streamLink": "",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBL",
-        "matchTime": "2026-11-21 12:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/400450/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3613/image",
-        "team1Title": "Tasmania Jackjumpers",
-        "team2Title": "Illawarra Hawks",
-        "streamLink": "",
-        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Cup",
@@ -2107,6 +2097,16 @@
         "team1Title": "Southern Methodist Mustangs",
         "team2Title": "South Alabama Jaguars",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60572/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Men",
+        "matchTime": "2026-11-21 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/800224/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5970/image",
+        "team1Title": "Auckland FC",
+        "team2Title": "Melbourne Victory",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "isHot": false
     },
     {
