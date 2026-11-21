@@ -101,16 +101,6 @@
     },
     {
         "eventTitle": "FOOTBALL | Liga MX, Apertura",
-        "matchTime": "2026-11-21 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1941/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1950/image",
-        "team1Title": "Club Puebla",
-        "team2Title": "Atlético San Luis",
-        "streamLink": "HD QUALITY,,https://live.vivo155.com/live/sd-1-4553939.m3u8?txSecret=c8ba5497a02f5cd6aafb2a3421e1f059&txTime=6B0102D8|Referer=https://player.on8on8.com/",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga MX, Apertura",
         "matchTime": "2026-11-21 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/36525/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/1943/image",
@@ -201,16 +191,6 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-21 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3424/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3433/image",
-        "team1Title": "Detroit Pistons",
-        "team2Title": "Toronto Raptors",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60548/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://chatgpt.hereisman.net/playlist/60559/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-21 09:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3427/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3413/image",
@@ -247,26 +227,6 @@
         "team1Title": "Utah Jazz",
         "team2Title": "Phoenix Suns",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/FHHHAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-21 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3419/image",
-        "team1Title": "Cleveland Cavaliers",
-        "team2Title": "Indiana Pacers",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60547/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA PASS FHD,,https://justpasstheball.online/live/indiana-pacers-vs-cleveland-cavaliers.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-21 06:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3436/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3437/image",
-        "team1Title": "Brooklyn Nets",
-        "team2Title": "Orlando Magic",
-        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60557/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA LIVE HD,,https://chatgpt.hereisman.net/playlist/60558/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA LIVE,,https://chatgpt.hereisman.net/playlist/60551/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -450,6 +410,956 @@
         "isHot": true
     },
     {
+        "eventTitle": "FOOTBALL | Premier League",
+        "matchTime": "2026-11-21 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/43/image",
+        "team1Title": "Manchester City",
+        "team2Title": "Fulham",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/40/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/41/image",
+        "team1Title": "Aston Villa",
+        "team2Title": "Sunderland",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/38/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/34/image",
+        "team1Title": "Chelsea",
+        "team2Title": "Leeds United",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/33/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/32/image",
+        "team1Title": "Tottenham Hotspur",
+        "team2Title": "Ipswich Town",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/11/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7/image",
+        "team1Title": "Coventry City",
+        "team2Title": "Crystal Palace",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Canadian Premier League",
+        "matchTime": "2026-11-22 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/309889/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/342076/image",
+        "team1Title": "Cavalry FC",
+        "team2Title": "Atlético Ottawa",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Premier League",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/60/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/14/image",
+        "team1Title": "Bournemouth",
+        "team2Title": "Nottingham Forest",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Premier League",
+        "matchTime": "2026-11-21 23:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/39/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/42/image",
+        "team1Title": "Newcastle United",
+        "team2Title": "Arsenal",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga",
+        "matchTime": "2026-11-22 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2829/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2821/image",
+        "team1Title": "Real Madrid",
+        "team2Title": "Celta Vigo",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga",
+        "matchTime": "2026-11-21 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2885/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2832/image",
+        "team1Title": "Deportivo Alavés",
+        "team2Title": "Deportivo de A Coruña",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga",
+        "matchTime": "2026-11-21 21:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2818/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2828/image",
+        "team1Title": "Rayo Vallecano",
+        "team2Title": "Valencia",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga",
+        "matchTime": "2026-11-21 23:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2833/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2816/image",
+        "team1Title": "Sevilla",
+        "team2Title": "Real Betis",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-22 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2822/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2826/image",
+        "team1Title": "CD Tenerife",
+        "team2Title": "Mallorca",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-21 21:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/24360/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4488/image",
+        "team1Title": "Real Sociedad B",
+        "team2Title": "Cádiz",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-22 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2850/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2851/image",
+        "team1Title": "Córdoba",
+        "team2Title": "Real Oviedo",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-21 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/24335/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/33779/image",
+        "team1Title": "CE Sabadell",
+        "team2Title": "Granada",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | LaLiga 2",
+        "matchTime": "2026-11-21 23:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5067/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/47321/image",
+        "team1Title": "CD Castellón",
+        "team2Title": "CD Eldense",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A",
+        "matchTime": "2026-11-22 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2714/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2696/image",
+        "team1Title": "SSC Napoli",
+        "team2Title": "Torino",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2699/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2689/image",
+        "team1Title": "Lazio",
+        "team2Title": "Lecce",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A",
+        "matchTime": "2026-11-21 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2690/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2702/image",
+        "team1Title": "Parma",
+        "team2Title": "AS Roma",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A Women",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/298858/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/269819/image",
+        "team1Title": "Milan",
+        "team2Title": "Sassuolo",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A Women",
+        "matchTime": "2026-11-21 17:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/424787/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/354947/image",
+        "team1Title": "Parma",
+        "team2Title": "Napoli",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2704/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2719/image",
+        "team1Title": "Como",
+        "team2Title": "Cagliari",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie B",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2711/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2759/image",
+        "team1Title": "Sampdoria",
+        "team2Title": "Benevento",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie B",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2707/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2722/image",
+        "team1Title": "Ascoli",
+        "team2Title": "L.R. Vicenza",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie B",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2745/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/43680/image",
+        "team1Title": "Carrarese",
+        "team2Title": "Virtus Entella",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie B",
+        "matchTime": "2026-11-21 22:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2796/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2715/image",
+        "team1Title": "Catanzaro",
+        "team2Title": "Palermo",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie B",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2760/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2761/image",
+        "team1Title": "Südtirol",
+        "team2Title": "Cremonese",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie B",
+        "matchTime": "2026-11-22 00:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2705/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2737/image",
+        "team1Title": "Empoli",
+        "team2Title": "Pisa",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie B",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2706/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5324/image",
+        "team1Title": "Modena",
+        "team2Title": "Juve Stabia",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Ligue 1",
+        "matchTime": "2026-11-22 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1643/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1649/image",
+        "team1Title": "LOSC Lille",
+        "team2Title": "Olympique Lyonnais",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Ligue 1",
+        "matchTime": "2026-11-22 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1659/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1715/image",
+        "team1Title": "RC Strasbourg",
+        "team2Title": "Stade Brestois",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Ligue 1",
+        "matchTime": "2026-11-22 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1653/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1646/image",
+        "team1Title": "AS Monaco",
+        "team2Title": "AJ Auxerre",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Ligue 1",
+        "matchTime": "2026-11-22 01:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1648/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1681/image",
+        "team1Title": "RC Lens",
+        "team2Title": "Toulouse",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Ligue 1",
+        "matchTime": "2026-11-21 22:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1661/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1644/image",
+        "team1Title": "OGC Nice",
+        "team2Title": "Paris Saint-Germain",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga 1 Te Apuesto",
+        "matchTime": "2026-11-22 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2311/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1082002/image",
+        "team1Title": "Alianza Lima",
+        "team2Title": "FC Cajamarca",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-22 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1963/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5981/image",
+        "team1Title": "Palmeiras",
+        "team2Title": "Flamengo",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-22 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1955/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1982/image",
+        "team1Title": "Bahia",
+        "team2Title": "Coritiba",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Campeonato Brasileiro Série A",
+        "matchTime": "2026-11-22 06:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/21845/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1954/image",
+        "team1Title": "Chapecoense",
+        "team2Title": "Cruzeiro",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | 2. Bundesliga",
+        "matchTime": "2026-11-22 01:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2526/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2542/image",
+        "team1Title": "FC St. Pauli",
+        "team2Title": "VfL Bochum 1848",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | 2. Bundesliga",
+        "matchTime": "2026-11-21 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2523/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2557/image",
+        "team1Title": "1. FC Nürnberg",
+        "team2Title": "Eintracht Braunschweig",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | 2. Bundesliga",
+        "matchTime": "2026-11-21 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2541/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2551/image",
+        "team1Title": "Hannover 96",
+        "team2Title": "SpVgg Greuther Fürth",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | 2. Bundesliga",
+        "matchTime": "2026-11-21 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2524/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2573/image",
+        "team1Title": "VfL Wolfsburg",
+        "team2Title": "Holstein Kiel",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Bundesliga",
+        "matchTime": "2026-11-21 23:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2530/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2677/image",
+        "team1Title": "FC Schalke 04",
+        "team2Title": "VfB Stuttgart",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Bundesliga",
+        "matchTime": "2026-11-21 20:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2674/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2569/image",
+        "team1Title": "Eintracht Frankfurt",
+        "team2Title": "TSG Hoffenheim",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Bundesliga",
+        "matchTime": "2026-11-21 20:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2598/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2538/image",
+        "team1Title": "SV 07 Elversberg",
+        "team2Title": "SC Freiburg",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Bundesliga",
+        "matchTime": "2026-11-21 20:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2527/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2673/image",
+        "team1Title": "Borussia M'gladbach",
+        "team2Title": "Borussia Dortmund",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Bundesliga",
+        "matchTime": "2026-11-21 20:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2681/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2561/image",
+        "team1Title": "Bayer 04 Leverkusen",
+        "team2Title": "SC Paderborn 07",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Bundesliga",
+        "matchTime": "2026-11-21 20:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2547/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/36360/image",
+        "team1Title": "1. FC Union Berlin",
+        "team2Title": "RB Leipzig",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Allsvenskan",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1783/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1892/image",
+        "team1Title": "Mjällby AIF",
+        "team2Title": "Malmö FF",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Allsvenskan",
+        "matchTime": "2026-11-21 18:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1836/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7101/image",
+        "team1Title": "Östersunds FK",
+        "team2Title": "Varbergs BoIS",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Allsvenskan",
+        "matchTime": "2026-11-21 22:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1786/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1775/image",
+        "team1Title": "GAIS",
+        "team2Title": "Västerås SK",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Allsvenskan",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1764/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1807/image",
+        "team1Title": "AIK",
+        "team2Title": "Degerfors IF",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 19:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1231931/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22593/image",
+        "team1Title": "Tanzania U17",
+        "team2Title": "Costa Rica U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22618/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22592/image",
+        "team1Title": "Japan U17",
+        "team2Title": "Colombia U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22478/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7764/image",
+        "team1Title": "Serbia U17",
+        "team2Title": "Honduras U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 20:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/316489/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22631/image",
+        "team1Title": "Dominican Republic U17",
+        "team2Title": "Montenegro U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22586/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22476/image",
+        "team1Title": "Brazil U17",
+        "team2Title": "Ireland U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 21:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/48830/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/37321/image",
+        "team1Title": "Chile U17",
+        "team2Title": "Algeria U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 21:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/22629/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/22645/image",
+        "team1Title": "Mexico U17",
+        "team2Title": "Romania U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | U17 World Championship",
+        "matchTime": "2026-11-21 19:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/313112/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/48841/image",
+        "team1Title": "Cameroon U17",
+        "team2Title": "Venezuela U17",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | VriendenLoterij Eredivisie",
+        "matchTime": "2026-11-21 21:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2962/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2952/image",
+        "team1Title": "NEC Nijmegen",
+        "team2Title": "PSV Eindhoven",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | VriendenLoterij Eredivisie",
+        "matchTime": "2026-11-21 23:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2959/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2967/image",
+        "team1Title": "Feyenoord",
+        "team2Title": "Excelsior",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | VriendenLoterij Eredivisie",
+        "matchTime": "2026-11-21 23:45:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2948/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2970/image",
+        "team1Title": "FC Utrecht",
+        "team2Title": "SC Cambuur",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | VriendenLoterij Eredivisie",
+        "matchTime": "2026-11-22 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2972/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2971/image",
+        "team1Title": "SC Telstar",
+        "team2Title": "PEC Zwolle",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | VriendenLoterij Eredivisie",
+        "matchTime": "2026-11-22 02:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/2951/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2964/image",
+        "team1Title": "FC Groningen",
+        "team2Title": "SC Heerenveen",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga de Primera",
+        "matchTime": "2026-11-22 05:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5034/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/7029/image",
+        "team1Title": "Universidad de Concepción",
+        "team2Title": "Ñublense",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/35177/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/36365/image",
+        "team1Title": "Atletico CP",
+        "team2Title": "Casa Pia",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4500/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3030/image",
+        "team1Title": "Estoril Praia",
+        "team2Title": "Felgueiras",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga de Primera",
+        "matchTime": "2026-11-22 03:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3163/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3161/image",
+        "team1Title": "O'Higgins",
+        "team2Title": "Universidad de Chile",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/483088/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/38396/image",
+        "team1Title": "AVS - Futebol SAD",
+        "team2Title": "Tondela",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 20:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/38744/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/25777/image",
+        "team1Title": "CD Mafra",
+        "team2Title": "FC Arouca",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 23:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3007/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3025/image",
+        "team1Title": "CS Marítimo",
+        "team2Title": "Chaves",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-22 02:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3009/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2999/image",
+        "team1Title": "Vitória SC",
+        "team2Title": "Sporting Braga",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga de Primera",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3165/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5032/image",
+        "team1Title": "Coquimbo Unido",
+        "team2Title": "Everton de Viña del Mar",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-22 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3001/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/371617/image",
+        "team1Title": "Sporting CP",
+        "team2Title": "União Desportiva da Serra",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Men",
+        "matchTime": "2026-11-21 14:40:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5968/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5971/image",
+        "team1Title": "Brisbane Roar",
+        "team2Title": "Sydney FC",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Women",
+        "matchTime": "2026-11-21 11:50:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/174078/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/207680/image",
+        "team1Title": "Brisbane Roar",
+        "team2Title": "Melbourne City",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Men",
+        "matchTime": "2026-11-21 12:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5966/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2945/image",
+        "team1Title": "Central Coast Mariners",
+        "team2Title": "Perth Glory",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Women",
+        "matchTime": "2026-11-21 12:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/174106/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/174098/image",
+        "team1Title": "Sydney FC",
+        "team2Title": "Canberra United",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Men",
+        "matchTime": "2026-11-21 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/800224/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5970/image",
+        "team1Title": "Auckland FC",
+        "team2Title": "Melbourne Victory",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-21 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/77893/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/262253/image",
+        "team1Title": "FC Badalona Women",
+        "team2Title": "Real Club Deportivo de A Coruña",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-21 22:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/362904/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/77879/image",
+        "team1Title": "SD Eibar",
+        "team2Title": "Club Atlético de Madrid",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-22 00:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/861598/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/388473/image",
+        "team1Title": "Logroño United",
+        "team2Title": "Deportivo Alavés",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/37/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/21/image",
+        "team1Title": "West Ham United",
+        "team2Title": "Preston North End",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/29/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/9/image",
+        "team1Title": "Stoke City",
+        "team2Title": "Birmingham City",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/45/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/27/image",
+        "team1Title": "Southampton",
+        "team2Title": "Derby County",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/47/image",
+        "team1Title": "Wolverhampton",
+        "team2Title": "Charlton Athletic",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/74/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/8/image",
+        "team1Title": "Swansea City",
+        "team2Title": "West Bromwich Albion",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/36/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/58/image",
+        "team1Title": "Middlesbrough",
+        "team2Title": "Bristol City",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2/image",
+        "team1Title": "Bolton Wanderers",
+        "team2Title": "Portsmouth",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/263/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/61/image",
+        "team1Title": "Norwich City",
+        "team2Title": "Cardiff City",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/92/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/64/image",
+        "team1Title": "Lincoln City",
+        "team2Title": "Wrexham",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 18:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/25/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1/image",
+        "team1Title": "Millwall",
+        "team2Title": "Queens Park Rangers",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Championship",
+        "matchTime": "2026-11-21 21:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/15/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/24/image",
+        "team1Title": "Sheffield United",
+        "team2Title": "Watford",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": false
+    },
+    {
         "eventTitle": "BOXING | One Friday Fights",
         "matchTime": "2026-11-20 18:04:00",
         "team1Logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -520,6 +1430,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | Liga MX, Apertura",
+        "matchTime": "2026-11-21 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1941/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1950/image",
+        "team1Title": "Club Puebla",
+        "team2Title": "Atlético San Luis",
+        "streamLink": "HD QUALITY,,https://live.vivo155.com/live/sd-1-4553939.m3u8?txSecret=c8ba5497a02f5cd6aafb2a3421e1f059&txTime=6B0102D8|Referer=https://player.on8on8.com/",
+        "isHot": false
+    },
+    {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-21 05:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4309/image",
@@ -531,12 +1451,42 @@
     },
     {
         "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-21 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3424/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3433/image",
+        "team1Title": "Detroit Pistons",
+        "team2Title": "Toronto Raptors",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60548/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://chatgpt.hereisman.net/playlist/60559/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-21 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3432/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3419/image",
+        "team1Title": "Cleveland Cavaliers",
+        "team2Title": "Indiana Pacers",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60547/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA PASS FHD,,https://justpasstheball.online/live/indiana-pacers-vs-cleveland-cavaliers.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-21 06:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3423/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3430/image",
         "team1Title": "Atlanta Hawks",
         "team2Title": "Charlotte Hornets",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60545/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA PASS FHD,,https://fernfiber.s3.ca-central-1.amazonaws.com/hornets.m3u8,) ATALANTA Live HD,,https://justpasstheball.online/live/charlotte-hornets-vs-atlanta-hawks.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-21 06:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3436/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3437/image",
+        "team1Title": "Brooklyn Nets",
+        "team2Title": "Orlando Magic",
+        "streamLink": "TSN1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d,) TSN5 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8,) STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60557/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA LIVE HD,,https://chatgpt.hereisman.net/playlist/60558/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA LIVE,,https://chatgpt.hereisman.net/playlist/60551/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
     },
     {
