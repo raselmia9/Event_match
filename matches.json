@@ -197,7 +197,7 @@
         "team1Title": "Hong Kong",
         "team2Title": "Tonga",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "Premiership Rugby Cup",
@@ -967,7 +967,7 @@
         "team1Title": "Brisbane Roar",
         "team2Title": "Sydney FC",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga F Moeve",
