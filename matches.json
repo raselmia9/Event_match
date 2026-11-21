@@ -50,6 +50,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | Nepal Premier League",
+        "matchTime": "2026-11-21 17:15:00",
+        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+        "team1Title": "NPL",
+        "team2Title": "NPL",
+        "streamLink": "FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) NPL LIVE FHD,,https://ott-lb.nettv.com.np/npl/live_match/index.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) STAR SPORTS HD,,http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8,) SD SERVER,,http://162.251.160.53:8089/NPLT20/index.m3u8,) FANCODE SD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) STAR SPORTS HD,,https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8,) FANCODE (IND),,https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | T20 International",
         "matchTime": "2026-11-21 14:15:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
@@ -60,16 +70,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NBL",
-        "matchTime": "2026-11-21 14:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3608/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/122090/image",
-        "team1Title": "Melbourne United",
-        "team2Title": "New Zealand Breakers",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DEEEEQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
         "eventTitle": "RUGBY | Nations Cup",
         "matchTime": "2026-11-21 15:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/1087211/image",
@@ -77,6 +77,16 @@
         "team1Title": "Hong Kong",
         "team2Title": "Tonga",
         "streamLink": "STREAM TV + HD,,http://193.47.62.41/hls/BBBBt.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/BBBBt.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Serie A Women",
+        "matchTime": "2026-11-21 17:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/424787/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/354947/image",
+        "team1Title": "Parma",
+        "team2Title": "Napoli",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": true
     },
     {
@@ -117,7 +127,7 @@
         "team1Title": "Fulham",
         "team2Title": "Manchester City",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) FUBO SPORTS ALT,,https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1,) SKY SPORTS EPL - FHD,,https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=,) PREMIER LEAGUE+ HD,,https://chatgpt.hereisman.net/playlist/59121/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net,) beIN ARABIC FHD,,https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?|Referer=https://www.arena-koora.online/,) SKY SPORTS ACTION - FHD,,https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "OTHER | Snooker",
@@ -128,16 +138,6 @@
         "team2Title": "Snooker",
         "streamLink": "TNT3UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca,) ITV4 (SD USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd,) TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b,) TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/WJJJJJ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
-    },
-    {
-        "eventTitle": "CRICKET | Nepal Premier League",
-        "matchTime": "2026-11-21 17:15:00",
-        "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "team2Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-        "team1Title": "NPL",
-        "team2Title": "NPL",
-        "streamLink": "FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) NPL LIVE FHD,,https://ott-lb.nettv.com.np/npl/live_match/index.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) STAR SPORTS HD,,http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8,) SD SERVER,,http://162.251.160.53:8089/NPLT20/index.m3u8,) FANCODE SD,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|drmScheme=clearkey&drmLicense=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f,) FANCODE2 FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) STAR SPORTS HD,,https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8,) FANCODE (IND),,https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8|Referer=https://fancode.com/",
-        "isHot": true
     },
     {
         "eventTitle": "CRICKET | One Day International",
@@ -378,16 +378,6 @@
         "team2Title": "Sassuolo",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Serie A Women",
-        "matchTime": "2026-11-21 17:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/424787/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/354947/image",
-        "team1Title": "Parma",
-        "team2Title": "Napoli",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Serie A",
@@ -717,7 +707,7 @@
         "team1Title": "Japan U17",
         "team2Title": "Colombia U17",
         "streamLink": "FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -727,7 +717,7 @@
         "team1Title": "Serbia U17",
         "team2Title": "Honduras U17",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | U17 World Championship",
@@ -967,7 +957,7 @@
         "team1Title": "Southampton",
         "team2Title": "Derby County",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Championship",
@@ -1017,7 +1007,7 @@
         "team1Title": "Norwich City",
         "team2Title": "Cardiff City",
         "streamLink": "CBS SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Championship",
@@ -1037,7 +1027,7 @@
         "team1Title": "Millwall",
         "team2Title": "Queens Park Rangers",
         "streamLink": "BEIN3 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Championship",
@@ -1317,7 +1307,7 @@
         "team1Title": "Blackpool",
         "team2Title": "Wigan Athletic",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | League One",
@@ -1327,7 +1317,7 @@
         "team1Title": "Reading",
         "team2Title": "Bromley",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | League One",
@@ -2567,6 +2557,16 @@
         "team1Title": "BBL Women's",
         "team2Title": "BBL Women's",
         "streamLink": "WILLOW SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayibqpy7eg/out/v1/fe38511af6f54d7db4ba768f02ba106b/cenc.mpd?|drmScheme=clearkey&drmLicense=9182aacd8a009ac915fc6c53e13c8223:f7d76ec4abba54f282b5647142603b17,) FANCODE FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) WILLOW CRICBUZZ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) WILLOW FHD ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd|drmScheme=clearkey&drmLicense=4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBL",
+        "matchTime": "2026-11-21 14:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3608/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/122090/image",
+        "team1Title": "Melbourne United",
+        "team2Title": "New Zealand Breakers",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/DEEEEQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
