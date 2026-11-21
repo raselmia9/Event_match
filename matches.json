@@ -70,6 +70,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | BBL Women's",
+        "matchTime": "2026-11-21 07:00:00",
+        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "team1Title": "BBL Women's",
+        "team2Title": "BBL Women's",
+        "streamLink": "WILLOW SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd|drmScheme=clearkey&drmLicense=4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1,) FANCODE FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) WILLOW CRICBUZZ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) WILLOW FHD ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd|drmScheme=clearkey&drmLicense=4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1",
+        "isHot": true
+    },
+    {
         "eventTitle": "FOOTBALL | Liga Profesional de Fútbol",
         "matchTime": "2026-11-21 05:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3208/image",
@@ -87,6 +97,26 @@
         "team1Title": "Palestino",
         "team2Title": "Unión La Calera",
         "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga MX, Apertura",
+        "matchTime": "2026-11-21 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/1941/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1950/image",
+        "team1Title": "Club Puebla",
+        "team2Title": "Atlético San Luis",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-21 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4338/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/47372/image",
+        "team1Title": "Michigan State Spartans",
+        "team2Title": "Oregon Ducks",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -111,6 +141,16 @@
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-21 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4334/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4367/image",
+        "team1Title": "Air Force Falcons",
+        "team2Title": "UTEP Miners",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-21 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4296/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4308/image",
@@ -126,6 +166,26 @@
         "team2Logo": "https://img.sofascore.com/api/v1/team/3433/image",
         "team1Title": "Detroit Pistons",
         "team2Title": "Toronto Raptors",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-21 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3418/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5539/image",
+        "team1Title": "Oklahoma City Thunder",
+        "team2Title": "New Orleans Pelicans",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-21 07:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3409/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3431/image",
+        "team1Title": "Chicago Bulls",
+        "team2Title": "Washington Wizards",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
@@ -200,16 +260,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "CRICKET | BBL Women's",
-        "matchTime": "2026-11-21 07:00:00",
-        "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team2Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "team1Title": "BBL Women's",
-        "team2Title": "BBL Women's",
-        "streamLink": "WILLOW SPORTS FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd|drmScheme=clearkey&drmLicense=4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1,) FANCODE FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) WILLOW CRICBUZZ,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) WILLOW FHD ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd|drmScheme=clearkey&drmLicense=4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | Premier League",
         "matchTime": "2026-11-21 18:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/17/image",
@@ -218,16 +268,6 @@
         "team2Title": "Fulham",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SKY SPORTS EPL FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|drmScheme=clearkey&drmLicense=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f,) SKY SPORTS MIX FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|drmScheme=clearkey&drmLicense=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0,) FUBO SPORTS ALT,,https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|drmScheme=clearkey&drmLicense=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga MX, Apertura",
-        "matchTime": "2026-11-21 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/1941/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1950/image",
-        "team1Title": "Club Puebla",
-        "team2Title": "Atlético San Luis",
-        "streamLink": "",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga MX, Apertura",
@@ -248,16 +288,6 @@
         "team2Title": "Atlas FC",
         "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
         "isHot": false
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-21 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4338/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/47372/image",
-        "team1Title": "Michigan State Spartans",
-        "team2Title": "Oregon Ducks",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "AUSSIE RULES | AFL, Women",
@@ -281,23 +311,13 @@
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-21 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4334/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4367/image",
-        "team1Title": "Air Force Falcons",
-        "team2Title": "UTEP Miners",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-21 08:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4347/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/4384/image",
         "team1Title": "Wyoming Cowboys",
         "team2Title": "New Mexico Lobos",
         "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
@@ -318,26 +338,6 @@
         "team2Title": "Sacramento Kings",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-21 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3418/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5539/image",
-        "team1Title": "Oklahoma City Thunder",
-        "team2Title": "New Orleans Pelicans",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-21 07:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3409/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3431/image",
-        "team1Title": "Chicago Bulls",
-        "team2Title": "Washington Wizards",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
     },
     {
         "eventTitle": "BASKETBALL | NBA",
