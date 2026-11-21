@@ -100,16 +100,6 @@
         "isHot": true
     },
     {
-        "eventTitle": "BASKETBALL | NCAA Men's Division I",
-        "matchTime": "2026-11-21 10:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/41207/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/66382/image",
-        "team1Title": "St Mary's Gaels",
-        "team2Title": "Saint Louis Billikens",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
         "eventTitle": "FOOTBALL | A-League Women",
         "matchTime": "2026-11-21 11:50:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/174078/image",
@@ -2047,6 +2037,16 @@
         "team1Title": "Illinois Fighting Illini",
         "team2Title": "Eastern Illinois Panthers",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60578/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NCAA Men's Division I",
+        "matchTime": "2026-11-21 10:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/41207/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/66382/image",
+        "team1Title": "St Mary's Gaels",
+        "team2Title": "Saint Louis Billikens",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": false
     },
     {
