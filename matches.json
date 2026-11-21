@@ -60,6 +60,16 @@
         "isHot": true
     },
     {
+        "eventTitle": "CRICKET | T20 International",
+        "matchTime": "2026-11-21 14:15:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
+        "team1Title": "Australia",
+        "team2Title": "England",
+        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd|drmScheme=clearkey&drmLicense=ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd|drmScheme=clearkey&drmLicense=ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE SD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8|Referer=http://www.fawanews.sc/,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "isHot": true
+    },
+    {
         "eventTitle": "CRICKET | BBL Women's",
         "matchTime": "2026-11-21 07:00:00",
         "team1Logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
@@ -91,42 +101,22 @@
     },
     {
         "eventTitle": "BASKETBALL | NBL",
+        "matchTime": "2026-11-21 14:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3608/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/122090/image",
+        "team1Title": "Melbourne United",
+        "team2Title": "New Zealand Breakers",
+        "streamLink": "",
+        "isHot": true
+    },
+    {
+        "eventTitle": "BASKETBALL | NBL",
         "matchTime": "2026-11-21 12:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/400450/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3613/image",
         "team1Title": "Tasmania Jackjumpers",
         "team2Title": "Illawarra Hawks",
         "streamLink": "",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Women",
-        "matchTime": "2026-11-21 11:50:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/174078/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/207680/image",
-        "team1Title": "Brisbane Roar",
-        "team2Title": "Melbourne City",
-        "streamLink": "TNT4UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Men",
-        "matchTime": "2026-11-21 12:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5966/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/2945/image",
-        "team1Title": "Central Coast Mariners",
-        "team2Title": "Perth Glory",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | A-League Women",
-        "matchTime": "2026-11-21 12:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/174106/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/174098/image",
-        "team1Title": "Sydney FC",
-        "team2Title": "Canberra United",
-        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "isHot": true
     },
     {
@@ -150,16 +140,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "CRICKET | T20 International",
-        "matchTime": "2026-11-21 14:15:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/187746/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/187757/image",
-        "team1Title": "Australia",
-        "team2Title": "England",
-        "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/qqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "isHot": true
-    },
-    {
         "eventTitle": "AMERICAN FOOTBALL | College GameDay",
         "matchTime": "2026-11-21 18:00:00",
         "team1Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
@@ -178,16 +158,6 @@
         "team2Title": "Bangladesh",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) SKY SPORTS CRICKET,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835,) T SPORTS HD,,https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|drmScheme=clearkey&drmLicense=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/RREGEGEAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
-    },
-    {
-        "eventTitle": "BASKETBALL | NBL",
-        "matchTime": "2026-11-21 14:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3608/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/122090/image",
-        "team1Title": "Melbourne United",
-        "team2Title": "New Zealand Breakers",
-        "streamLink": "",
-        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Cup",
@@ -2097,6 +2067,36 @@
         "team1Title": "Southern Methodist Mustangs",
         "team2Title": "South Alabama Jaguars",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60572/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Women",
+        "matchTime": "2026-11-21 11:50:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/174078/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/207680/image",
+        "team1Title": "Brisbane Roar",
+        "team2Title": "Melbourne City",
+        "streamLink": "TNT4UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Men",
+        "matchTime": "2026-11-21 12:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5966/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/2945/image",
+        "team1Title": "Central Coast Mariners",
+        "team2Title": "Perth Glory",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Women",
+        "matchTime": "2026-11-21 12:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/174106/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/174098/image",
+        "team1Title": "Sydney FC",
+        "team2Title": "Canberra United",
+        "streamLink": "TNT2UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "isHot": false
     },
     {
