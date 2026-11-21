@@ -157,7 +157,7 @@
         "team1Title": "Australia",
         "team2Title": "England",
         "streamLink": "WILLOW FHD,,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) TNT SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) WILLOW ALT,,https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd|drmScheme=clearkey&drmLicense=205451a6cd81dce284519a33dd57a1db:2dcfd1bbf6616d09b01d969efa0658a6,) SKY CRICKET FHD,,https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https,) WILLOW HD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247,) FANCODE FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca,) EUROSPORT FHD,,https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd|drmScheme=clearkey&drmLicense=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814,) LOW QUALITY (USE VPN),,http://193.47.62.44/hls/qqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "AMERICAN FOOTBALL | College GameDay",
@@ -187,7 +187,7 @@
         "team1Title": "Melbourne United",
         "team2Title": "New Zealand Breakers",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Cup",
