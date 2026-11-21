@@ -80,13 +80,23 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | A-League Men",
-        "matchTime": "2026-11-21 14:40:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/5968/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/5971/image",
-        "team1Title": "Brisbane Roar",
-        "team2Title": "Sydney FC",
-        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/TPPPPAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "eventTitle": "FOOTBALL | Taça de Portugal",
+        "matchTime": "2026-11-21 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/35177/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/36365/image",
+        "team1Title": "Atletico CP",
+        "team2Title": "Casa Pia",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
+        "isHot": true
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga F Moeve",
+        "matchTime": "2026-11-21 17:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/77893/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/262253/image",
+        "team1Title": "FC Badalona Women",
+        "team2Title": "Real Club Deportivo de A Coruña",
+        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": true
     },
     {
@@ -147,7 +157,7 @@
         "team1Title": "College GameDay",
         "team2Title": "College GameDay",
         "streamLink": "Link 1,,https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "CRICKET | ICC World Test Championship",
@@ -167,7 +177,7 @@
         "team1Title": "Saracens",
         "team2Title": "Harlequin FC",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Premier League",
@@ -567,7 +577,7 @@
         "team1Title": "1. FC Nürnberg",
         "team2Title": "Eintracht Braunschweig",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | 2. Bundesliga",
@@ -577,7 +587,7 @@
         "team1Title": "Hannover 96",
         "team2Title": "SpVgg Greuther Fürth",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | 2. Bundesliga",
@@ -587,7 +597,7 @@
         "team1Title": "VfL Wolfsburg",
         "team2Title": "Holstein Kiel",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Bundesliga",
@@ -667,7 +677,7 @@
         "team1Title": "Östersunds FK",
         "team2Title": "Varbergs BoIS",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Allsvenskan",
@@ -831,16 +841,6 @@
     },
     {
         "eventTitle": "FOOTBALL | Taça de Portugal",
-        "matchTime": "2026-11-21 17:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/35177/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/36365/image",
-        "team1Title": "Atletico CP",
-        "team2Title": "Casa Pia",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Taça de Portugal",
         "matchTime": "2026-11-21 22:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4500/image",
         "team2Logo": "https://img.sofascore.com/api/v1/team/3030/image",
@@ -918,16 +918,6 @@
         "team2Title": "União Desportiva da Serra",
         "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
         "isHot": false
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga F Moeve",
-        "matchTime": "2026-11-21 17:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/77893/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/262253/image",
-        "team1Title": "FC Badalona Women",
-        "team2Title": "Real Club Deportivo de A Coruña",
-        "streamLink": "STREAM TV + HD,,https://file.genoads.com/ch1.m3u8",
-        "isHot": true
     },
     {
         "eventTitle": "FOOTBALL | Liga F Moeve",
@@ -2597,6 +2587,16 @@
         "team1Title": "Primera A",
         "team2Title": "Primera A",
         "streamLink": "Link 1,,http://193.47.62.41/hls/A555A.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | A-League Men",
+        "matchTime": "2026-11-21 14:40:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/5968/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/5971/image",
+        "team1Title": "Brisbane Roar",
+        "team2Title": "Sydney FC",
+        "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) SportDigital FussBall,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/TPPPPAAAAQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
