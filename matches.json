@@ -100,23 +100,13 @@
         "isHot": true
     },
     {
-        "eventTitle": "FOOTBALL | Liga MX, Apertura",
-        "matchTime": "2026-11-21 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/36525/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1943/image",
-        "team1Title": "Club Tijuana",
-        "team2Title": "Atlante FC",
-        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QRRRQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "FOOTBALL | Liga MX, Apertura",
-        "matchTime": "2026-11-21 09:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/201624/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/1949/image",
-        "team1Title": "FC Juárez",
-        "team2Title": "Atlas FC",
-        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QRRRQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "eventTitle": "AUSSIE RULES | AFL, Women",
+        "matchTime": "2026-11-21 11:05:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/245150/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/245028/image",
+        "team1Title": "Melbourne Demons",
+        "team2Title": "Carlton Blues",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
         "isHot": true
     },
     {
@@ -127,16 +117,6 @@
         "team1Title": "North Melbourne",
         "team2Title": "Sydney Swans",
         "streamLink": "TNT1UK SPORTS FHD,,https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749,) TSN2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0,) FOX2 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "isHot": true
-    },
-    {
-        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
-        "matchTime": "2026-11-21 08:00:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/4347/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/4384/image",
-        "team1Title": "Wyoming Cowboys",
-        "team2Title": "New Mexico Lobos",
-        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60577/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -157,16 +137,6 @@
         "team1Title": "Los Angeles Lakers",
         "team2Title": "Sacramento Kings",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60584/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBAPASS Live FHD,,https://justpasstheball.online/live/sacramento-kings-vs-los-angeles-lakers.m3u8,) LOW QUALITY (USE VPN),,http://193.47.62.55/hls/UPPPAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
-        "isHot": true
-    },
-    {
-        "eventTitle": "BASKETBALL | NBA",
-        "matchTime": "2026-11-21 08:30:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/3434/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
-        "team1Title": "Utah Jazz",
-        "team2Title": "Phoenix Suns",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/FHHHAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": true
     },
     {
@@ -240,16 +210,6 @@
         "isHot": false
     },
     {
-        "eventTitle": "AUSSIE RULES | AFL, Women",
-        "matchTime": "2026-11-21 11:05:00",
-        "team1Logo": "https://img.sofascore.com/api/v1/team/245150/image",
-        "team2Logo": "https://img.sofascore.com/api/v1/team/245028/image",
-        "team1Title": "Melbourne Demons",
-        "team2Title": "Carlton Blues",
-        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net",
-        "isHot": true
-    },
-    {
         "eventTitle": "BASKETBALL | NBL",
         "matchTime": "2026-11-21 14:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3608/image",
@@ -267,7 +227,7 @@
         "team1Title": "Tasmania Jackjumpers",
         "team2Title": "Illawarra Hawks",
         "streamLink": "",
-        "isHot": false
+        "isHot": true
     },
     {
         "eventTitle": "RUGBY | Nations Cup",
@@ -1920,6 +1880,26 @@
         "isHot": false
     },
     {
+        "eventTitle": "FOOTBALL | Liga MX, Apertura",
+        "matchTime": "2026-11-21 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/36525/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1943/image",
+        "team1Title": "Club Tijuana",
+        "team2Title": "Atlante FC",
+        "streamLink": "LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QRRRQQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
+        "eventTitle": "FOOTBALL | Liga MX, Apertura",
+        "matchTime": "2026-11-21 09:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/201624/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/1949/image",
+        "team1Title": "FC Juárez",
+        "team2Title": "Atlas FC",
+        "streamLink": "FOX DEPORTES FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/QRRRQ.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
         "matchTime": "2026-11-21 07:00:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/4338/image",
@@ -1970,6 +1950,16 @@
         "isHot": false
     },
     {
+        "eventTitle": "AMERICAN FOOTBALL | NCAA Division FBS",
+        "matchTime": "2026-11-21 08:00:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/4347/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/4384/image",
+        "team1Title": "Wyoming Cowboys",
+        "team2Title": "New Mexico Lobos",
+        "streamLink": "FOX1 SPORTS FHD,,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16,) SERVER + LIVE,,https://chatgpt.hereisman.net/playlist/60577/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.41/hls/BBBBAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
+        "isHot": false
+    },
+    {
         "eventTitle": "BASKETBALL | NBA",
         "matchTime": "2026-11-21 06:30:00",
         "team1Logo": "https://img.sofascore.com/api/v1/team/3424/image",
@@ -1997,6 +1987,16 @@
         "team1Title": "Chicago Bulls",
         "team2Title": "Washington Wizards",
         "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist/60569/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) HD QUALITY,,https://chatgpt.hereisman.net/playlist/60555/load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) NBA LEAGUEPASS FHD,,https://justpasstheball.online/live/washington-wizards-vs-chicago-bulls.m3u8",
+        "isHot": false
+    },
+    {
+        "eventTitle": "BASKETBALL | NBA",
+        "matchTime": "2026-11-21 08:30:00",
+        "team1Logo": "https://img.sofascore.com/api/v1/team/3434/image",
+        "team2Logo": "https://img.sofascore.com/api/v1/team/3416/image",
+        "team1Title": "Utah Jazz",
+        "team2Title": "Phoenix Suns",
+        "streamLink": "STREAM TV + HD,,https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8|Referer=https://gooz.aapmains.net,) LOW QUALITY (USE VPN),,http://193.47.62.59/hls/FHHHAA.m3u8|Referer=https://nadia01eo.tn76degree12ec3out.cfd",
         "isHot": false
     },
     {
